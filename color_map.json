@@ -1,0 +1,15 @@
+{
+    "Heizöl": "#D22B2B",
+    "Gas": "#d16969",
+    "Luft": "#339933",
+    "Holz": "#429942",
+    "Geothermie": "#519951",
+    "Fernwärme": "#609960",
+    "Sonne": "#81ab81",
+    "Wasser": "#9bb599",
+    "Elektrizität": "#0000FF",
+    "Keine": "#FFFF00",
+    "Weitere": "#FF9900",
+    "Erneuerbare Energieträger": "#339933",
+    "Fossile Energieträger": "#D22B2B"
+}
