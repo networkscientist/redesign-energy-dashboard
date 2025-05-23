@@ -1,0 +1,336 @@
+,Gemeindename,BFS Gde-nummer
+0,Aarberg,301
+1,Bargen (BE),302
+2,Grossaffoltern,303
+3,Kallnach,304
+4,Kappelen,305
+5,Lyss,306
+6,Meikirch,307
+7,Radelfingen,309
+8,Rapperswil (BE),310
+9,Schüpfen,311
+10,Seedorf (BE),312
+11,Aarwangen,321
+12,Auswil,322
+13,Bannwil,323
+14,Bleienbach,324
+15,Busswil bei Melchnau,325
+16,Gondiswil,326
+17,Langenthal,329
+18,Lotzwil,331
+19,Madiswil,332
+20,Melchnau,333
+21,Oeschenbach,335
+22,Reisiswil,336
+23,Roggwil (BE),337
+24,Rohrbach,338
+25,Rohrbachgraben,339
+26,Rütschelen,340
+27,Schwarzhäusern,341
+28,Thunstetten,342
+29,Ursenbach,344
+30,Wynau,345
+31,Bern,351
+32,Bolligen,352
+33,Bremgarten bei Bern,353
+34,Kirchlindach,354
+35,Köniz,355
+36,Muri bei Bern,356
+37,Oberbalm,357
+38,Stettlen,358
+39,Vechigen,359
+40,Wohlen bei Bern,360
+41,Zollikofen,361
+42,Ittigen,362
+43,Ostermundigen,363
+44,Biel/Bienne,371
+45,Evilard,372
+46,Arch,381
+47,Büetigen,382
+48,Büren an der Aare,383
+49,Diessbach bei Büren,385
+50,Dotzigen,386
+51,Lengnau (BE),387
+52,Leuzigen,388
+53,Meienried,389
+54,Meinisberg,390
+55,Oberwil bei Büren,391
+56,Pieterlen,392
+57,Rüti bei Büren,393
+58,Wengi,394
+59,Aefligen,401
+60,Alchenstorf,402
+61,Bäriswil,403
+62,Burgdorf,404
+63,Ersigen,405
+64,Hasle bei Burgdorf,406
+65,Heimiswil,407
+66,Hellsau,408
+67,Hindelbank,409
+68,Höchstetten,410
+69,Kernenried,411
+70,Kirchberg (BE),412
+71,Koppigen,413
+72,Krauchthal,414
+73,Lyssach,415
+74,Oberburg,418
+75,Rüdtligen-Alchenflüh,420
+76,Rumendingen,421
+77,Rüti bei Lyssach,422
+78,Willadingen,423
+79,Wynigen,424
+80,Corgémont,431
+81,Cormoret,432
+82,Cortébert,433
+83,Courtelary,434
+84,La Ferrière,435
+85,Mont-Tramelan,437
+86,Orvin,438
+87,Renan (BE),441
+88,Romont (BE),442
+89,Saint-Imier,443
+90,Sonceboz-Sombeval,444
+91,Sonvilier,445
+92,Tramelan,446
+93,Villeret,448
+94,Sauge,449
+95,Péry-La Heutte,450
+96,Brüttelen,491
+97,Erlach,492
+98,Finsterhennen,493
+99,Gals,494
+100,Gampelen,495
+101,Ins,496
+102,Lüscherz,497
+103,Müntschemier,498
+104,Siselen,499
+105,Treiten,500
+106,Tschugg,501
+107,Vinelz,502
+108,Bätterkinden,533
+109,Deisswil bei Münchenbuchsee,535
+110,Fraubrunnen,538
+111,Jegenstorf,540
+112,Iffwil,541
+113,Mattstetten,543
+114,Moosseedorf,544
+115,Münchenbuchsee,546
+116,Urtenen-Schönbühl,551
+117,Utzenstorf,552
+118,Wiggiswil,553
+119,Wiler bei Utzenstorf,554
+120,Zielebach,556
+121,Zuzwil (BE),557
+122,Adelboden,561
+123,Aeschi bei Spiez,562
+124,Frutigen,563
+125,Kandergrund,564
+126,Kandersteg,565
+127,Krattigen,566
+128,Reichenbach im Kandertal,567
+129,Beatenberg,571
+130,Bönigen,572
+131,Brienz (BE),573
+132,Brienzwiler,574
+133,Därligen,575
+134,Grindelwald,576
+135,Gsteigwiler,577
+136,Gündlischwand,578
+137,Habkern,579
+138,Hofstetten bei Brienz,580
+139,Interlaken,581
+140,Iseltwald,582
+141,Lauterbrunnen,584
+142,Leissigen,585
+143,Lütschental,586
+144,Matten bei Interlaken,587
+145,Niederried bei Interlaken,588
+146,Oberried am Brienzersee,589
+147,Ringgenberg (BE),590
+148,Saxeten,591
+149,Schwanden bei Brienz,592
+150,Unterseen,593
+151,Wilderswil,594
+152,Arni (BE),602
+153,Biglen,603
+154,Bowil,605
+155,Brenzikofen,606
+156,Freimettigen,607
+157,Grosshöchstetten,608
+158,Häutligen,609
+159,Herbligen,610
+160,Kiesen,611
+161,Konolfingen,612
+162,Landiswil,613
+163,Linden,614
+164,Mirchel,615
+165,Münsingen,616
+166,Niederhünigen,617
+167,Oberdiessbach,619
+168,Oberthal,620
+169,Oppligen,622
+170,Rubigen,623
+171,Walkringen,626
+172,Worb,627
+173,Zäziwil,628
+174,Oberhünigen,629
+175,Allmendingen,630
+176,Wichtrach,632
+177,Ferenbalm,662
+178,Frauenkappelen,663
+179,Gurbrü,665
+180,Kriechenwil,666
+181,Laupen,667
+182,Mühleberg,668
+183,Münchenwiler,669
+184,Neuenegg,670
+185,Wileroltigen,671
+186,Belprahon,681
+187,Champoz,683
+188,Corcelles (BE),687
+189,Court,690
+190,Crémines,691
+191,Eschert,692
+192,Grandval,694
+193,Loveresse,696
+194,Moutier,700
+195,Perrefitte,701
+196,Reconvilier,703
+197,Roches (BE),704
+198,Saicourt,706
+199,Saules (BE),707
+200,Schelten,708
+201,Seehof,709
+202,Sorvilier,711
+203,Tavannes,713
+204,Rebévelier,715
+205,Petit-Val,716
+206,Valbirse,717
+207,La Neuveville,723
+208,Nods,724
+209,Plateau de Diesse,726
+210,Aegerten,731
+211,Bellmund,732
+212,Brügg,733
+213,Bühl,734
+214,Epsach,735
+215,Hagneck,736
+216,Hermrigen,737
+217,Jens,738
+218,Ipsach,739
+219,Ligerz,740
+220,Merzligen,741
+221,Mörigen,742
+222,Nidau,743
+223,Orpund,744
+224,Port,745
+225,Safnern,746
+226,Scheuren,747
+227,Schwadernau,748
+228,Studen (BE),749
+229,Sutz-Lattrigen,750
+230,Täuffelen,751
+231,Walperswil,754
+232,Worben,755
+233,Twann-Tüscherz,756
+234,Därstetten,761
+235,Diemtigen,762
+236,Erlenbach im Simmental,763
+237,Oberwil im Simmental,766
+238,Reutigen,767
+239,Spiez,768
+240,Wimmis,769
+241,Stocken-Höfen,770
+242,Guttannen,782
+243,Hasliberg,783
+244,Innertkirchen,784
+245,Meiringen,785
+246,Schattenhalb,786
+247,Boltigen,791
+248,Lenk,792
+249,St. Stephan,793
+250,Zweisimmen,794
+251,Gsteig,841
+252,Lauenen,842
+253,Saanen,843
+254,Guggisberg,852
+255,Rüschegg,853
+256,Schwarzenburg,855
+257,Belp,861
+258,Burgistein,863
+259,Gerzensee,866
+260,Gurzelen,867
+261,Jaberg,868
+262,Kaufdorf,869
+263,Kehrsatz,870
+264,Kirchdorf (BE),872
+265,Niedermuhlern,877
+266,Riggisberg,879
+267,Rüeggisberg,880
+268,Seftigen,883
+269,Toffen,884
+270,Uttigen,885
+271,Wattenwil,886
+272,Wald (BE),888
+273,Thurnen,889
+274,Eggiwil,901
+275,Langnau im Emmental,902
+276,Lauperswil,903
+277,Röthenbach im Emmental,904
+278,Rüderswil,905
+279,Schangnau,906
+280,Signau,907
+281,Trub,908
+282,Trubschachen,909
+283,Amsoldingen,921
+284,Blumenstein,922
+285,Buchholterberg,923
+286,Eriz,924
+287,Fahrni,925
+288,Heiligenschwendi,927
+289,Heimberg,928
+290,Hilterfingen,929
+291,Homberg,931
+292,Horrenbach-Buchen,932
+293,Oberhofen am Thunersee,934
+294,Oberlangenegg,935
+295,Pohlern,936
+296,Sigriswil,938
+297,Steffisburg,939
+298,Teuffenthal (BE),940
+299,Thierachern,941
+300,Thun,942
+301,Uebeschi,943
+302,Uetendorf,944
+303,Unterlangenegg,945
+304,Wachseldorn,946
+305,Forst-Längenbühl,948
+306,Affoltern im Emmental,951
+307,Dürrenroth,952
+308,Eriswil,953
+309,Huttwil,954
+310,Lützelflüh,955
+311,Rüegsau,956
+312,Sumiswald,957
+313,Trachselwald,958
+314,Walterswil (BE),959
+315,Wyssachen,960
+316,Attiswil,971
+317,Berken,972
+318,Bettenhausen,973
+319,Farnern,975
+320,Graben,976
+321,Heimenhausen,977
+322,Herzogenbuchsee,979
+323,Inkwil,980
+324,Niederbipp,981
+325,Niederönz,982
+326,Oberbipp,983
+327,Ochlenberg,985
+328,Rumisberg,987
+329,Seeberg,988
+330,Thörigen,989
+331,Walliswil bei Niederbipp,990
+332,Walliswil bei Wangen,991
+333,Wangen an der Aare,992
+334,Wiedlisbach,995

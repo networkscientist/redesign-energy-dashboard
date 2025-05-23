@@ -1,0 +1,2353 @@
+ROW_ID,TYP,NAME,GDE_NAME
+1,3,Gürtel der Grosszentren,Aeugst am Albis
+2,2,Nebenzentren der Grosszentren,Affoltern am Albis
+3,3,Gürtel der Grosszentren,Bonstetten
+4,7,Periurbane ländliche Gemeinden,Hausen am Albis
+5,3,Gürtel der Grosszentren,Hedingen
+6,7,Periurbane ländliche Gemeinden,Kappel am Albis
+7,3,Gürtel der Grosszentren,Knonau
+8,7,Periurbane ländliche Gemeinden,Maschwanden
+9,3,Gürtel der Grosszentren,Mettmenstetten
+10,3,Gürtel der Grosszentren,Obfelden
+11,3,Gürtel der Grosszentren,Ottenbach
+12,7,Periurbane ländliche Gemeinden,Rifferswil
+13,3,Gürtel der Grosszentren,Stallikon
+14,3,Gürtel der Grosszentren,Wettswil am Albis
+15,7,Periurbane ländliche Gemeinden,Adlikon
+16,7,Periurbane ländliche Gemeinden,Benken (ZH)
+17,7,Periurbane ländliche Gemeinden,Berg am Irchel
+18,7,Periurbane ländliche Gemeinden,Buch am Irchel
+19,5,Gürtel der Mittelzentren,Dachsen
+20,7,Periurbane ländliche Gemeinden,Dorf
+21,5,Gürtel der Mittelzentren,Feuerthalen
+22,8,Agrargemeinden,Flaach
+23,5,Gürtel der Mittelzentren,Flurlingen
+24,6,Kleinzentren,Andelfingen
+25,3,Gürtel der Grosszentren,Henggart
+26,8,Agrargemeinden,Humlikon
+27,7,Periurbane ländliche Gemeinden,Kleinandelfingen
+28,5,Gürtel der Mittelzentren,Laufen-Uhwiesen
+29,7,Periurbane ländliche Gemeinden,Marthalen
+30,8,Agrargemeinden,Oberstammheim
+31,8,Agrargemeinden,Ossingen
+32,7,Periurbane ländliche Gemeinden,Rheinau
+33,7,Periurbane ländliche Gemeinden,Thalheim an der Thur
+34,7,Periurbane ländliche Gemeinden,Trüllikon
+35,8,Agrargemeinden,Truttikon
+36,8,Agrargemeinden,Unterstammheim
+37,7,Periurbane ländliche Gemeinden,Volken
+38,8,Agrargemeinden,Waltalingen
+39,3,Gürtel der Grosszentren,Bachenbülach
+40,3,Gürtel der Grosszentren,Bassersdorf
+41,2,Nebenzentren der Grosszentren,Bülach
+42,3,Gürtel der Grosszentren,Dietlikon
+43,3,Gürtel der Grosszentren,Eglisau
+44,3,Gürtel der Grosszentren,Embrach
+45,3,Gürtel der Grosszentren,Freienstein-Teufen
+46,3,Gürtel der Grosszentren,Glattfelden
+47,3,Gürtel der Grosszentren,Hochfelden
+48,3,Gürtel der Grosszentren,Höri
+49,3,Gürtel der Grosszentren,Hüntwangen
+50,2,Nebenzentren der Grosszentren,Kloten
+51,3,Gürtel der Grosszentren,Lufingen
+52,3,Gürtel der Grosszentren,Nürensdorf
+53,7,Periurbane ländliche Gemeinden,Oberembrach
+54,2,Nebenzentren der Grosszentren,Opfikon
+55,3,Gürtel der Grosszentren,Rafz
+56,3,Gürtel der Grosszentren,Rorbas
+57,2,Nebenzentren der Grosszentren,Wallisellen
+58,3,Gürtel der Grosszentren,Wasterkingen
+59,3,Gürtel der Grosszentren,Wil (ZH)
+60,3,Gürtel der Grosszentren,Winkel
+61,8,Agrargemeinden,Bachs
+62,3,Gürtel der Grosszentren,Boppelsen
+63,3,Gürtel der Grosszentren,Buchs (ZH)
+64,3,Gürtel der Grosszentren,Dällikon
+65,3,Gürtel der Grosszentren,Dänikon
+66,3,Gürtel der Grosszentren,Dielsdorf
+67,3,Gürtel der Grosszentren,Hüttikon
+68,3,Gürtel der Grosszentren,Neerach
+69,3,Gürtel der Grosszentren,Niederglatt
+70,3,Gürtel der Grosszentren,Niederhasli
+71,3,Gürtel der Grosszentren,Niederweningen
+72,3,Gürtel der Grosszentren,Oberglatt
+73,3,Gürtel der Grosszentren,Oberweningen
+74,3,Gürtel der Grosszentren,Otelfingen
+75,3,Gürtel der Grosszentren,Regensberg
+76,2,Nebenzentren der Grosszentren,Regensdorf
+77,3,Gürtel der Grosszentren,Rümlang
+78,3,Gürtel der Grosszentren,Schleinikon
+79,3,Gürtel der Grosszentren,Schöfflisdorf
+80,3,Gürtel der Grosszentren,Stadel
+81,3,Gürtel der Grosszentren,Steinmaur
+82,3,Gürtel der Grosszentren,Weiach
+83,5,Gürtel der Mittelzentren,Bäretswil
+84,3,Gürtel der Grosszentren,Bubikon
+85,5,Gürtel der Mittelzentren,Dürnten
+86,8,Agrargemeinden,Fischenthal
+87,3,Gürtel der Grosszentren,Gossau (ZH)
+88,3,Gürtel der Grosszentren,Grüningen
+89,5,Gürtel der Mittelzentren,Hinwil
+90,4,Mittelzentren,Rüti (ZH)
+91,3,Gürtel der Grosszentren,Seegräben
+92,7,Periurbane ländliche Gemeinden,Wald (ZH)
+93,4,Mittelzentren,Wetzikon (ZH)
+94,2,Nebenzentren der Grosszentren,Adliswil
+95,7,Periurbane ländliche Gemeinden,Hirzel
+96,2,Nebenzentren der Grosszentren,Horgen
+97,7,Periurbane ländliche Gemeinden,Hütten
+98,3,Gürtel der Grosszentren,Kilchberg (ZH)
+99,3,Gürtel der Grosszentren,Langnau am Albis
+100,3,Gürtel der Grosszentren,Oberrieden
+101,3,Gürtel der Grosszentren,Richterswil
+102,3,Gürtel der Grosszentren,Rüschlikon
+103,7,Periurbane ländliche Gemeinden,Schönenberg (ZH)
+104,2,Nebenzentren der Grosszentren,Thalwil
+105,2,Nebenzentren der Grosszentren,Wädenswil
+106,3,Gürtel der Grosszentren,Erlenbach (ZH)
+107,3,Gürtel der Grosszentren,Herrliberg
+108,3,Gürtel der Grosszentren,Hombrechtikon
+109,3,Gürtel der Grosszentren,Küsnacht (ZH)
+110,3,Gürtel der Grosszentren,Männedorf
+111,2,Nebenzentren der Grosszentren,Meilen
+112,3,Gürtel der Grosszentren,Oetwil am See
+113,3,Gürtel der Grosszentren,Stäfa
+114,3,Gürtel der Grosszentren,Uetikon am See
+115,3,Gürtel der Grosszentren,Zumikon
+116,3,Gürtel der Grosszentren,Zollikon
+117,7,Periurbane ländliche Gemeinden,Bauma
+118,3,Gürtel der Grosszentren,Fehraltorf
+119,5,Gürtel der Mittelzentren,Hittnau
+120,2,Nebenzentren der Grosszentren,Illnau-Effretikon
+121,3,Gürtel der Grosszentren,Kyburg
+122,3,Gürtel der Grosszentren,Lindau
+123,4,Mittelzentren,Pfäffikon
+124,3,Gürtel der Grosszentren,Russikon
+125,8,Agrargemeinden,Sternenberg
+126,7,Periurbane ländliche Gemeinden,Weisslingen
+127,7,Periurbane ländliche Gemeinden,Wila
+128,7,Periurbane ländliche Gemeinden,Wildberg
+129,2,Nebenzentren der Grosszentren,Dübendorf
+130,3,Gürtel der Grosszentren,Egg
+131,3,Gürtel der Grosszentren,Fällanden
+132,3,Gürtel der Grosszentren,Greifensee
+133,3,Gürtel der Grosszentren,Maur
+134,3,Gürtel der Grosszentren,Mönchaltorf
+135,3,Gürtel der Grosszentren,Schwerzenbach
+136,2,Nebenzentren der Grosszentren,Uster
+137,2,Nebenzentren der Grosszentren,Volketswil
+138,3,Gürtel der Grosszentren,Wangen-Brüttisellen
+139,8,Agrargemeinden,Altikon
+140,3,Gürtel der Grosszentren,Brütten
+141,7,Periurbane ländliche Gemeinden,Dägerlen
+142,3,Gürtel der Grosszentren,Dättlikon
+143,3,Gürtel der Grosszentren,Dinhard
+144,7,Periurbane ländliche Gemeinden,Elgg
+145,7,Periurbane ländliche Gemeinden,Ellikon an der Thur
+146,3,Gürtel der Grosszentren,Elsau
+147,7,Periurbane ländliche Gemeinden,Hagenbuch
+148,3,Gürtel der Grosszentren,Hettlingen
+149,7,Periurbane ländliche Gemeinden,Hofstetten (ZH)
+150,3,Gürtel der Grosszentren,Neftenbach
+151,3,Gürtel der Grosszentren,Pfungen
+152,3,Gürtel der Grosszentren,Rickenbach (ZH)
+153,8,Agrargemeinden,Schlatt (ZH)
+154,3,Gürtel der Grosszentren,Seuzach
+155,7,Periurbane ländliche Gemeinden,Turbenthal
+156,1,Grosszentren,Winterthur
+157,3,Gürtel der Grosszentren,Zell (ZH)
+158,3,Gürtel der Grosszentren,Aesch (ZH)
+159,3,Gürtel der Grosszentren,Birmensdorf (ZH)
+160,2,Nebenzentren der Grosszentren,Dietikon
+161,3,Gürtel der Grosszentren,Geroldswil
+162,3,Gürtel der Grosszentren,Oberengstringen
+163,3,Gürtel der Grosszentren,Oetwil an der Limmat
+164,2,Nebenzentren der Grosszentren,Schlieren
+165,3,Gürtel der Grosszentren,Uitikon
+166,3,Gürtel der Grosszentren,Unterengstringen
+167,3,Gürtel der Grosszentren,Urdorf
+168,3,Gürtel der Grosszentren,Weiningen (ZH)
+169,1,Grosszentren,Zürich
+170,3,Gürtel der Grosszentren,Wiesendangen
+171,7,Periurbane ländliche Gemeinden,Aarberg
+172,7,Periurbane ländliche Gemeinden,Bargen (BE)
+173,7,Periurbane ländliche Gemeinden,Grossaffoltern
+174,8,Agrargemeinden,Kallnach
+175,8,Agrargemeinden,Kappelen
+176,4,Mittelzentren,Lyss
+177,3,Gürtel der Grosszentren,Meikirch
+178,7,Periurbane ländliche Gemeinden,Radelfingen
+179,8,Agrargemeinden,Rapperswil (BE)
+180,3,Gürtel der Grosszentren,Schüpfen
+181,8,Agrargemeinden,Seedorf (BE)
+182,7,Periurbane ländliche Gemeinden,Aarwangen
+183,8,Agrargemeinden,Auswil
+184,7,Periurbane ländliche Gemeinden,Bannwil
+185,8,Agrargemeinden,Bleienbach
+186,8,Agrargemeinden,Busswil bei Melchnau
+187,8,Agrargemeinden,Gondiswil
+188,4,Mittelzentren,Langenthal
+189,7,Periurbane ländliche Gemeinden,Lotzwil
+190,8,Agrargemeinden,Madiswil
+191,8,Agrargemeinden,Melchnau
+192,7,Periurbane ländliche Gemeinden,Obersteckholz
+193,8,Agrargemeinden,Oeschenbach
+194,8,Agrargemeinden,Reisiswil
+195,7,Periurbane ländliche Gemeinden,Roggwil (BE)
+196,7,Periurbane ländliche Gemeinden,Rohrbach
+197,8,Agrargemeinden,Rohrbachgraben
+198,8,Agrargemeinden,Rütschelen
+199,7,Periurbane ländliche Gemeinden,Schwarzhäusern
+200,7,Periurbane ländliche Gemeinden,Thunstetten
+201,8,Agrargemeinden,Ursenbach
+202,7,Periurbane ländliche Gemeinden,Wynau
+203,1,Grosszentren,Bern
+204,3,Gürtel der Grosszentren,Bolligen
+205,3,Gürtel der Grosszentren,Bremgarten bei Bern
+206,3,Gürtel der Grosszentren,Kirchlindach
+207,2,Nebenzentren der Grosszentren,Köniz
+208,2,Nebenzentren der Grosszentren,Muri bei Bern
+209,8,Agrargemeinden,Oberbalm
+210,3,Gürtel der Grosszentren,Stettlen
+211,3,Gürtel der Grosszentren,Vechigen
+212,3,Gürtel der Grosszentren,Wohlen bei Bern
+213,3,Gürtel der Grosszentren,Zollikofen
+214,2,Nebenzentren der Grosszentren,Ittigen
+215,2,Nebenzentren der Grosszentren,Ostermundigen
+216,4,Mittelzentren,Biel/Bienne
+217,5,Gürtel der Mittelzentren,Evilard
+218,7,Periurbane ländliche Gemeinden,Arch
+219,7,Periurbane ländliche Gemeinden,Büetigen
+220,7,Periurbane ländliche Gemeinden,Büren an der Aare
+221,7,Periurbane ländliche Gemeinden,Diessbach bei Büren
+222,7,Periurbane ländliche Gemeinden,Dotzigen
+223,5,Gürtel der Mittelzentren,Lengnau (BE)
+224,7,Periurbane ländliche Gemeinden,Leuzigen
+225,8,Agrargemeinden,Meienried
+226,7,Periurbane ländliche Gemeinden,Meinisberg
+227,7,Periurbane ländliche Gemeinden,Oberwil bei Büren
+228,5,Gürtel der Mittelzentren,Pieterlen
+229,7,Periurbane ländliche Gemeinden,Rüti bei Büren
+230,8,Agrargemeinden,Wengi
+231,5,Gürtel der Mittelzentren,Aefligen
+232,7,Periurbane ländliche Gemeinden,Alchenstorf
+233,3,Gürtel der Grosszentren,Bäriswil
+234,4,Mittelzentren,Burgdorf
+235,8,Agrargemeinden,Ersigen
+236,7,Periurbane ländliche Gemeinden,Hasle bei Burgdorf
+237,8,Agrargemeinden,Heimiswil
+238,8,Agrargemeinden,Hellsau
+239,7,Periurbane ländliche Gemeinden,Hindelbank
+240,8,Agrargemeinden,Höchstetten
+241,7,Periurbane ländliche Gemeinden,Kernenried
+242,5,Gürtel der Mittelzentren,Kirchberg (BE)
+243,7,Periurbane ländliche Gemeinden,Koppigen
+244,7,Periurbane ländliche Gemeinden,Krauchthal
+245,5,Gürtel der Mittelzentren,Lyssach
+246,8,Agrargemeinden,Mötschwil
+247,8,Agrargemeinden,Niederösch
+248,5,Gürtel der Mittelzentren,Oberburg
+249,8,Agrargemeinden,Oberösch
+250,5,Gürtel der Mittelzentren,Rüdtligen-Alchenflüh
+251,7,Periurbane ländliche Gemeinden,Rumendingen
+252,7,Periurbane ländliche Gemeinden,Rüti bei Lyssach
+253,7,Periurbane ländliche Gemeinden,Willadingen
+254,8,Agrargemeinden,Wynigen
+255,7,Periurbane ländliche Gemeinden,Corgémont
+256,7,Periurbane ländliche Gemeinden,Cormoret
+257,7,Periurbane ländliche Gemeinden,Cortébert
+258,7,Periurbane ländliche Gemeinden,Courtelary
+259,8,Agrargemeinden,La Ferrière
+260,7,Periurbane ländliche Gemeinden,La Heutte
+261,8,Agrargemeinden,Mont-Tramelan
+262,7,Periurbane ländliche Gemeinden,Orvin
+263,7,Periurbane ländliche Gemeinden,Péry
+264,8,Agrargemeinden,Renan (BE)
+265,7,Periurbane ländliche Gemeinden,Romont (BE)
+266,6,Kleinzentren,Saint-Imier
+267,7,Periurbane ländliche Gemeinden,Sonceboz-Sombeval
+268,8,Agrargemeinden,Sonvilier
+269,7,Periurbane ländliche Gemeinden,Tramelan
+270,7,Periurbane ländliche Gemeinden,Villeret
+271,5,Gürtel der Mittelzentren,Sauge
+272,8,Agrargemeinden,Brüttelen
+273,7,Periurbane ländliche Gemeinden,Erlach
+274,8,Agrargemeinden,Finsterhennen
+275,8,Agrargemeinden,Gals
+276,7,Periurbane ländliche Gemeinden,Gampelen
+277,8,Agrargemeinden,Ins
+278,8,Agrargemeinden,Lüscherz
+279,8,Agrargemeinden,Müntschemier
+280,8,Agrargemeinden,Siselen
+281,8,Agrargemeinden,Treiten
+282,7,Periurbane ländliche Gemeinden,Tschugg
+283,7,Periurbane ländliche Gemeinden,Vinelz
+284,8,Agrargemeinden,Bangerten
+285,7,Periurbane ländliche Gemeinden,Bätterkinden
+286,7,Periurbane ländliche Gemeinden,Deisswil bei Münchenbuchsee
+287,3,Gürtel der Grosszentren,Diemerswil
+288,8,Agrargemeinden,Fraubrunnen
+289,3,Gürtel der Grosszentren,Jegenstorf
+290,8,Agrargemeinden,Iffwil
+291,3,Gürtel der Grosszentren,Mattstetten
+292,3,Gürtel der Grosszentren,Moosseedorf
+293,3,Gürtel der Grosszentren,Münchenbuchsee
+294,3,Gürtel der Grosszentren,Urtenen-Schönbühl
+295,7,Periurbane ländliche Gemeinden,Utzenstorf
+296,8,Agrargemeinden,Wiggiswil
+297,7,Periurbane ländliche Gemeinden,Wiler bei Utzenstorf
+298,5,Gürtel der Mittelzentren,Zielebach
+299,7,Periurbane ländliche Gemeinden,Zuzwil (BE)
+300,9,Touristische Gemeinden,Adelboden
+301,9,Touristische Gemeinden,Aeschi bei Spiez
+302,6,Kleinzentren,Frutigen
+303,7,Periurbane ländliche Gemeinden,Kandergrund
+304,9,Touristische Gemeinden,Kandersteg
+305,7,Periurbane ländliche Gemeinden,Krattigen
+306,8,Agrargemeinden,Reichenbach im Kandertal
+307,9,Touristische Gemeinden,Beatenberg
+308,5,Gürtel der Mittelzentren,Bönigen
+309,9,Touristische Gemeinden,Brienz (BE)
+310,7,Periurbane ländliche Gemeinden,Brienzwiler
+311,7,Periurbane ländliche Gemeinden,Därligen
+312,9,Touristische Gemeinden,Grindelwald
+313,5,Gürtel der Mittelzentren,Gsteigwiler
+314,7,Periurbane ländliche Gemeinden,Gündlischwand
+315,8,Agrargemeinden,Habkern
+316,7,Periurbane ländliche Gemeinden,Hofstetten bei Brienz
+317,4,Mittelzentren,Interlaken
+318,8,Agrargemeinden,Iseltwald
+319,9,Touristische Gemeinden,Lauterbrunnen
+320,7,Periurbane ländliche Gemeinden,Leissigen
+321,8,Agrargemeinden,Lütschental
+322,5,Gürtel der Mittelzentren,Matten bei Interlaken
+323,7,Periurbane ländliche Gemeinden,Niederried bei Interlaken
+324,7,Periurbane ländliche Gemeinden,Oberried am Brienzersee
+325,5,Gürtel der Mittelzentren,Ringgenberg (BE)
+326,8,Agrargemeinden,Saxeten
+327,7,Periurbane ländliche Gemeinden,Schwanden bei Brienz
+328,5,Gürtel der Mittelzentren,Unterseen
+329,5,Gürtel der Mittelzentren,Wilderswil
+330,8,Agrargemeinden,Arni (BE)
+331,7,Periurbane ländliche Gemeinden,Biglen
+332,8,Agrargemeinden,Bowil
+333,7,Periurbane ländliche Gemeinden,Brenzikofen
+334,7,Periurbane ländliche Gemeinden,Freimettigen
+335,3,Gürtel der Grosszentren,Grosshöchstetten
+336,8,Agrargemeinden,Häutligen
+337,7,Periurbane ländliche Gemeinden,Herbligen
+338,7,Periurbane ländliche Gemeinden,Kiesen
+339,3,Gürtel der Grosszentren,Konolfingen
+340,8,Agrargemeinden,Landiswil
+341,8,Agrargemeinden,Linden
+342,7,Periurbane ländliche Gemeinden,Mirchel
+343,2,Nebenzentren der Grosszentren,Münsingen
+344,7,Periurbane ländliche Gemeinden,Niederhünigen
+345,7,Periurbane ländliche Gemeinden,Oberdiessbach
+346,8,Agrargemeinden,Oberthal
+347,7,Periurbane ländliche Gemeinden,Oppligen
+348,3,Gürtel der Grosszentren,Rubigen
+349,7,Periurbane ländliche Gemeinden,Schlosswil
+350,8,Agrargemeinden,Tägertschi
+351,8,Agrargemeinden,Walkringen
+352,3,Gürtel der Grosszentren,Worb
+353,7,Periurbane ländliche Gemeinden,Zäziwil
+354,8,Agrargemeinden,Oberhünigen
+355,3,Gürtel der Grosszentren,Allmendingen
+356,3,Gürtel der Grosszentren,Wichtrach
+357,8,Agrargemeinden,Clavaleyres
+358,7,Periurbane ländliche Gemeinden,Ferenbalm
+359,3,Gürtel der Grosszentren,Frauenkappelen
+360,8,Agrargemeinden,Golaten
+361,8,Agrargemeinden,Gurbrü
+362,8,Agrargemeinden,Kriechenwil
+363,3,Gürtel der Grosszentren,Laupen
+364,8,Agrargemeinden,Mühleberg
+365,7,Periurbane ländliche Gemeinden,Münchenwiler
+366,3,Gürtel der Grosszentren,Neuenegg
+367,8,Agrargemeinden,Wileroltigen
+368,7,Periurbane ländliche Gemeinden,Belprahon
+369,7,Periurbane ländliche Gemeinden,Bévilard
+370,8,Agrargemeinden,Champoz
+371,8,Agrargemeinden,Châtelat
+372,7,Periurbane ländliche Gemeinden,Corcelles (BE)
+373,7,Periurbane ländliche Gemeinden,Court
+374,7,Periurbane ländliche Gemeinden,Crémines
+375,8,Agrargemeinden,Eschert
+376,7,Periurbane ländliche Gemeinden,Grandval
+377,8,Agrargemeinden,Loveresse
+378,7,Periurbane ländliche Gemeinden,Malleray
+379,8,Agrargemeinden,Monible
+380,6,Kleinzentren,Moutier
+381,7,Periurbane ländliche Gemeinden,Perrefitte
+382,7,Periurbane ländliche Gemeinden,Pontenet
+383,7,Periurbane ländliche Gemeinden,Reconvilier
+384,8,Agrargemeinden,Roches (BE)
+385,8,Agrargemeinden,Saicourt
+386,8,Agrargemeinden,Saules (BE)
+387,8,Agrargemeinden,Schelten
+388,8,Agrargemeinden,Seehof
+389,8,Agrargemeinden,Sornetan
+390,8,Agrargemeinden,Sorvilier
+391,8,Agrargemeinden,Souboz
+392,7,Periurbane ländliche Gemeinden,Tavannes
+393,8,Agrargemeinden,Rebévelier
+394,7,Periurbane ländliche Gemeinden,La Neuveville
+395,8,Agrargemeinden,Nods
+396,7,Periurbane ländliche Gemeinden,Plateau de Diesse
+397,5,Gürtel der Mittelzentren,Aegerten
+398,5,Gürtel der Mittelzentren,Bellmund
+399,5,Gürtel der Mittelzentren,Brügg
+400,7,Periurbane ländliche Gemeinden,Bühl
+401,7,Periurbane ländliche Gemeinden,Epsach
+402,7,Periurbane ländliche Gemeinden,Hagneck
+403,7,Periurbane ländliche Gemeinden,Hermrigen
+404,7,Periurbane ländliche Gemeinden,Jens
+405,5,Gürtel der Mittelzentren,Ipsach
+406,8,Agrargemeinden,Ligerz
+407,7,Periurbane ländliche Gemeinden,Merzligen
+408,5,Gürtel der Mittelzentren,Mörigen
+409,5,Gürtel der Mittelzentren,Nidau
+410,5,Gürtel der Mittelzentren,Orpund
+411,5,Gürtel der Mittelzentren,Port
+412,5,Gürtel der Mittelzentren,Safnern
+413,5,Gürtel der Mittelzentren,Scheuren
+414,5,Gürtel der Mittelzentren,Schwadernau
+415,5,Gürtel der Mittelzentren,Studen (BE)
+416,5,Gürtel der Mittelzentren,Sutz-Lattrigen
+417,7,Periurbane ländliche Gemeinden,Täuffelen
+418,8,Agrargemeinden,Walperswil
+419,5,Gürtel der Mittelzentren,Worben
+420,7,Periurbane ländliche Gemeinden,Twann-Tüscherz
+421,8,Agrargemeinden,Därstetten
+422,8,Agrargemeinden,Diemtigen
+423,8,Agrargemeinden,Erlenbach im Simmental
+424,8,Agrargemeinden,Oberwil im Simmental
+425,8,Agrargemeinden,Reutigen
+426,5,Gürtel der Mittelzentren,Spiez
+427,7,Periurbane ländliche Gemeinden,Wimmis
+428,7,Periurbane ländliche Gemeinden,Stocken-Höfen
+429,9,Touristische Gemeinden,Guttannen
+430,9,Touristische Gemeinden,Hasliberg
+431,8,Agrargemeinden,Innertkirchen
+432,9,Touristische Gemeinden,Meiringen
+433,7,Periurbane ländliche Gemeinden,Schattenhalb
+434,8,Agrargemeinden,Boltigen
+435,9,Touristische Gemeinden,Lenk
+436,8,Agrargemeinden,St. Stephan
+437,6,Kleinzentren,Zweisimmen
+438,8,Agrargemeinden,Gsteig
+439,8,Agrargemeinden,Lauenen
+440,9,Touristische Gemeinden,Saanen
+441,8,Agrargemeinden,Guggisberg
+442,8,Agrargemeinden,Rüschegg
+443,6,Kleinzentren,Schwarzenburg
+444,3,Gürtel der Grosszentren,Belp
+445,7,Periurbane ländliche Gemeinden,Burgistein
+446,8,Agrargemeinden,Gelterfingen
+447,8,Agrargemeinden,Gerzensee
+448,8,Agrargemeinden,Gurzelen
+449,7,Periurbane ländliche Gemeinden,Jaberg
+450,3,Gürtel der Grosszentren,Kaufdorf
+451,3,Gürtel der Grosszentren,Kehrsatz
+452,8,Agrargemeinden,Kirchdorf (BE)
+453,7,Periurbane ländliche Gemeinden,Kirchenthurnen
+454,8,Agrargemeinden,Lohnstorf
+455,8,Agrargemeinden,Mühledorf (BE)
+456,7,Periurbane ländliche Gemeinden,Mühlethurnen
+457,8,Agrargemeinden,Niedermuhlern
+458,8,Agrargemeinden,Noflen
+459,8,Agrargemeinden,Riggisberg
+460,8,Agrargemeinden,Rüeggisberg
+461,8,Agrargemeinden,Rümligen
+462,5,Gürtel der Mittelzentren,Seftigen
+463,3,Gürtel der Grosszentren,Toffen
+464,5,Gürtel der Mittelzentren,Uttigen
+465,7,Periurbane ländliche Gemeinden,Wattenwil
+466,7,Periurbane ländliche Gemeinden,Wald (BE)
+467,8,Agrargemeinden,Eggiwil
+468,6,Kleinzentren,Langnau im Emmental
+469,8,Agrargemeinden,Lauperswil
+470,8,Agrargemeinden,Röthenbach im Emmental
+471,8,Agrargemeinden,Rüderswil
+472,8,Agrargemeinden,Schangnau
+473,8,Agrargemeinden,Signau
+474,8,Agrargemeinden,Trub
+475,8,Agrargemeinden,Trubschachen
+476,7,Periurbane ländliche Gemeinden,Amsoldingen
+477,7,Periurbane ländliche Gemeinden,Blumenstein
+478,8,Agrargemeinden,Buchholterberg
+479,8,Agrargemeinden,Eriz
+480,8,Agrargemeinden,Fahrni
+481,9,Touristische Gemeinden,Heiligenschwendi
+482,5,Gürtel der Mittelzentren,Heimberg
+483,5,Gürtel der Mittelzentren,Hilterfingen
+484,8,Agrargemeinden,Homberg
+485,8,Agrargemeinden,Horrenbach-Buchen
+486,5,Gürtel der Mittelzentren,Oberhofen am Thunersee
+487,8,Agrargemeinden,Oberlangenegg
+488,7,Periurbane ländliche Gemeinden,Pohlern
+489,7,Periurbane ländliche Gemeinden,Schwendibach
+490,9,Touristische Gemeinden,Sigriswil
+491,5,Gürtel der Mittelzentren,Steffisburg
+492,8,Agrargemeinden,Teuffenthal (BE)
+493,5,Gürtel der Mittelzentren,Thierachern
+494,4,Mittelzentren,Thun
+495,7,Periurbane ländliche Gemeinden,Uebeschi
+496,5,Gürtel der Mittelzentren,Uetendorf
+497,8,Agrargemeinden,Unterlangenegg
+498,8,Agrargemeinden,Wachseldorn
+499,7,Periurbane ländliche Gemeinden,Zwieselberg
+500,8,Agrargemeinden,Forst-Längenbühl
+501,8,Agrargemeinden,Affoltern im Emmental
+502,8,Agrargemeinden,Dürrenroth
+503,8,Agrargemeinden,Eriswil
+504,7,Periurbane ländliche Gemeinden,Huttwil
+505,8,Agrargemeinden,Lützelflüh
+506,8,Agrargemeinden,Rüegsau
+507,8,Agrargemeinden,Sumiswald
+508,8,Agrargemeinden,Trachselwald
+509,8,Agrargemeinden,Walterswil (BE)
+510,8,Agrargemeinden,Wyssachen
+511,7,Periurbane ländliche Gemeinden,Attiswil
+512,8,Agrargemeinden,Berken
+513,7,Periurbane ländliche Gemeinden,Bettenhausen
+514,7,Periurbane ländliche Gemeinden,Farnern
+515,7,Periurbane ländliche Gemeinden,Graben
+516,7,Periurbane ländliche Gemeinden,Heimenhausen
+517,8,Agrargemeinden,Hermiswil
+518,6,Kleinzentren,Herzogenbuchsee
+519,7,Periurbane ländliche Gemeinden,Inkwil
+520,7,Periurbane ländliche Gemeinden,Niederbipp
+521,7,Periurbane ländliche Gemeinden,Niederönz
+522,7,Periurbane ländliche Gemeinden,Oberbipp
+523,8,Agrargemeinden,Ochlenberg
+524,7,Periurbane ländliche Gemeinden,Rumisberg
+525,8,Agrargemeinden,Seeberg
+526,7,Periurbane ländliche Gemeinden,Thörigen
+527,7,Periurbane ländliche Gemeinden,Walliswil bei Niederbipp
+528,7,Periurbane ländliche Gemeinden,Walliswil bei Wangen
+529,7,Periurbane ländliche Gemeinden,Wangen an der Aare
+530,7,Periurbane ländliche Gemeinden,Wangenried
+531,7,Periurbane ländliche Gemeinden,Wiedlisbach
+532,7,Periurbane ländliche Gemeinden,Wolfisberg
+533,8,Agrargemeinden,Doppleschwand
+534,8,Agrargemeinden,Entlebuch
+535,8,Agrargemeinden,Flühli
+536,8,Agrargemeinden,Hasle (LU)
+537,8,Agrargemeinden,Romoos
+538,6,Kleinzentren,Schüpfheim
+539,8,Agrargemeinden,Werthenstein
+540,8,Agrargemeinden,Escholzmatt-Marbach
+541,8,Agrargemeinden,Aesch (LU)
+542,8,Agrargemeinden,Altwis
+543,7,Periurbane ländliche Gemeinden,Ballwil
+544,2,Nebenzentren der Grosszentren,Emmen
+545,7,Periurbane ländliche Gemeinden,Ermensee
+546,7,Periurbane ländliche Gemeinden,Eschenbach (LU)
+547,8,Agrargemeinden,Hitzkirch
+548,7,Periurbane ländliche Gemeinden,Hochdorf
+549,8,Agrargemeinden,Hohenrain
+550,7,Periurbane ländliche Gemeinden,Inwil
+551,8,Agrargemeinden,Rain
+552,8,Agrargemeinden,Römerswil
+553,3,Gürtel der Grosszentren,Rothenburg
+554,8,Agrargemeinden,Schongau
+555,3,Gürtel der Grosszentren,Adligenswil
+556,3,Gürtel der Grosszentren,Buchrain
+557,3,Gürtel der Grosszentren,Dierikon
+558,2,Nebenzentren der Grosszentren,Ebikon
+559,3,Gürtel der Grosszentren,Gisikon
+560,7,Periurbane ländliche Gemeinden,Greppen
+561,3,Gürtel der Grosszentren,Honau
+562,3,Gürtel der Grosszentren,Horw
+563,2,Nebenzentren der Grosszentren,Kriens
+564,1,Grosszentren,Luzern
+565,8,Agrargemeinden,Malters
+566,3,Gürtel der Grosszentren,Meggen
+567,7,Periurbane ländliche Gemeinden,Meierskappel
+568,3,Gürtel der Grosszentren,Root
+569,8,Agrargemeinden,Schwarzenberg
+570,3,Gürtel der Grosszentren,Udligenswil
+571,9,Touristische Gemeinden,Vitznau
+572,9,Touristische Gemeinden,Weggis
+573,8,Agrargemeinden,Beromünster
+574,7,Periurbane ländliche Gemeinden,Büron
+575,8,Agrargemeinden,Buttisholz
+576,7,Periurbane ländliche Gemeinden,Eich
+577,7,Periurbane ländliche Gemeinden,Geuensee
+578,8,Agrargemeinden,Grosswangen
+579,8,Agrargemeinden,Hildisrieden
+580,7,Periurbane ländliche Gemeinden,Knutwil
+581,7,Periurbane ländliche Gemeinden,Mauensee
+582,7,Periurbane ländliche Gemeinden,Neuenkirch
+583,8,Agrargemeinden,Nottwil
+584,7,Periurbane ländliche Gemeinden,Oberkirch
+585,7,Periurbane ländliche Gemeinden,Rickenbach (LU)
+586,8,Agrargemeinden,Ruswil
+587,7,Periurbane ländliche Gemeinden,Schenkon
+588,8,Agrargemeinden,Schlierbach
+589,7,Periurbane ländliche Gemeinden,Sempach
+590,6,Kleinzentren,Sursee
+591,7,Periurbane ländliche Gemeinden,Triengen
+592,7,Periurbane ländliche Gemeinden,Wolhusen
+593,7,Periurbane ländliche Gemeinden,Alberswil
+594,8,Agrargemeinden,Altbüron
+595,7,Periurbane ländliche Gemeinden,Altishofen
+596,7,Periurbane ländliche Gemeinden,Dagmersellen
+597,8,Agrargemeinden,Ebersecken
+598,7,Periurbane ländliche Gemeinden,Egolzwil
+599,8,Agrargemeinden,Ettiswil
+600,7,Periurbane ländliche Gemeinden,Fischbach
+601,7,Periurbane ländliche Gemeinden,Gettnau
+602,8,Agrargemeinden,Grossdietwil
+603,8,Agrargemeinden,Hergiswil bei Willisau
+604,8,Agrargemeinden,Luthern
+605,8,Agrargemeinden,Menznau
+606,7,Periurbane ländliche Gemeinden,Nebikon
+607,7,Periurbane ländliche Gemeinden,Pfaffnau
+608,7,Periurbane ländliche Gemeinden,Reiden
+609,8,Agrargemeinden,Roggliswil
+610,7,Periurbane ländliche Gemeinden,Schötz
+611,8,Agrargemeinden,Ufhusen
+612,8,Agrargemeinden,Wauwil
+613,7,Periurbane ländliche Gemeinden,Wikon
+614,8,Agrargemeinden,Zell (LU)
+615,8,Agrargemeinden,Willisau
+616,6,Kleinzentren,Altdorf (UR)
+617,9,Touristische Gemeinden,Andermatt
+618,7,Periurbane ländliche Gemeinden,Attinghausen
+619,8,Agrargemeinden,Bauen
+620,8,Agrargemeinden,Bürglen (UR)
+621,7,Periurbane ländliche Gemeinden,Erstfeld
+622,7,Periurbane ländliche Gemeinden,Flüelen
+623,8,Agrargemeinden,Göschenen
+624,8,Agrargemeinden,Gurtnellen
+625,9,Touristische Gemeinden,Hospental
+626,8,Agrargemeinden,Isenthal
+627,9,Touristische Gemeinden,Realp
+628,7,Periurbane ländliche Gemeinden,Schattdorf
+629,7,Periurbane ländliche Gemeinden,Seedorf (UR)
+630,9,Touristische Gemeinden,Seelisberg
+631,7,Periurbane ländliche Gemeinden,Silenen
+632,7,Periurbane ländliche Gemeinden,Sisikon
+633,8,Agrargemeinden,Spiringen
+634,8,Agrargemeinden,Unterschächen
+635,8,Agrargemeinden,Wassen
+636,4,Mittelzentren,Einsiedeln
+637,7,Periurbane ländliche Gemeinden,Gersau
+638,3,Gürtel der Grosszentren,Feusisberg
+639,2,Nebenzentren der Grosszentren,Freienbach
+640,3,Gürtel der Grosszentren,Wollerau
+641,2,Nebenzentren der Grosszentren,Küssnacht (SZ)
+642,5,Gürtel der Mittelzentren,Altendorf
+643,5,Gürtel der Mittelzentren,Galgenen
+644,8,Agrargemeinden,Innerthal
+645,4,Mittelzentren,Lachen
+646,5,Gürtel der Mittelzentren,Reichenburg
+647,5,Gürtel der Mittelzentren,Schübelbach
+648,5,Gürtel der Mittelzentren,Tuggen
+649,8,Agrargemeinden,Vorderthal
+650,5,Gürtel der Mittelzentren,Wangen (SZ)
+651,8,Agrargemeinden,Alpthal
+652,7,Periurbane ländliche Gemeinden,Arth
+653,8,Agrargemeinden,Illgau
+654,5,Gürtel der Mittelzentren,Ingenbohl
+655,8,Agrargemeinden,Lauerz
+656,9,Touristische Gemeinden,Morschach
+657,8,Agrargemeinden,Muotathal
+658,8,Agrargemeinden,Oberiberg
+659,8,Agrargemeinden,Riemenstalden
+660,7,Periurbane ländliche Gemeinden,Rothenthurm
+661,8,Agrargemeinden,Sattel
+662,4,Mittelzentren,Schwyz
+663,5,Gürtel der Mittelzentren,Steinen
+664,8,Agrargemeinden,Steinerberg
+665,7,Periurbane ländliche Gemeinden,Unteriberg
+666,7,Periurbane ländliche Gemeinden,Alpnach
+667,9,Touristische Gemeinden,Engelberg
+668,8,Agrargemeinden,Giswil
+669,9,Touristische Gemeinden,Kerns
+670,8,Agrargemeinden,Lungern
+671,7,Periurbane ländliche Gemeinden,Sachseln
+672,6,Kleinzentren,Sarnen
+673,5,Gürtel der Mittelzentren,Beckenried
+674,5,Gürtel der Mittelzentren,Buochs
+675,8,Agrargemeinden,Dallenwil
+676,9,Touristische Gemeinden,Emmetten
+677,5,Gürtel der Mittelzentren,Ennetbürgen
+678,5,Gürtel der Mittelzentren,Ennetmoos
+679,3,Gürtel der Grosszentren,Hergiswil (NW)
+680,5,Gürtel der Mittelzentren,Oberdorf (NW)
+681,4,Mittelzentren,Stans
+682,5,Gürtel der Mittelzentren,Stansstad
+683,8,Agrargemeinden,Wolfenschiessen
+684,7,Periurbane ländliche Gemeinden,Glarus Nord
+685,7,Periurbane ländliche Gemeinden,Glarus Süd
+686,6,Kleinzentren,Glarus
+687,5,Gürtel der Mittelzentren,Baar
+688,5,Gürtel der Mittelzentren,Cham
+689,5,Gürtel der Mittelzentren,Hünenberg
+690,7,Periurbane ländliche Gemeinden,Menzingen
+691,5,Gürtel der Mittelzentren,Neuheim
+692,5,Gürtel der Mittelzentren,Oberägeri
+693,5,Gürtel der Mittelzentren,Risch
+694,5,Gürtel der Mittelzentren,Steinhausen
+695,5,Gürtel der Mittelzentren,Unterägeri
+696,5,Gürtel der Mittelzentren,Walchwil
+697,4,Mittelzentren,Zug
+698,8,Agrargemeinden,Bussy (FR)
+699,7,Periurbane ländliche Gemeinden,Châbles
+700,7,Periurbane ländliche Gemeinden,Châtillon (FR)
+701,8,Agrargemeinden,Cheiry
+702,7,Periurbane ländliche Gemeinden,Cheyres
+703,8,Agrargemeinden,Cugy (FR)
+704,7,Periurbane ländliche Gemeinden,Domdidier
+705,7,Periurbane ländliche Gemeinden,Dompierre (FR)
+706,7,Periurbane ländliche Gemeinden,Estavayer-le-Lac
+707,7,Periurbane ländliche Gemeinden,Fétigny
+708,7,Periurbane ländliche Gemeinden,Gletterens
+709,7,Periurbane ländliche Gemeinden,Léchelles
+710,7,Periurbane ländliche Gemeinden,Lully (FR)
+711,7,Periurbane ländliche Gemeinden,Ménières
+712,7,Periurbane ländliche Gemeinden,Montagny (FR)
+713,8,Agrargemeinden,Morens (FR)
+714,8,Agrargemeinden,Murist
+715,7,Periurbane ländliche Gemeinden,Nuvilly
+716,8,Agrargemeinden,Prévondavaux
+717,7,Periurbane ländliche Gemeinden,Rueyres-les-Prés
+718,7,Periurbane ländliche Gemeinden,Russy
+719,7,Periurbane ländliche Gemeinden,Saint-Aubin (FR)
+720,8,Agrargemeinden,Sévaz
+721,8,Agrargemeinden,Surpierre
+722,8,Agrargemeinden,Vallon
+723,8,Agrargemeinden,Villeneuve (FR)
+724,7,Periurbane ländliche Gemeinden,Vuissens
+725,8,Agrargemeinden,Les Montets
+726,7,Periurbane ländliche Gemeinden,Delley-Portalban
+727,7,Periurbane ländliche Gemeinden,Vernay
+728,7,Periurbane ländliche Gemeinden,Auboranges
+729,7,Periurbane ländliche Gemeinden,Billens-Hennens
+730,7,Periurbane ländliche Gemeinden,Chapelle (Glâne)
+731,8,Agrargemeinden,Le Châtelard
+732,7,Periurbane ländliche Gemeinden,Châtonnaye
+733,8,Agrargemeinden,Ecublens (FR)
+734,8,Agrargemeinden,Grangettes
+735,8,Agrargemeinden,Massonnens
+736,7,Periurbane ländliche Gemeinden,Mézières (FR)
+737,7,Periurbane ländliche Gemeinden,Montet (Glâne)
+738,6,Kleinzentren,Romont (FR)
+739,8,Agrargemeinden,Rue
+740,8,Agrargemeinden,Siviriez
+741,8,Agrargemeinden,Ursy
+742,7,Periurbane ländliche Gemeinden,Villaz-Saint-Pierre
+743,8,Agrargemeinden,Vuisternens-devant-Romont
+744,8,Agrargemeinden,Villorsonnens
+745,7,Periurbane ländliche Gemeinden,Torny
+746,7,Periurbane ländliche Gemeinden,La Folliaz
+747,8,Agrargemeinden,Haut-Intyamon
+748,7,Periurbane ländliche Gemeinden,Pont-en-Ogoz
+749,7,Periurbane ländliche Gemeinden,Botterens
+750,7,Periurbane ländliche Gemeinden,Broc
+751,4,Mittelzentren,Bulle
+752,7,Periurbane ländliche Gemeinden,Châtel-sur-Montsalvens
+753,7,Periurbane ländliche Gemeinden,Corbières
+754,7,Periurbane ländliche Gemeinden,Crésuz
+755,5,Gürtel der Mittelzentren,Echarlens
+756,8,Agrargemeinden,Grandvillard
+757,7,Periurbane ländliche Gemeinden,Gruyères
+758,7,Periurbane ländliche Gemeinden,Hauteville
+759,9,Touristische Gemeinden,Jaun
+760,5,Gürtel der Mittelzentren,Marsens
+761,5,Gürtel der Mittelzentren,Morlon
+762,5,Gürtel der Mittelzentren,Le Pâquier (FR)
+763,8,Agrargemeinden,Pont-la-Ville
+764,5,Gürtel der Mittelzentren,Riaz
+765,8,Agrargemeinden,La Roche
+766,8,Agrargemeinden,Sâles
+767,8,Agrargemeinden,Sorens
+768,8,Agrargemeinden,Vaulruz
+769,5,Gürtel der Mittelzentren,Vuadens
+770,7,Periurbane ländliche Gemeinden,Bas-Intyamon
+771,8,Agrargemeinden,Val-de-Charmey
+772,5,Gürtel der Mittelzentren,Arconciel
+773,8,Agrargemeinden,Autafond
+774,7,Periurbane ländliche Gemeinden,Autigny
+775,5,Gürtel der Mittelzentren,Avry
+776,5,Gürtel der Mittelzentren,Belfaux
+777,7,Periurbane ländliche Gemeinden,Chénens
+778,8,Agrargemeinden,Chésopelloz
+779,5,Gürtel der Mittelzentren,Corminboeuf
+780,5,Gürtel der Mittelzentren,Corpataux-Magnedens
+781,8,Agrargemeinden,Corserey
+782,5,Gürtel der Mittelzentren,Cottens (FR)
+783,5,Gürtel der Mittelzentren,Ependes (FR)
+784,5,Gürtel der Mittelzentren,Farvagny
+785,5,Gürtel der Mittelzentren,Ferpicloz
+786,4,Mittelzentren,Fribourg
+787,5,Gürtel der Mittelzentren,Givisiez
+788,5,Gürtel der Mittelzentren,Granges-Paccot
+789,5,Gürtel der Mittelzentren,Grolley
+790,5,Gürtel der Mittelzentren,Marly
+791,5,Gürtel der Mittelzentren,Matran
+792,5,Gürtel der Mittelzentren,Neyruz (FR)
+793,8,Agrargemeinden,Noréaz
+794,8,Agrargemeinden,Pierrafortscha
+795,7,Periurbane ländliche Gemeinden,Ponthaux
+796,5,Gürtel der Mittelzentren,Le Mouret
+797,7,Periurbane ländliche Gemeinden,Prez-vers-Noréaz
+798,5,Gürtel der Mittelzentren,Rossens (FR)
+799,7,Periurbane ländliche Gemeinden,Le Glèbe
+800,5,Gürtel der Mittelzentren,Senèdes
+801,8,Agrargemeinden,Treyvaux
+802,5,Gürtel der Mittelzentren,Villars-sur-Glâne
+803,5,Gürtel der Mittelzentren,Villarsel-sur-Marly
+804,7,Periurbane ländliche Gemeinden,Vuisternens-en-Ogoz
+805,5,Gürtel der Mittelzentren,Hauterive (FR)
+806,5,Gürtel der Mittelzentren,La Brillaz
+807,5,Gürtel der Mittelzentren,La Sonnaz
+808,8,Agrargemeinden,Barberêche
+809,7,Periurbane ländliche Gemeinden,Courgevaux
+810,8,Agrargemeinden,Courlevon
+811,5,Gürtel der Mittelzentren,Courtepin
+812,7,Periurbane ländliche Gemeinden,Cressier (FR)
+813,8,Agrargemeinden,Fräschels
+814,7,Periurbane ländliche Gemeinden,Galmiz
+815,8,Agrargemeinden,Gempenach
+816,8,Agrargemeinden,Greng
+817,7,Periurbane ländliche Gemeinden,Gurmels
+818,7,Periurbane ländliche Gemeinden,Jeuss
+819,7,Periurbane ländliche Gemeinden,Kerzers
+820,7,Periurbane ländliche Gemeinden,Kleinbösingen
+821,8,Agrargemeinden,Lurtigen
+822,7,Periurbane ländliche Gemeinden,Meyriez
+823,5,Gürtel der Mittelzentren,Misery-Courtion
+824,7,Periurbane ländliche Gemeinden,Muntelier
+825,6,Kleinzentren,Murten
+826,8,Agrargemeinden,Ried bei Kerzers
+827,8,Agrargemeinden,Salvenach
+828,8,Agrargemeinden,Ulmiz
+829,7,Periurbane ländliche Gemeinden,Villarepos
+830,7,Periurbane ländliche Gemeinden,Bas-Vully
+831,8,Agrargemeinden,Haut-Vully
+832,7,Periurbane ländliche Gemeinden,Wallenried
+833,7,Periurbane ländliche Gemeinden,Alterswil
+834,7,Periurbane ländliche Gemeinden,Brünisried
+835,5,Gürtel der Mittelzentren,Düdingen
+836,5,Gürtel der Mittelzentren,Giffers
+837,3,Gürtel der Grosszentren,Bösingen
+838,7,Periurbane ländliche Gemeinden,Heitenried
+839,7,Periurbane ländliche Gemeinden,Oberschrot
+840,7,Periurbane ländliche Gemeinden,Plaffeien
+841,7,Periurbane ländliche Gemeinden,Plasselb
+842,7,Periurbane ländliche Gemeinden,Rechthalten
+843,7,Periurbane ländliche Gemeinden,St. Antoni
+844,7,Periurbane ländliche Gemeinden,St. Silvester
+845,7,Periurbane ländliche Gemeinden,St. Ursen
+846,3,Gürtel der Grosszentren,Schmitten (FR)
+847,5,Gürtel der Mittelzentren,Tafers
+848,5,Gürtel der Mittelzentren,Tentlingen
+849,7,Periurbane ländliche Gemeinden,Ueberstorf
+850,3,Gürtel der Grosszentren,Wünnewil-Flamatt
+851,7,Periurbane ländliche Gemeinden,Zumholz
+852,5,Gürtel der Mittelzentren,Attalens
+853,5,Gürtel der Mittelzentren,Bossonnens
+854,5,Gürtel der Mittelzentren,Châtel-Saint-Denis
+855,7,Periurbane ländliche Gemeinden,Granges (Veveyse)
+856,5,Gürtel der Mittelzentren,Remaufens
+857,8,Agrargemeinden,Saint-Martin (FR)
+858,7,Periurbane ländliche Gemeinden,Semsales
+859,8,Agrargemeinden,Le Flon
+860,8,Agrargemeinden,La Verrerie
+861,5,Gürtel der Mittelzentren,Egerkingen
+862,5,Gürtel der Mittelzentren,Härkingen
+863,7,Periurbane ländliche Gemeinden,Kestenholz
+864,5,Gürtel der Mittelzentren,Neuendorf
+865,5,Gürtel der Mittelzentren,Niederbuchsiten
+866,5,Gürtel der Mittelzentren,Oberbuchsiten
+867,7,Periurbane ländliche Gemeinden,Oensingen
+868,7,Periurbane ländliche Gemeinden,Wolfwil
+869,8,Agrargemeinden,Aedermannsdorf
+870,6,Kleinzentren,Balsthal
+871,8,Agrargemeinden,Gänsbrunnen
+872,8,Agrargemeinden,Herbetswil
+873,7,Periurbane ländliche Gemeinden,Holderbank (SO)
+874,7,Periurbane ländliche Gemeinden,Laupersdorf
+875,7,Periurbane ländliche Gemeinden,Matzendorf
+876,8,Agrargemeinden,Mümliswil-Ramiswil
+877,7,Periurbane ländliche Gemeinden,Welschenrohr
+878,7,Periurbane ländliche Gemeinden,Biezwil
+879,7,Periurbane ländliche Gemeinden,Lüterkofen-Ichertswil
+880,8,Agrargemeinden,Lüterswil-Gächliwil
+881,8,Agrargemeinden,Messen
+882,7,Periurbane ländliche Gemeinden,Schnottwil
+883,8,Agrargemeinden,Unterramsern
+884,8,Agrargemeinden,Lüsslingen-Nennigkofen
+885,8,Agrargemeinden,Buchegg
+886,3,Gürtel der Grosszentren,Bättwil
+887,3,Gürtel der Grosszentren,Büren (SO)
+888,3,Gürtel der Grosszentren,Dornach
+889,3,Gürtel der Grosszentren,Gempen
+890,3,Gürtel der Grosszentren,Hochwald
+891,3,Gürtel der Grosszentren,Hofstetten-Flüh
+892,7,Periurbane ländliche Gemeinden,Metzerlen-Mariastein
+893,3,Gürtel der Grosszentren,Nuglar-St. Pantaleon
+894,3,Gürtel der Grosszentren,Rodersdorf
+895,7,Periurbane ländliche Gemeinden,Seewen
+896,3,Gürtel der Grosszentren,Witterswil
+897,8,Agrargemeinden,Hauenstein-Ifenthal
+898,8,Agrargemeinden,Kienberg
+899,5,Gürtel der Mittelzentren,Lostorf
+900,5,Gürtel der Mittelzentren,Niedergösgen
+901,5,Gürtel der Mittelzentren,Obergösgen
+902,8,Agrargemeinden,Rohr (SO)
+903,7,Periurbane ländliche Gemeinden,Stüsslingen
+904,5,Gürtel der Mittelzentren,Trimbach
+905,5,Gürtel der Mittelzentren,Winznau
+906,7,Periurbane ländliche Gemeinden,Wisen (SO)
+907,5,Gürtel der Mittelzentren,Erlinsbach (SO)
+908,7,Periurbane ländliche Gemeinden,Aeschi (SO)
+909,5,Gürtel der Mittelzentren,Biberist
+910,7,Periurbane ländliche Gemeinden,Bolken
+911,7,Periurbane ländliche Gemeinden,Deitingen
+912,5,Gürtel der Mittelzentren,Derendingen
+913,7,Periurbane ländliche Gemeinden,Etziken
+914,5,Gürtel der Mittelzentren,Gerlafingen
+915,5,Gürtel der Mittelzentren,Halten
+916,5,Gürtel der Mittelzentren,Horriwil
+917,8,Agrargemeinden,Hüniken
+918,5,Gürtel der Mittelzentren,Kriegstetten
+919,5,Gürtel der Mittelzentren,Lohn-Ammannsegg
+920,5,Gürtel der Mittelzentren,Luterbach
+921,5,Gürtel der Mittelzentren,Obergerlafingen
+922,5,Gürtel der Mittelzentren,Oekingen
+923,5,Gürtel der Mittelzentren,Recherswil
+924,5,Gürtel der Mittelzentren,Subingen
+925,5,Gürtel der Mittelzentren,Zuchwil
+926,7,Periurbane ländliche Gemeinden,Drei Höfe
+927,5,Gürtel der Mittelzentren,Balm bei Günsberg
+928,5,Gürtel der Mittelzentren,Bellach
+929,5,Gürtel der Mittelzentren,Bettlach
+930,5,Gürtel der Mittelzentren,Feldbrunnen-St. Niklaus
+931,7,Periurbane ländliche Gemeinden,Flumenthal
+932,4,Mittelzentren,Grenchen
+933,7,Periurbane ländliche Gemeinden,Günsberg
+934,5,Gürtel der Mittelzentren,Hubersdorf
+935,8,Agrargemeinden,Kammersrohr
+936,5,Gürtel der Mittelzentren,Langendorf
+937,5,Gürtel der Mittelzentren,Lommiswil
+938,5,Gürtel der Mittelzentren,Oberdorf (SO)
+939,5,Gürtel der Mittelzentren,Riedholz
+940,5,Gürtel der Mittelzentren,Rüttenen
+941,7,Periurbane ländliche Gemeinden,Selzach
+942,5,Gürtel der Mittelzentren,Boningen
+943,5,Gürtel der Mittelzentren,Däniken
+944,5,Gürtel der Mittelzentren,Dulliken
+945,5,Gürtel der Mittelzentren,Eppenberg-Wöschnau
+946,7,Periurbane ländliche Gemeinden,Fulenbach
+947,5,Gürtel der Mittelzentren,Gretzenbach
+948,5,Gürtel der Mittelzentren,Gunzgen
+949,5,Gürtel der Mittelzentren,Hägendorf
+950,5,Gürtel der Mittelzentren,Kappel (SO)
+951,4,Mittelzentren,Olten
+952,5,Gürtel der Mittelzentren,Rickenbach (SO)
+953,5,Gürtel der Mittelzentren,Schönenwerd
+954,5,Gürtel der Mittelzentren,Starrkirch-Wil
+955,7,Periurbane ländliche Gemeinden,Walterswil (SO)
+956,5,Gürtel der Mittelzentren,Wangen bei Olten
+957,4,Mittelzentren,Solothurn
+958,7,Periurbane ländliche Gemeinden,Bärschwil
+959,8,Agrargemeinden,Beinwil (SO)
+960,3,Gürtel der Grosszentren,Breitenbach
+961,7,Periurbane ländliche Gemeinden,Büsserach
+962,7,Periurbane ländliche Gemeinden,Erschwil
+963,7,Periurbane ländliche Gemeinden,Fehren
+964,7,Periurbane ländliche Gemeinden,Grindel
+965,3,Gürtel der Grosszentren,Himmelried
+966,7,Periurbane ländliche Gemeinden,Kleinlützel
+967,7,Periurbane ländliche Gemeinden,Meltingen
+968,7,Periurbane ländliche Gemeinden,Nunningen
+969,7,Periurbane ländliche Gemeinden,Zullwil
+970,1,Grosszentren,Basel
+971,3,Gürtel der Grosszentren,Bettingen
+972,3,Gürtel der Grosszentren,Riehen
+973,3,Gürtel der Grosszentren,Aesch (BL)
+974,2,Nebenzentren der Grosszentren,Allschwil
+975,3,Gürtel der Grosszentren,Arlesheim
+976,3,Gürtel der Grosszentren,Biel-Benken
+977,2,Nebenzentren der Grosszentren,Binningen
+978,3,Gürtel der Grosszentren,Birsfelden
+979,3,Gürtel der Grosszentren,Bottmingen
+980,3,Gürtel der Grosszentren,Ettingen
+981,2,Nebenzentren der Grosszentren,Münchenstein
+982,2,Nebenzentren der Grosszentren,Muttenz
+983,3,Gürtel der Grosszentren,Oberwil (BL)
+984,3,Gürtel der Grosszentren,Pfeffingen
+985,2,Nebenzentren der Grosszentren,Reinach (BL)
+986,3,Gürtel der Grosszentren,Schönenbuch
+987,3,Gürtel der Grosszentren,Therwil
+988,3,Gürtel der Grosszentren,Blauen
+989,3,Gürtel der Grosszentren,Brislach
+990,7,Periurbane ländliche Gemeinden,Burg im Leimental
+991,7,Periurbane ländliche Gemeinden,Dittingen
+992,3,Gürtel der Grosszentren,Duggingen
+993,3,Gürtel der Grosszentren,Grellingen
+994,3,Gürtel der Grosszentren,Laufen
+995,7,Periurbane ländliche Gemeinden,Liesberg
+996,3,Gürtel der Grosszentren,Nenzlingen
+997,7,Periurbane ländliche Gemeinden,Roggenburg
+998,3,Gürtel der Grosszentren,Röschenz
+999,3,Gürtel der Grosszentren,Wahlen
+1000,3,Gürtel der Grosszentren,Zwingen
+1001,7,Periurbane ländliche Gemeinden,Arisdorf
+1002,3,Gürtel der Grosszentren,Augst
+1003,3,Gürtel der Grosszentren,Bubendorf
+1004,3,Gürtel der Grosszentren,Frenkendorf
+1005,3,Gürtel der Grosszentren,Füllinsdorf
+1006,3,Gürtel der Grosszentren,Giebenach
+1007,7,Periurbane ländliche Gemeinden,Hersberg
+1008,3,Gürtel der Grosszentren,Lausen
+1009,2,Nebenzentren der Grosszentren,Liestal
+1010,3,Gürtel der Grosszentren,Lupsingen
+1011,2,Nebenzentren der Grosszentren,Pratteln
+1012,3,Gürtel der Grosszentren,Ramlinsburg
+1013,3,Gürtel der Grosszentren,Seltisberg
+1014,3,Gürtel der Grosszentren,Ziefen
+1015,7,Periurbane ländliche Gemeinden,Anwil
+1016,3,Gürtel der Grosszentren,Böckten
+1017,7,Periurbane ländliche Gemeinden,Buckten
+1018,8,Agrargemeinden,Buus
+1019,3,Gürtel der Grosszentren,Diepflingen
+1020,3,Gürtel der Grosszentren,Gelterkinden
+1021,8,Agrargemeinden,Häfelfingen
+1022,7,Periurbane ländliche Gemeinden,Hemmiken
+1023,3,Gürtel der Grosszentren,Itingen
+1024,7,Periurbane ländliche Gemeinden,Känerkinden
+1025,7,Periurbane ländliche Gemeinden,Kilchberg (BL)
+1026,7,Periurbane ländliche Gemeinden,Läufelfingen
+1027,7,Periurbane ländliche Gemeinden,Maisprach
+1028,7,Periurbane ländliche Gemeinden,Nusshof
+1029,8,Agrargemeinden,Oltingen
+1030,3,Gürtel der Grosszentren,Ormalingen
+1031,7,Periurbane ländliche Gemeinden,Rickenbach (BL)
+1032,7,Periurbane ländliche Gemeinden,Rothenfluh
+1033,7,Periurbane ländliche Gemeinden,Rümlingen
+1034,3,Gürtel der Grosszentren,Rünenberg
+1035,3,Gürtel der Grosszentren,Sissach
+1036,3,Gürtel der Grosszentren,Tecknau
+1037,3,Gürtel der Grosszentren,Tenniken
+1038,3,Gürtel der Grosszentren,Thürnen
+1039,7,Periurbane ländliche Gemeinden,Wenslingen
+1040,7,Periurbane ländliche Gemeinden,Wintersingen
+1041,7,Periurbane ländliche Gemeinden,Wittinsburg
+1042,8,Agrargemeinden,Zeglingen
+1043,3,Gürtel der Grosszentren,Zunzgen
+1044,3,Gürtel der Grosszentren,Arboldswil
+1045,7,Periurbane ländliche Gemeinden,Bennwil
+1046,8,Agrargemeinden,Bretzwil
+1047,7,Periurbane ländliche Gemeinden,Diegten
+1048,8,Agrargemeinden,Eptingen
+1049,3,Gürtel der Grosszentren,Hölstein
+1050,3,Gürtel der Grosszentren,Lampenberg
+1051,8,Agrargemeinden,Langenbruck
+1052,8,Agrargemeinden,Lauwil
+1053,7,Periurbane ländliche Gemeinden,Liedertswil
+1054,3,Gürtel der Grosszentren,Niederdorf
+1055,3,Gürtel der Grosszentren,Oberdorf (BL)
+1056,7,Periurbane ländliche Gemeinden,Reigoldswil
+1057,8,Agrargemeinden,Titterten
+1058,7,Periurbane ländliche Gemeinden,Waldenburg
+1059,8,Agrargemeinden,Gächlingen
+1060,5,Gürtel der Mittelzentren,Löhningen
+1061,7,Periurbane ländliche Gemeinden,Neunkirch
+1062,5,Gürtel der Mittelzentren,Büttenhardt
+1063,5,Gürtel der Mittelzentren,Dörflingen
+1064,5,Gürtel der Mittelzentren,Lohn (SH)
+1065,5,Gürtel der Mittelzentren,Stetten (SH)
+1066,5,Gürtel der Mittelzentren,Thayngen
+1067,8,Agrargemeinden,Bargen (SH)
+1068,5,Gürtel der Mittelzentren,Beringen
+1069,7,Periurbane ländliche Gemeinden,Buchberg
+1070,7,Periurbane ländliche Gemeinden,Merishausen
+1071,5,Gürtel der Mittelzentren,Neuhausen am Rheinfall
+1072,7,Periurbane ländliche Gemeinden,Rüdlingen
+1073,4,Mittelzentren,Schaffhausen
+1074,8,Agrargemeinden,Beggingen
+1075,8,Agrargemeinden,Schleitheim
+1076,7,Periurbane ländliche Gemeinden,Siblingen
+1077,7,Periurbane ländliche Gemeinden,Buch (SH)
+1078,8,Agrargemeinden,Hemishofen
+1079,8,Agrargemeinden,Ramsen
+1080,7,Periurbane ländliche Gemeinden,Stein am Rhein
+1081,8,Agrargemeinden,Hallau
+1082,8,Agrargemeinden,Oberhallau
+1083,8,Agrargemeinden,Trasadingen
+1084,8,Agrargemeinden,Wilchingen
+1085,2,Nebenzentren der Grosszentren,Herisau
+1086,8,Agrargemeinden,Hundwil
+1087,8,Agrargemeinden,Schönengrund
+1088,8,Agrargemeinden,Schwellbrunn
+1089,8,Agrargemeinden,Stein (AR)
+1090,8,Agrargemeinden,Urnäsch
+1091,3,Gürtel der Grosszentren,Waldstatt
+1092,7,Periurbane ländliche Gemeinden,Bühler
+1093,7,Periurbane ländliche Gemeinden,Gais
+1094,3,Gürtel der Grosszentren,Speicher
+1095,3,Gürtel der Grosszentren,Teufen (AR)
+1096,7,Periurbane ländliche Gemeinden,Trogen
+1097,7,Periurbane ländliche Gemeinden,Grub (AR)
+1098,7,Periurbane ländliche Gemeinden,Heiden
+1099,5,Gürtel der Mittelzentren,Lutzenberg
+1100,7,Periurbane ländliche Gemeinden,Rehetobel
+1101,7,Periurbane ländliche Gemeinden,Reute (AR)
+1102,7,Periurbane ländliche Gemeinden,Wald (AR)
+1103,7,Periurbane ländliche Gemeinden,Walzenhausen
+1104,7,Periurbane ländliche Gemeinden,Wolfhalden
+1105,6,Kleinzentren,Appenzell
+1106,8,Agrargemeinden,Gonten
+1107,8,Agrargemeinden,Rüte
+1108,8,Agrargemeinden,Schlatt-Haslen
+1109,8,Agrargemeinden,Schwende
+1110,8,Agrargemeinden,Oberegg
+1111,8,Agrargemeinden,Häggenschwil
+1112,8,Agrargemeinden,Muolen
+1113,1,Grosszentren,St. Gallen
+1114,3,Gürtel der Grosszentren,Wittenbach
+1115,7,Periurbane ländliche Gemeinden,Berg (SG)
+1116,7,Periurbane ländliche Gemeinden,Eggersriet
+1117,5,Gürtel der Mittelzentren,Goldach
+1118,3,Gürtel der Grosszentren,Mörschwil
+1119,4,Mittelzentren,Rorschach
+1120,5,Gürtel der Mittelzentren,Rorschacherberg
+1121,5,Gürtel der Mittelzentren,Steinach
+1122,5,Gürtel der Mittelzentren,Tübach
+1123,7,Periurbane ländliche Gemeinden,Untereggen
+1124,4,Mittelzentren,Au (SG)
+1125,5,Gürtel der Mittelzentren,Balgach
+1126,5,Gürtel der Mittelzentren,Berneck
+1127,5,Gürtel der Mittelzentren,Diepoldsau
+1128,5,Gürtel der Mittelzentren,Rheineck
+1129,5,Gürtel der Mittelzentren,St. Margrethen
+1130,5,Gürtel der Mittelzentren,Thal
+1131,5,Gürtel der Mittelzentren,Widnau
+1132,4,Mittelzentren,Altstätten
+1133,5,Gürtel der Mittelzentren,Eichberg
+1134,5,Gürtel der Mittelzentren,Marbach (SG)
+1135,7,Periurbane ländliche Gemeinden,Oberriet (SG)
+1136,5,Gürtel der Mittelzentren,Rebstein
+1137,7,Periurbane ländliche Gemeinden,Rüthi (SG)
+1138,4,Mittelzentren,Buchs (SG)
+1139,8,Agrargemeinden,Gams
+1140,5,Gürtel der Mittelzentren,Grabs
+1141,7,Periurbane ländliche Gemeinden,Sennwald
+1142,5,Gürtel der Mittelzentren,Sevelen
+1143,7,Periurbane ländliche Gemeinden,Wartau
+1144,9,Touristische Gemeinden,Bad Ragaz
+1145,7,Periurbane ländliche Gemeinden,Flums
+1146,7,Periurbane ländliche Gemeinden,Mels
+1147,8,Agrargemeinden,Pfäfers
+1148,7,Periurbane ländliche Gemeinden,Quarten
+1149,6,Kleinzentren,Sargans
+1150,7,Periurbane ländliche Gemeinden,Vilters-Wangs
+1151,7,Periurbane ländliche Gemeinden,Walenstadt
+1152,8,Agrargemeinden,Amden
+1153,8,Agrargemeinden,Benken (SG)
+1154,7,Periurbane ländliche Gemeinden,Kaltbrunn
+1155,8,Agrargemeinden,Schänis
+1156,7,Periurbane ländliche Gemeinden,Weesen
+1157,7,Periurbane ländliche Gemeinden,Schmerikon
+1158,7,Periurbane ländliche Gemeinden,Uznach
+1159,4,Mittelzentren,Rapperswil-Jona
+1160,7,Periurbane ländliche Gemeinden,Gommiswald
+1161,7,Periurbane ländliche Gemeinden,Eschenbach (SG)
+1162,7,Periurbane ländliche Gemeinden,Ebnat-Kappel
+1163,9,Touristische Gemeinden,Wildhaus-Alt St. Johann
+1164,8,Agrargemeinden,Nesslau
+1165,8,Agrargemeinden,Hemberg
+1166,7,Periurbane ländliche Gemeinden,Lichtensteig
+1167,8,Agrargemeinden,Oberhelfenschwil
+1168,8,Agrargemeinden,Neckertal
+1169,6,Kleinzentren,Wattwil
+1170,7,Periurbane ländliche Gemeinden,Kirchberg (SG)
+1171,8,Agrargemeinden,Lütisburg
+1172,8,Agrargemeinden,Mosnang
+1173,7,Periurbane ländliche Gemeinden,Bütschwil-Ganterschwil
+1174,7,Periurbane ländliche Gemeinden,Degersheim
+1175,3,Gürtel der Grosszentren,Flawil
+1176,7,Periurbane ländliche Gemeinden,Jonschwil
+1177,5,Gürtel der Mittelzentren,Oberuzwil
+1178,5,Gürtel der Mittelzentren,Uzwil
+1179,8,Agrargemeinden,Niederbüren
+1180,8,Agrargemeinden,Niederhelfenschwil
+1181,5,Gürtel der Mittelzentren,Oberbüren
+1182,5,Gürtel der Mittelzentren,Zuzwil (SG)
+1183,4,Mittelzentren,Wil (SG)
+1184,3,Gürtel der Grosszentren,Andwil (SG)
+1185,3,Gürtel der Grosszentren,Gaiserwald
+1186,2,Nebenzentren der Grosszentren,Gossau (SG)
+1187,8,Agrargemeinden,Waldkirch
+1188,8,Agrargemeinden,Alvaschein
+1189,8,Agrargemeinden,Mon
+1190,8,Agrargemeinden,Mutten
+1191,8,Agrargemeinden,Stierva
+1192,7,Periurbane ländliche Gemeinden,Tiefencastel
+1193,9,Touristische Gemeinden,Vaz/Obervaz
+1194,8,Agrargemeinden,Alvaneu
+1195,8,Agrargemeinden,Brienz/Brinzauls
+1196,9,Touristische Gemeinden,Lantsch/Lenz
+1197,7,Periurbane ländliche Gemeinden,Schmitten (GR)
+1198,7,Periurbane ländliche Gemeinden,Surava
+1199,9,Touristische Gemeinden,Bergün/Bravuogn
+1200,8,Agrargemeinden,Filisur
+1201,9,Touristische Gemeinden,Bivio
+1202,9,Touristische Gemeinden,Cunter
+1203,8,Agrargemeinden,Marmorera
+1204,8,Agrargemeinden,Mulegns
+1205,9,Touristische Gemeinden,Riom-Parsonz
+1206,8,Agrargemeinden,Salouf
+1207,9,Touristische Gemeinden,Savognin
+1208,8,Agrargemeinden,Sur
+1209,8,Agrargemeinden,Tinizong-Rona
+1210,8,Agrargemeinden,Brusio
+1211,7,Periurbane ländliche Gemeinden,Poschiavo
+1212,9,Touristische Gemeinden,Falera
+1213,9,Touristische Gemeinden,Laax
+1214,7,Periurbane ländliche Gemeinden,Sagogn
+1215,7,Periurbane ländliche Gemeinden,Schluein
+1216,8,Agrargemeinden,St. Martin
+1217,9,Touristische Gemeinden,Vals
+1218,8,Agrargemeinden,Andiast
+1219,9,Touristische Gemeinden,Obersaxen
+1220,9,Touristische Gemeinden,Waltensburg/Vuorz
+1221,9,Touristische Gemeinden,Mundaun
+1222,8,Agrargemeinden,Lumnezia
+1223,6,Kleinzentren,Ilanz/Glion
+1224,7,Periurbane ländliche Gemeinden,Almens
+1225,7,Periurbane ländliche Gemeinden,Fürstenau
+1226,7,Periurbane ländliche Gemeinden,Paspels
+1227,7,Periurbane ländliche Gemeinden,Pratval
+1228,7,Periurbane ländliche Gemeinden,Rodels
+1229,7,Periurbane ländliche Gemeinden,Rothenbrunnen
+1230,7,Periurbane ländliche Gemeinden,Scharans
+1231,7,Periurbane ländliche Gemeinden,Sils im Domleschg
+1232,8,Agrargemeinden,Cazis
+1233,8,Agrargemeinden,Flerden
+1234,7,Periurbane ländliche Gemeinden,Masein
+1235,6,Kleinzentren,Thusis
+1236,8,Agrargemeinden,Tschappina
+1237,8,Agrargemeinden,Urmein
+1238,8,Agrargemeinden,Tomils
+1239,8,Agrargemeinden,Safiental
+1240,8,Agrargemeinden,Avers
+1241,7,Periurbane ländliche Gemeinden,Hinterrhein
+1242,8,Agrargemeinden,Nufenen
+1243,9,Touristische Gemeinden,Splügen
+1244,8,Agrargemeinden,Sufers
+1245,9,Touristische Gemeinden,Andeer
+1246,8,Agrargemeinden,Casti-Wergenstein
+1247,8,Agrargemeinden,Donat
+1248,8,Agrargemeinden,Lohn (GR)
+1249,8,Agrargemeinden,Mathon
+1250,7,Periurbane ländliche Gemeinden,Rongellen
+1251,8,Agrargemeinden,Zillis-Reischen
+1252,8,Agrargemeinden,Ferrera
+1253,5,Gürtel der Mittelzentren,Bonaduz
+1254,5,Gürtel der Mittelzentren,Domat/Ems
+1255,5,Gürtel der Mittelzentren,Rhäzüns
+1256,5,Gürtel der Mittelzentren,Felsberg
+1257,9,Touristische Gemeinden,Flims
+1258,5,Gürtel der Mittelzentren,Tamins
+1259,5,Gürtel der Mittelzentren,Trin
+1260,9,Touristische Gemeinden,Ardez
+1261,9,Touristische Gemeinden,Guarda
+1262,8,Agrargemeinden,Lavin
+1263,7,Periurbane ländliche Gemeinden,Susch
+1264,9,Touristische Gemeinden,Tarasp
+1265,9,Touristische Gemeinden,Zernez
+1266,9,Touristische Gemeinden,Samnaun
+1267,9,Touristische Gemeinden,Ftan
+1268,9,Touristische Gemeinden,Scuol
+1269,9,Touristische Gemeinden,Sent
+1270,8,Agrargemeinden,Valsot
+1271,5,Gürtel der Mittelzentren,Bever
+1272,5,Gürtel der Mittelzentren,Celerina/Schlarigna
+1273,9,Touristische Gemeinden,Madulain
+1274,5,Gürtel der Mittelzentren,Pontresina
+1275,5,Gürtel der Mittelzentren,La Punt-Chamues-ch
+1276,5,Gürtel der Mittelzentren,Samedan
+1277,4,Mittelzentren,St. Moritz
+1278,9,Touristische Gemeinden,S-chanf
+1279,5,Gürtel der Mittelzentren,Sils im Engadin/Segl
+1280,5,Gürtel der Mittelzentren,Silvaplana
+1281,9,Touristische Gemeinden,Zuoz
+1282,9,Touristische Gemeinden,Bregaglia
+1283,8,Agrargemeinden,Arvigo
+1284,8,Agrargemeinden,Braggio
+1285,8,Agrargemeinden,Buseno
+1286,7,Periurbane ländliche Gemeinden,Castaneda
+1287,8,Agrargemeinden,Cauco
+1288,8,Agrargemeinden,Rossa
+1289,8,Agrargemeinden,Santa Maria in Calanca
+1290,8,Agrargemeinden,Selma
+1291,7,Periurbane ländliche Gemeinden,Lostallo
+1292,7,Periurbane ländliche Gemeinden,Mesocco
+1293,7,Periurbane ländliche Gemeinden,Soazza
+1294,7,Periurbane ländliche Gemeinden,Cama
+1295,7,Periurbane ländliche Gemeinden,Grono
+1296,7,Periurbane ländliche Gemeinden,Leggia
+1297,6,Kleinzentren,Roveredo (GR)
+1298,7,Periurbane ländliche Gemeinden,San Vittore
+1299,8,Agrargemeinden,Verdabbio
+1300,9,Touristische Gemeinden,Val Müstair
+1301,4,Mittelzentren,Davos
+1302,8,Agrargemeinden,Fideris
+1303,8,Agrargemeinden,Furna
+1304,7,Periurbane ländliche Gemeinden,Jenaz
+1305,9,Touristische Gemeinden,Klosters-Serneus
+1306,8,Agrargemeinden,Conters im Prättigau
+1307,7,Periurbane ländliche Gemeinden,Küblis
+1308,8,Agrargemeinden,Saas
+1309,9,Touristische Gemeinden,Luzein
+1310,8,Agrargemeinden,St. Antönien
+1311,4,Mittelzentren,Chur
+1312,9,Touristische Gemeinden,Churwalden
+1313,9,Touristische Gemeinden,Arosa
+1314,7,Periurbane ländliche Gemeinden,Maladers
+1315,9,Touristische Gemeinden,Tschiertschen-Praden
+1316,5,Gürtel der Mittelzentren,Haldenstein
+1317,5,Gürtel der Mittelzentren,Trimmis
+1318,5,Gürtel der Mittelzentren,Untervaz
+1319,5,Gürtel der Mittelzentren,Zizers
+1320,8,Agrargemeinden,Fläsch
+1321,8,Agrargemeinden,Jenins
+1322,8,Agrargemeinden,Maienfeld
+1323,5,Gürtel der Mittelzentren,Malans
+1324,5,Gürtel der Mittelzentren,Landquart
+1325,8,Agrargemeinden,Grüsch
+1326,6,Kleinzentren,Schiers
+1327,8,Agrargemeinden,Seewis im Prättigau
+1328,9,Touristische Gemeinden,Breil/Brigels
+1329,9,Touristische Gemeinden,Disentis/Mustér
+1330,8,Agrargemeinden,Medel (Lucmagn)
+1331,8,Agrargemeinden,Sumvitg
+1332,9,Touristische Gemeinden,Tujetsch
+1333,8,Agrargemeinden,Trun
+1334,4,Mittelzentren,Aarau
+1335,5,Gürtel der Mittelzentren,Biberstein
+1336,5,Gürtel der Mittelzentren,Buchs (AG)
+1337,8,Agrargemeinden,Densbüren
+1338,5,Gürtel der Mittelzentren,Erlinsbach (AG)
+1339,5,Gürtel der Mittelzentren,Gränichen
+1340,5,Gürtel der Mittelzentren,Hirschthal
+1341,5,Gürtel der Mittelzentren,Küttigen
+1342,5,Gürtel der Mittelzentren,Muhen
+1343,5,Gürtel der Mittelzentren,Oberentfelden
+1344,5,Gürtel der Mittelzentren,Suhr
+1345,5,Gürtel der Mittelzentren,Unterentfelden
+1346,4,Mittelzentren,Baden
+1347,3,Gürtel der Grosszentren,Bellikon
+1348,3,Gürtel der Grosszentren,Bergdietikon
+1349,5,Gürtel der Mittelzentren,Birmenstorf (AG)
+1350,5,Gürtel der Mittelzentren,Ennetbaden
+1351,5,Gürtel der Mittelzentren,Fislisbach
+1352,5,Gürtel der Mittelzentren,Freienwil
+1353,5,Gürtel der Mittelzentren,Gebenstorf
+1354,3,Gürtel der Grosszentren,Killwangen
+1355,7,Periurbane ländliche Gemeinden,Künten
+1356,7,Periurbane ländliche Gemeinden,Mägenwil
+1357,5,Gürtel der Mittelzentren,Mellingen
+1358,3,Gürtel der Grosszentren,Neuenhof
+1359,5,Gürtel der Mittelzentren,Niederrohrdorf
+1360,5,Gürtel der Mittelzentren,Oberrohrdorf
+1361,5,Gürtel der Mittelzentren,Obersiggenthal
+1362,3,Gürtel der Grosszentren,Remetschwil
+1363,2,Nebenzentren der Grosszentren,Spreitenbach
+1364,7,Periurbane ländliche Gemeinden,Stetten (AG)
+1365,5,Gürtel der Mittelzentren,Turgi
+1366,5,Gürtel der Mittelzentren,Untersiggenthal
+1367,5,Gürtel der Mittelzentren,Wettingen
+1368,7,Periurbane ländliche Gemeinden,Wohlenschwil
+1369,5,Gürtel der Mittelzentren,Würenlingen
+1370,3,Gürtel der Grosszentren,Würenlos
+1371,3,Gürtel der Grosszentren,Ehrendingen
+1372,3,Gürtel der Grosszentren,Arni (AG)
+1373,3,Gürtel der Grosszentren,Berikon
+1374,3,Gürtel der Grosszentren,Bremgarten (AG)
+1375,7,Periurbane ländliche Gemeinden,Büttikon
+1376,7,Periurbane ländliche Gemeinden,Dottikon
+1377,3,Gürtel der Grosszentren,Eggenwil
+1378,3,Gürtel der Grosszentren,Fischbach-Göslikon
+1379,7,Periurbane ländliche Gemeinden,Hägglingen
+1380,3,Gürtel der Grosszentren,Jonen
+1381,7,Periurbane ländliche Gemeinden,Niederwil (AG)
+1382,3,Gürtel der Grosszentren,Oberlunkhofen
+1383,3,Gürtel der Grosszentren,Oberwil-Lieli
+1384,3,Gürtel der Grosszentren,Rudolfstetten-Friedlisberg
+1385,7,Periurbane ländliche Gemeinden,Sarmenstorf
+1386,7,Periurbane ländliche Gemeinden,Tägerig
+1387,7,Periurbane ländliche Gemeinden,Uezwil
+1388,3,Gürtel der Grosszentren,Unterlunkhofen
+1389,5,Gürtel der Mittelzentren,Villmergen
+1390,3,Gürtel der Grosszentren,Widen
+1391,4,Mittelzentren,Wohlen (AG)
+1392,3,Gürtel der Grosszentren,Zufikon
+1393,3,Gürtel der Grosszentren,Islisberg
+1394,7,Periurbane ländliche Gemeinden,Auenstein
+1395,5,Gürtel der Mittelzentren,Birr
+1396,5,Gürtel der Mittelzentren,Birrhard
+1397,7,Periurbane ländliche Gemeinden,Bözen
+1398,4,Mittelzentren,Brugg
+1399,7,Periurbane ländliche Gemeinden,Effingen
+1400,7,Periurbane ländliche Gemeinden,Elfingen
+1401,7,Periurbane ländliche Gemeinden,Habsburg
+1402,5,Gürtel der Mittelzentren,Hausen (AG)
+1403,5,Gürtel der Mittelzentren,Lupfig
+1404,8,Agrargemeinden,Mandach
+1405,7,Periurbane ländliche Gemeinden,Mönthal
+1406,5,Gürtel der Mittelzentren,Mülligen
+1407,7,Periurbane ländliche Gemeinden,Remigen
+1408,5,Gürtel der Mittelzentren,Riniken
+1409,7,Periurbane ländliche Gemeinden,Rüfenach
+1410,7,Periurbane ländliche Gemeinden,Scherz
+1411,7,Periurbane ländliche Gemeinden,Schinznach-Bad
+1412,7,Periurbane ländliche Gemeinden,Thalheim (AG)
+1413,7,Periurbane ländliche Gemeinden,Veltheim (AG)
+1414,7,Periurbane ländliche Gemeinden,Villigen
+1415,7,Periurbane ländliche Gemeinden,Villnachern
+1416,5,Gürtel der Mittelzentren,Windisch
+1417,7,Periurbane ländliche Gemeinden,Bözberg
+1418,7,Periurbane ländliche Gemeinden,Schinznach
+1419,7,Periurbane ländliche Gemeinden,Beinwil am See
+1420,7,Periurbane ländliche Gemeinden,Birrwil
+1421,7,Periurbane ländliche Gemeinden,Burg (AG)
+1422,7,Periurbane ländliche Gemeinden,Dürrenäsch
+1423,7,Periurbane ländliche Gemeinden,Gontenschwil
+1424,7,Periurbane ländliche Gemeinden,Holziken
+1425,7,Periurbane ländliche Gemeinden,Leimbach (AG)
+1426,7,Periurbane ländliche Gemeinden,Leutwil
+1427,7,Periurbane ländliche Gemeinden,Menziken
+1428,7,Periurbane ländliche Gemeinden,Oberkulm
+1429,6,Kleinzentren,Reinach (AG)
+1430,7,Periurbane ländliche Gemeinden,Schlossrued
+1431,8,Agrargemeinden,Schmiedrued
+1432,5,Gürtel der Mittelzentren,Schöftland
+1433,7,Periurbane ländliche Gemeinden,Teufenthal (AG)
+1434,7,Periurbane ländliche Gemeinden,Unterkulm
+1435,7,Periurbane ländliche Gemeinden,Zetzwil
+1436,7,Periurbane ländliche Gemeinden,Eiken
+1437,7,Periurbane ländliche Gemeinden,Frick
+1438,7,Periurbane ländliche Gemeinden,Gansingen
+1439,7,Periurbane ländliche Gemeinden,Gipf-Oberfrick
+1440,7,Periurbane ländliche Gemeinden,Herznach
+1441,7,Periurbane ländliche Gemeinden,Hornussen
+1442,7,Periurbane ländliche Gemeinden,Kaisten
+1443,7,Periurbane ländliche Gemeinden,Laufenburg
+1444,7,Periurbane ländliche Gemeinden,Münchwilen (AG)
+1445,7,Periurbane ländliche Gemeinden,Oberhof
+1446,7,Periurbane ländliche Gemeinden,Oeschgen
+1447,7,Periurbane ländliche Gemeinden,Schwaderloch
+1448,7,Periurbane ländliche Gemeinden,Sisseln
+1449,7,Periurbane ländliche Gemeinden,Ueken
+1450,7,Periurbane ländliche Gemeinden,Wittnau
+1451,8,Agrargemeinden,Wölflinswil
+1452,7,Periurbane ländliche Gemeinden,Zeihen
+1453,8,Agrargemeinden,Mettauertal
+1454,7,Periurbane ländliche Gemeinden,Ammerswil
+1455,7,Periurbane ländliche Gemeinden,Boniswil
+1456,7,Periurbane ländliche Gemeinden,Brunegg
+1457,7,Periurbane ländliche Gemeinden,Dintikon
+1458,7,Periurbane ländliche Gemeinden,Egliswil
+1459,7,Periurbane ländliche Gemeinden,Fahrwangen
+1460,7,Periurbane ländliche Gemeinden,Hallwil
+1461,7,Periurbane ländliche Gemeinden,Hendschiken
+1462,7,Periurbane ländliche Gemeinden,Holderbank (AG)
+1463,5,Gürtel der Mittelzentren,Hunzenschwil
+1464,4,Mittelzentren,Lenzburg
+1465,7,Periurbane ländliche Gemeinden,Meisterschwanden
+1466,5,Gürtel der Mittelzentren,Möriken-Wildegg
+1467,5,Gürtel der Mittelzentren,Niederlenz
+1468,7,Periurbane ländliche Gemeinden,Othmarsingen
+1469,5,Gürtel der Mittelzentren,Rupperswil
+1470,5,Gürtel der Mittelzentren,Schafisheim
+1471,7,Periurbane ländliche Gemeinden,Seengen
+1472,7,Periurbane ländliche Gemeinden,Seon
+1473,5,Gürtel der Mittelzentren,Staufen
+1474,7,Periurbane ländliche Gemeinden,Abtwil
+1475,7,Periurbane ländliche Gemeinden,Aristau
+1476,7,Periurbane ländliche Gemeinden,Auw
+1477,8,Agrargemeinden,Beinwil (Freiamt)
+1478,7,Periurbane ländliche Gemeinden,Besenbüren
+1479,7,Periurbane ländliche Gemeinden,Bettwil
+1480,7,Periurbane ländliche Gemeinden,Boswil
+1481,8,Agrargemeinden,Bünzen
+1482,7,Periurbane ländliche Gemeinden,Buttwil
+1483,7,Periurbane ländliche Gemeinden,Dietwil
+1484,8,Agrargemeinden,Geltwil
+1485,8,Agrargemeinden,Kallern
+1486,7,Periurbane ländliche Gemeinden,Merenschwand
+1487,7,Periurbane ländliche Gemeinden,Mühlau
+1488,7,Periurbane ländliche Gemeinden,Muri (AG)
+1489,7,Periurbane ländliche Gemeinden,Oberrüti
+1490,3,Gürtel der Grosszentren,Rottenschwil
+1491,8,Agrargemeinden,Sins
+1492,5,Gürtel der Mittelzentren,Waltenschwil
+1493,7,Periurbane ländliche Gemeinden,Hellikon
+1494,3,Gürtel der Grosszentren,Kaiseraugst
+1495,3,Gürtel der Grosszentren,Magden
+1496,3,Gürtel der Grosszentren,Möhlin
+1497,3,Gürtel der Grosszentren,Mumpf
+1498,7,Periurbane ländliche Gemeinden,Obermumpf
+1499,7,Periurbane ländliche Gemeinden,Olsberg
+1500,2,Nebenzentren der Grosszentren,Rheinfelden
+1501,7,Periurbane ländliche Gemeinden,Schupfart
+1502,3,Gürtel der Grosszentren,Stein (AG)
+1503,3,Gürtel der Grosszentren,Wallbach
+1504,7,Periurbane ländliche Gemeinden,Wegenstetten
+1505,3,Gürtel der Grosszentren,Zeiningen
+1506,7,Periurbane ländliche Gemeinden,Zuzgen
+1507,5,Gürtel der Mittelzentren,Aarburg
+1508,8,Agrargemeinden,Attelwil
+1509,7,Periurbane ländliche Gemeinden,Bottenwil
+1510,5,Gürtel der Mittelzentren,Brittnau
+1511,7,Periurbane ländliche Gemeinden,Kirchleerau
+1512,7,Periurbane ländliche Gemeinden,Kölliken
+1513,7,Periurbane ländliche Gemeinden,Moosleerau
+1514,7,Periurbane ländliche Gemeinden,Murgenthal
+1515,5,Gürtel der Mittelzentren,Oftringen
+1516,7,Periurbane ländliche Gemeinden,Reitnau
+1517,5,Gürtel der Mittelzentren,Rothrist
+1518,7,Periurbane ländliche Gemeinden,Safenwil
+1519,7,Periurbane ländliche Gemeinden,Staffelbach
+1520,5,Gürtel der Mittelzentren,Strengelbach
+1521,7,Periurbane ländliche Gemeinden,Uerkheim
+1522,7,Periurbane ländliche Gemeinden,Vordemwald
+1523,8,Agrargemeinden,Wiliberg
+1524,4,Mittelzentren,Zofingen
+1525,7,Periurbane ländliche Gemeinden,Baldingen
+1526,8,Agrargemeinden,Böbikon
+1527,7,Periurbane ländliche Gemeinden,Böttstein
+1528,7,Periurbane ländliche Gemeinden,Döttingen
+1529,7,Periurbane ländliche Gemeinden,Endingen
+1530,8,Agrargemeinden,Fisibach
+1531,7,Periurbane ländliche Gemeinden,Full-Reuenthal
+1532,3,Gürtel der Grosszentren,Kaiserstuhl
+1533,7,Periurbane ländliche Gemeinden,Klingnau
+1534,7,Periurbane ländliche Gemeinden,Koblenz
+1535,7,Periurbane ländliche Gemeinden,Leibstadt
+1536,7,Periurbane ländliche Gemeinden,Lengnau (AG)
+1537,7,Periurbane ländliche Gemeinden,Leuggern
+1538,7,Periurbane ländliche Gemeinden,Mellikon
+1539,7,Periurbane ländliche Gemeinden,Rekingen (AG)
+1540,7,Periurbane ländliche Gemeinden,Rietheim
+1541,7,Periurbane ländliche Gemeinden,Rümikon
+1542,7,Periurbane ländliche Gemeinden,Schneisingen
+1543,7,Periurbane ländliche Gemeinden,Siglistorf
+1544,7,Periurbane ländliche Gemeinden,Tegerfelden
+1545,8,Agrargemeinden,Wislikofen
+1546,9,Touristische Gemeinden,Bad Zurzach
+1547,4,Mittelzentren,Arbon
+1548,8,Agrargemeinden,Dozwil
+1549,8,Agrargemeinden,Egnach
+1550,5,Gürtel der Mittelzentren,Hefenhofen
+1551,5,Gürtel der Mittelzentren,Horn
+1552,8,Agrargemeinden,Kesswil
+1553,5,Gürtel der Mittelzentren,Roggwil (TG)
+1554,4,Mittelzentren,Romanshorn
+1555,5,Gürtel der Mittelzentren,Salmsach
+1556,8,Agrargemeinden,Sommeri
+1557,5,Gürtel der Mittelzentren,Uttwil
+1558,4,Mittelzentren,Amriswil
+1559,7,Periurbane ländliche Gemeinden,Bischofszell
+1560,8,Agrargemeinden,Erlen
+1561,8,Agrargemeinden,Hauptwil-Gottshaus
+1562,8,Agrargemeinden,Hohentannen
+1563,7,Periurbane ländliche Gemeinden,Kradolf-Schönenberg
+1564,7,Periurbane ländliche Gemeinden,Sulgen
+1565,8,Agrargemeinden,Zihlschlacht-Sitterdorf
+1566,8,Agrargemeinden,Basadingen-Schlattingen
+1567,7,Periurbane ländliche Gemeinden,Diessenhofen
+1568,8,Agrargemeinden,Schlatt (TG)
+1569,7,Periurbane ländliche Gemeinden,Aadorf
+1570,5,Gürtel der Mittelzentren,Felben-Wellhausen
+1571,4,Mittelzentren,Frauenfeld
+1572,5,Gürtel der Mittelzentren,Gachnang
+1573,7,Periurbane ländliche Gemeinden,Hüttlingen
+1574,7,Periurbane ländliche Gemeinden,Matzingen
+1575,8,Agrargemeinden,Neunforn
+1576,7,Periurbane ländliche Gemeinden,Stettfurt
+1577,8,Agrargemeinden,Thundorf
+1578,8,Agrargemeinden,Uesslingen-Buch
+1579,7,Periurbane ländliche Gemeinden,Warth-Weiningen
+1580,8,Agrargemeinden,Altnau
+1581,5,Gürtel der Mittelzentren,Bottighofen
+1582,7,Periurbane ländliche Gemeinden,Ermatingen
+1583,5,Gürtel der Mittelzentren,Gottlieben
+1584,8,Agrargemeinden,Güttingen
+1585,8,Agrargemeinden,Kemmental
+1586,4,Mittelzentren,Kreuzlingen
+1587,8,Agrargemeinden,Langrickenbach
+1588,8,Agrargemeinden,Lengwil
+1589,5,Gürtel der Mittelzentren,Münsterlingen
+1590,5,Gürtel der Mittelzentren,Tägerwilen
+1591,8,Agrargemeinden,Wäldi
+1592,8,Agrargemeinden,Affeltrangen
+1593,7,Periurbane ländliche Gemeinden,Bettwiesen
+1594,7,Periurbane ländliche Gemeinden,Bichelsee-Balterswil
+1595,8,Agrargemeinden,Braunau
+1596,5,Gürtel der Mittelzentren,Eschlikon
+1597,8,Agrargemeinden,Fischingen
+1598,8,Agrargemeinden,Lommis
+1599,5,Gürtel der Mittelzentren,Münchwilen (TG)
+1600,5,Gürtel der Mittelzentren,Rickenbach (TG)
+1601,8,Agrargemeinden,Schönholzerswilen
+1602,5,Gürtel der Mittelzentren,Sirnach
+1603,7,Periurbane ländliche Gemeinden,Tobel-Tägerschen
+1604,7,Periurbane ländliche Gemeinden,Wängi
+1605,5,Gürtel der Mittelzentren,Wilen (TG)
+1606,8,Agrargemeinden,Wuppenau
+1607,7,Periurbane ländliche Gemeinden,Berlingen
+1608,8,Agrargemeinden,Eschenz
+1609,8,Agrargemeinden,Herdern
+1610,8,Agrargemeinden,Homburg
+1611,8,Agrargemeinden,Hüttwilen
+1612,7,Periurbane ländliche Gemeinden,Mammern
+1613,7,Periurbane ländliche Gemeinden,Müllheim
+1614,8,Agrargemeinden,Pfyn
+1615,8,Agrargemeinden,Raperswilen
+1616,7,Periurbane ländliche Gemeinden,Salenstein
+1617,7,Periurbane ländliche Gemeinden,Steckborn
+1618,7,Periurbane ländliche Gemeinden,Wagenhausen
+1619,8,Agrargemeinden,Amlikon-Bissegg
+1620,7,Periurbane ländliche Gemeinden,Berg (TG)
+1621,8,Agrargemeinden,Birwinken
+1622,7,Periurbane ländliche Gemeinden,Bürglen (TG)
+1623,8,Agrargemeinden,Bussnang
+1624,7,Periurbane ländliche Gemeinden,Märstetten
+1625,7,Periurbane ländliche Gemeinden,Weinfelden
+1626,8,Agrargemeinden,Wigoltingen
+1627,5,Gürtel der Mittelzentren,Arbedo-Castione
+1628,4,Mittelzentren,Bellinzona
+1629,5,Gürtel der Mittelzentren,Cadenazzo
+1630,5,Gürtel der Mittelzentren,Camorino
+1631,5,Gürtel der Mittelzentren,Giubiasco
+1632,5,Gürtel der Mittelzentren,Gnosca
+1633,5,Gürtel der Mittelzentren,Gorduno
+1634,5,Gürtel der Mittelzentren,Gudo
+1635,7,Periurbane ländliche Gemeinden,Isone
+1636,5,Gürtel der Mittelzentren,Lumino
+1637,7,Periurbane ländliche Gemeinden,Moleno
+1638,5,Gürtel der Mittelzentren,Monte Carasso
+1639,5,Gürtel der Mittelzentren,Pianezzo
+1640,5,Gürtel der Mittelzentren,Preonzo
+1641,5,Gürtel der Mittelzentren,Sant'Antonino
+1642,7,Periurbane ländliche Gemeinden,Sant'Antonio
+1643,5,Gürtel der Mittelzentren,Sementina
+1644,8,Agrargemeinden,Acquarossa
+1645,8,Agrargemeinden,Blenio
+1646,7,Periurbane ländliche Gemeinden,Serravalle
+1647,7,Periurbane ländliche Gemeinden,Airolo
+1648,9,Touristische Gemeinden,Bedretto
+1649,7,Periurbane ländliche Gemeinden,Bodio
+1650,8,Agrargemeinden,Dalpe
+1651,7,Periurbane ländliche Gemeinden,Faido
+1652,8,Agrargemeinden,Giornico
+1653,7,Periurbane ländliche Gemeinden,Personico
+1654,7,Periurbane ländliche Gemeinden,Pollegio
+1655,7,Periurbane ländliche Gemeinden,Prato (Leventina)
+1656,8,Agrargemeinden,Quinto
+1657,8,Agrargemeinden,Sobrio
+1658,5,Gürtel der Mittelzentren,Ascona
+1659,8,Agrargemeinden,Brione (Verzasca)
+1660,5,Gürtel der Mittelzentren,Brione sopra Minusio
+1661,9,Touristische Gemeinden,Brissago
+1662,8,Agrargemeinden,Corippo
+1663,8,Agrargemeinden,Frasco
+1664,5,Gürtel der Mittelzentren,Gordola
+1665,8,Agrargemeinden,Gresso
+1666,5,Gürtel der Mittelzentren,Lavertezzo
+1667,4,Mittelzentren,Locarno
+1668,5,Gürtel der Mittelzentren,Losone
+1669,8,Agrargemeinden,Mergoscia
+1670,5,Gürtel der Mittelzentren,Minusio
+1671,8,Agrargemeinden,Mosogno
+1672,5,Gürtel der Mittelzentren,Muralto
+1673,5,Gürtel der Mittelzentren,Orselina
+1674,5,Gürtel der Mittelzentren,Ronco sopra Ascona
+1675,8,Agrargemeinden,Sonogno
+1676,5,Gürtel der Mittelzentren,Tenero-Contra
+1677,8,Agrargemeinden,Vergeletto
+1678,7,Periurbane ländliche Gemeinden,Vogorno
+1679,8,Agrargemeinden,Onsernone
+1680,7,Periurbane ländliche Gemeinden,Isorno
+1681,5,Gürtel der Mittelzentren,Cugnasco-Gerra
+1682,3,Gürtel der Grosszentren,Agno
+1683,3,Gürtel der Grosszentren,Aranno
+1684,7,Periurbane ländliche Gemeinden,Arogno
+1685,7,Periurbane ländliche Gemeinden,Astano
+1686,3,Gürtel der Grosszentren,Bedano
+1687,3,Gürtel der Grosszentren,Bedigliora
+1688,3,Gürtel der Grosszentren,Bioggio
+1689,3,Gürtel der Grosszentren,Bissone
+1690,5,Gürtel der Mittelzentren,Brusino Arsizio
+1691,3,Gürtel der Grosszentren,Cademario
+1692,3,Gürtel der Grosszentren,Cadempino
+1693,3,Gürtel der Grosszentren,Canobbio
+1694,3,Gürtel der Grosszentren,Caslano
+1695,3,Gürtel der Grosszentren,Comano
+1696,3,Gürtel der Grosszentren,Croglio
+1697,3,Gürtel der Grosszentren,Cureglia
+1698,3,Gürtel der Grosszentren,Curio
+1699,3,Gürtel der Grosszentren,Grancia
+1700,3,Gürtel der Grosszentren,Gravesano
+1701,3,Gürtel der Grosszentren,Lamone
+1702,1,Grosszentren,Lugano
+1703,3,Gürtel der Grosszentren,Magliaso
+1704,3,Gürtel der Grosszentren,Manno
+1705,3,Gürtel der Grosszentren,Maroggia
+1706,3,Gürtel der Grosszentren,Massagno
+1707,3,Gürtel der Grosszentren,Melano
+1708,3,Gürtel der Grosszentren,Melide
+1709,3,Gürtel der Grosszentren,Mezzovico-Vira
+1710,7,Periurbane ländliche Gemeinden,Miglieglia
+1711,7,Periurbane ländliche Gemeinden,Monteggio
+1712,3,Gürtel der Grosszentren,Morcote
+1713,3,Gürtel der Grosszentren,Muzzano
+1714,3,Gürtel der Grosszentren,Neggio
+1715,3,Gürtel der Grosszentren,Novaggio
+1716,3,Gürtel der Grosszentren,Origlio
+1717,3,Gürtel der Grosszentren,Paradiso
+1718,3,Gürtel der Grosszentren,Ponte Capriasca
+1719,3,Gürtel der Grosszentren,Ponte Tresa
+1720,3,Gürtel der Grosszentren,Porza
+1721,3,Gürtel der Grosszentren,Pura
+1722,3,Gürtel der Grosszentren,Rovio
+1723,3,Gürtel der Grosszentren,Savosa
+1724,7,Periurbane ländliche Gemeinden,Sessa
+1725,3,Gürtel der Grosszentren,Sorengo
+1726,3,Gürtel der Grosszentren,Capriasca
+1727,3,Gürtel der Grosszentren,Torricella-Taverne
+1728,3,Gürtel der Grosszentren,Vernate
+1729,3,Gürtel der Grosszentren,Vezia
+1730,3,Gürtel der Grosszentren,Vico Morcote
+1731,3,Gürtel der Grosszentren,Collina d'Oro
+1732,3,Gürtel der Grosszentren,Alto Malcantone
+1733,7,Periurbane ländliche Gemeinden,Monteceneri
+1734,5,Gürtel der Mittelzentren,Balerna
+1735,5,Gürtel der Mittelzentren,Castel San Pietro
+1736,4,Mittelzentren,Chiasso
+1737,5,Gürtel der Mittelzentren,Coldrerio
+1738,4,Mittelzentren,Mendrisio
+1739,5,Gürtel der Mittelzentren,Morbio Inferiore
+1740,5,Gürtel der Mittelzentren,Novazzano
+1741,5,Gürtel der Mittelzentren,Riva San Vitale
+1742,5,Gürtel der Mittelzentren,Stabio
+1743,5,Gürtel der Mittelzentren,Vacallo
+1744,5,Gürtel der Mittelzentren,Breggia
+1745,6,Kleinzentren,Biasca
+1746,5,Gürtel der Mittelzentren,Claro
+1747,7,Periurbane ländliche Gemeinden,Cresciano
+1748,7,Periurbane ländliche Gemeinden,Iragna
+1749,7,Periurbane ländliche Gemeinden,Lodrino
+1750,7,Periurbane ländliche Gemeinden,Osogna
+1751,8,Agrargemeinden,Bosco/Gurin
+1752,8,Agrargemeinden,Campo (Vallemaggia)
+1753,8,Agrargemeinden,Cerentino
+1754,7,Periurbane ländliche Gemeinden,Cevio
+1755,8,Agrargemeinden,Linescio
+1756,5,Gürtel der Mittelzentren,Maggia
+1757,8,Agrargemeinden,Lavizzara
+1758,5,Gürtel der Mittelzentren,Avegno Gordevio
+1759,5,Gürtel der Mittelzentren,Terre di Pedemonte
+1760,7,Periurbane ländliche Gemeinden,Centovalli
+1761,5,Gürtel der Mittelzentren,Gambarogno
+1762,4,Mittelzentren,Aigle
+1763,7,Periurbane ländliche Gemeinden,Bex
+1764,8,Agrargemeinden,Chessel
+1765,8,Agrargemeinden,Corbeyrier
+1766,7,Periurbane ländliche Gemeinden,Gryon
+1767,7,Periurbane ländliche Gemeinden,Lavey-Morcles
+1768,9,Touristische Gemeinden,Leysin
+1769,5,Gürtel der Mittelzentren,Noville
+1770,9,Touristische Gemeinden,Ollon
+1771,8,Agrargemeinden,Ormont-Dessous
+1772,9,Touristische Gemeinden,Ormont-Dessus
+1773,5,Gürtel der Mittelzentren,Rennaz
+1774,7,Periurbane ländliche Gemeinden,Roche (VD)
+1775,5,Gürtel der Mittelzentren,Villeneuve (VD)
+1776,8,Agrargemeinden,Yvorne
+1777,8,Agrargemeinden,Apples
+1778,3,Gürtel der Grosszentren,Aubonne
+1779,8,Agrargemeinden,Ballens
+1780,7,Periurbane ländliche Gemeinden,Berolle
+1781,8,Agrargemeinden,Bière
+1782,7,Periurbane ländliche Gemeinden,Bougy-Villars
+1783,8,Agrargemeinden,Féchy
+1784,8,Agrargemeinden,Gimel
+1785,8,Agrargemeinden,Longirod
+1786,8,Agrargemeinden,Marchissy
+1787,8,Agrargemeinden,Mollens (VD)
+1788,7,Periurbane ländliche Gemeinden,Montherod
+1789,8,Agrargemeinden,Saint-George
+1790,7,Periurbane ländliche Gemeinden,Saint-Livres
+1791,7,Periurbane ländliche Gemeinden,Saint-Oyens
+1792,7,Periurbane ländliche Gemeinden,Saubraz
+1793,7,Periurbane ländliche Gemeinden,Avenches
+1794,8,Agrargemeinden,Cudrefin
+1795,7,Periurbane ländliche Gemeinden,Faoug
+1796,8,Agrargemeinden,Vully-les-Lacs
+1797,7,Periurbane ländliche Gemeinden,Bettens
+1798,7,Periurbane ländliche Gemeinden,Bournens
+1799,3,Gürtel der Grosszentren,Boussens
+1800,7,Periurbane ländliche Gemeinden,La Chaux (Cossonay)
+1801,8,Agrargemeinden,Chavannes-le-Veyron
+1802,7,Periurbane ländliche Gemeinden,Chevilly
+1803,3,Gürtel der Grosszentren,Cossonay
+1804,7,Periurbane ländliche Gemeinden,Cottens (VD)
+1805,8,Agrargemeinden,Cuarnens
+1806,3,Gürtel der Grosszentren,Daillens
+1807,7,Periurbane ländliche Gemeinden,Dizy
+1808,7,Periurbane ländliche Gemeinden,Eclépens
+1809,7,Periurbane ländliche Gemeinden,Ferreyres
+1810,7,Periurbane ländliche Gemeinden,Gollion
+1811,7,Periurbane ländliche Gemeinden,Grancy
+1812,8,Agrargemeinden,L'Isle
+1813,7,Periurbane ländliche Gemeinden,Lussery-Villars
+1814,8,Agrargemeinden,Mauraz
+1815,3,Gürtel der Grosszentren,Mex (VD)
+1816,8,Agrargemeinden,Moiry
+1817,7,Periurbane ländliche Gemeinden,Mont-la-Ville
+1818,8,Agrargemeinden,Montricher
+1819,8,Agrargemeinden,Orny
+1820,8,Agrargemeinden,Pampigny
+1821,3,Gürtel der Grosszentren,Penthalaz
+1822,3,Gürtel der Grosszentren,Penthaz
+1823,7,Periurbane ländliche Gemeinden,Pompaples
+1824,7,Periurbane ländliche Gemeinden,La Sarraz
+1825,7,Periurbane ländliche Gemeinden,Senarclens
+1826,8,Agrargemeinden,Sévery
+1827,3,Gürtel der Grosszentren,Sullens
+1828,3,Gürtel der Grosszentren,Vufflens-la-Ville
+1829,3,Gürtel der Grosszentren,Assens
+1830,7,Periurbane ländliche Gemeinden,Bercher
+1831,3,Gürtel der Grosszentren,Bioley-Orjulaz
+1832,3,Gürtel der Grosszentren,Bottens
+1833,3,Gürtel der Grosszentren,Bretigny-sur-Morrens
+1834,3,Gürtel der Grosszentren,Cugy (VD)
+1835,3,Gürtel der Grosszentren,Echallens
+1836,8,Agrargemeinden,Essertines-sur-Yverdon
+1837,3,Gürtel der Grosszentren,Etagnières
+1838,7,Periurbane ländliche Gemeinden,Fey
+1839,3,Gürtel der Grosszentren,Froideville
+1840,3,Gürtel der Grosszentren,Morrens (VD)
+1841,8,Agrargemeinden,Oulens-sous-Echallens
+1842,8,Agrargemeinden,Pailly
+1843,8,Agrargemeinden,Penthéréaz
+1844,7,Periurbane ländliche Gemeinden,Poliez-Pittet
+1845,8,Agrargemeinden,Rueyres
+1846,3,Gürtel der Grosszentren,Saint-Barthélemy (VD)
+1847,7,Periurbane ländliche Gemeinden,Villars-le-Terroir
+1848,7,Periurbane ländliche Gemeinden,Vuarrens
+1849,7,Periurbane ländliche Gemeinden,Montilliez
+1850,7,Periurbane ländliche Gemeinden,Goumoëns
+1851,8,Agrargemeinden,Bonvillars
+1852,9,Touristische Gemeinden,Bullet
+1853,7,Periurbane ländliche Gemeinden,Champagne
+1854,8,Agrargemeinden,Concise
+1855,7,Periurbane ländliche Gemeinden,Corcelles-près-Concise
+1856,7,Periurbane ländliche Gemeinden,Fiez
+1857,7,Periurbane ländliche Gemeinden,Fontaines-sur-Grandson
+1858,7,Periurbane ländliche Gemeinden,Giez
+1859,7,Periurbane ländliche Gemeinden,Grandevent
+1860,5,Gürtel der Mittelzentren,Grandson
+1861,8,Agrargemeinden,Mauborget
+1862,8,Agrargemeinden,Mutrux
+1863,7,Periurbane ländliche Gemeinden,Novalles
+1864,8,Agrargemeinden,Onnens (VD)
+1865,8,Agrargemeinden,Provence
+1866,7,Periurbane ländliche Gemeinden,Sainte-Croix
+1867,7,Periurbane ländliche Gemeinden,Tévenon
+1868,3,Gürtel der Grosszentren,Belmont-sur-Lausanne
+1869,3,Gürtel der Grosszentren,Cheseaux-sur-Lausanne
+1870,3,Gürtel der Grosszentren,Crissier
+1871,3,Gürtel der Grosszentren,Epalinges
+1872,3,Gürtel der Grosszentren,Jouxtens-Mézery
+1873,1,Grosszentren,Lausanne
+1874,3,Gürtel der Grosszentren,Le Mont-sur-Lausanne
+1875,3,Gürtel der Grosszentren,Paudex
+1876,2,Nebenzentren der Grosszentren,Prilly
+1877,3,Gürtel der Grosszentren,Pully
+1878,2,Nebenzentren der Grosszentren,Renens (VD)
+1879,3,Gürtel der Grosszentren,Romanel-sur-Lausanne
+1880,7,Periurbane ländliche Gemeinden,Chexbres
+1881,7,Periurbane ländliche Gemeinden,Forel (Lavaux)
+1882,3,Gürtel der Grosszentren,Lutry
+1883,8,Agrargemeinden,Puidoux
+1884,8,Agrargemeinden,Rivaz
+1885,7,Periurbane ländliche Gemeinden,Saint-Saphorin (Lavaux)
+1886,3,Gürtel der Grosszentren,Savigny
+1887,3,Gürtel der Grosszentren,Bourg-en-Lavaux
+1888,3,Gürtel der Grosszentren,Aclens
+1889,3,Gürtel der Grosszentren,Bremblens
+1890,3,Gürtel der Grosszentren,Buchillon
+1891,3,Gürtel der Grosszentren,Bussigny-près-Lausanne
+1892,3,Gürtel der Grosszentren,Bussy-Chardonney
+1893,3,Gürtel der Grosszentren,Chavannes-près-Renens
+1894,3,Gürtel der Grosszentren,Chigny
+1895,7,Periurbane ländliche Gemeinden,Clarmont
+1896,3,Gürtel der Grosszentren,Denens
+1897,3,Gürtel der Grosszentren,Denges
+1898,3,Gürtel der Grosszentren,Echandens
+1899,3,Gürtel der Grosszentren,Echichens
+1900,2,Nebenzentren der Grosszentren,Ecublens (VD)
+1901,3,Gürtel der Grosszentren,Etoy
+1902,8,Agrargemeinden,Lavigny
+1903,3,Gürtel der Grosszentren,Lonay
+1904,3,Gürtel der Grosszentren,Lully (VD)
+1905,3,Gürtel der Grosszentren,Lussy-sur-Morges
+1906,2,Nebenzentren der Grosszentren,Morges
+1907,3,Gürtel der Grosszentren,Préverenges
+1908,7,Periurbane ländliche Gemeinden,Reverolle
+1909,3,Gürtel der Grosszentren,Romanel-sur-Morges
+1910,3,Gürtel der Grosszentren,Saint-Prex
+1911,3,Gürtel der Grosszentren,Saint-Sulpice (VD)
+1912,3,Gürtel der Grosszentren,Tolochenaz
+1913,7,Periurbane ländliche Gemeinden,Vaux-sur-Morges
+1914,3,Gürtel der Grosszentren,Villars-Sainte-Croix
+1915,3,Gürtel der Grosszentren,Villars-sous-Yens
+1916,3,Gürtel der Grosszentren,Vufflens-le-Château
+1917,8,Agrargemeinden,Vullierens
+1918,8,Agrargemeinden,Yens
+1919,8,Agrargemeinden,Boulens
+1920,8,Agrargemeinden,Brenles
+1921,8,Agrargemeinden,Bussy-sur-Moudon
+1922,8,Agrargemeinden,Chavannes-sur-Moudon
+1923,8,Agrargemeinden,Chesalles-sur-Moudon
+1924,8,Agrargemeinden,Cremin
+1925,8,Agrargemeinden,Curtilles
+1926,8,Agrargemeinden,Dompierre (VD)
+1927,8,Agrargemeinden,Forel-sur-Lucens
+1928,7,Periurbane ländliche Gemeinden,Hermenches
+1929,8,Agrargemeinden,Lovatens
+1930,7,Periurbane ländliche Gemeinden,Lucens
+1931,6,Kleinzentren,Moudon
+1932,7,Periurbane ländliche Gemeinden,Ogens
+1933,8,Agrargemeinden,Prévonloup
+1934,8,Agrargemeinden,Rossenges
+1935,8,Agrargemeinden,Sarzens
+1936,7,Periurbane ländliche Gemeinden,Syens
+1937,8,Agrargemeinden,Villars-le-Comte
+1938,7,Periurbane ländliche Gemeinden,Vucherens
+1939,8,Agrargemeinden,Montanaire
+1940,3,Gürtel der Grosszentren,Arnex-sur-Nyon
+1941,3,Gürtel der Grosszentren,Arzier
+1942,3,Gürtel der Grosszentren,Bassins
+1943,7,Periurbane ländliche Gemeinden,Begnins
+1944,3,Gürtel der Grosszentren,Bogis-Bossey
+1945,3,Gürtel der Grosszentren,Borex
+1946,3,Gürtel der Grosszentren,Chavannes-de-Bogis
+1947,3,Gürtel der Grosszentren,Chavannes-des-Bois
+1948,3,Gürtel der Grosszentren,Chéserex
+1949,3,Gürtel der Grosszentren,Coinsins
+1950,3,Gürtel der Grosszentren,Commugny
+1951,3,Gürtel der Grosszentren,Coppet
+1952,3,Gürtel der Grosszentren,Crans-près-Céligny
+1953,3,Gürtel der Grosszentren,Crassier
+1954,3,Gürtel der Grosszentren,Duillier
+1955,3,Gürtel der Grosszentren,Eysins
+1956,3,Gürtel der Grosszentren,Founex
+1957,3,Gürtel der Grosszentren,Genolier
+1958,3,Gürtel der Grosszentren,Gingins
+1959,3,Gürtel der Grosszentren,Givrins
+1960,3,Gürtel der Grosszentren,Gland
+1961,3,Gürtel der Grosszentren,Grens
+1962,3,Gürtel der Grosszentren,Mies
+1963,2,Nebenzentren der Grosszentren,Nyon
+1964,3,Gürtel der Grosszentren,Prangins
+1965,3,Gürtel der Grosszentren,La Rippe
+1966,3,Gürtel der Grosszentren,Saint-Cergue
+1967,3,Gürtel der Grosszentren,Signy-Avenex
+1968,3,Gürtel der Grosszentren,Tannay
+1969,3,Gürtel der Grosszentren,Trélex
+1970,3,Gürtel der Grosszentren,Le Vaud
+1971,3,Gürtel der Grosszentren,Vich
+1972,7,Periurbane ländliche Gemeinden,L'Abergement
+1973,8,Agrargemeinden,Agiez
+1974,7,Periurbane ländliche Gemeinden,Arnex-sur-Orbe
+1975,7,Periurbane ländliche Gemeinden,Ballaigues
+1976,7,Periurbane ländliche Gemeinden,Baulmes
+1977,7,Periurbane ländliche Gemeinden,Bavois
+1978,8,Agrargemeinden,Bofflens
+1979,7,Periurbane ländliche Gemeinden,Bretonnières
+1980,7,Periurbane ländliche Gemeinden,Chavornay
+1981,7,Periurbane ländliche Gemeinden,Les Clées
+1982,8,Agrargemeinden,Corcelles-sur-Chavornay
+1983,7,Periurbane ländliche Gemeinden,Croy
+1984,8,Agrargemeinden,Juriens
+1985,8,Agrargemeinden,Lignerolle
+1986,7,Periurbane ländliche Gemeinden,Montcherand
+1987,6,Kleinzentren,Orbe
+1988,8,Agrargemeinden,La Praz
+1989,8,Agrargemeinden,Premier
+1990,7,Periurbane ländliche Gemeinden,Rances
+1991,7,Periurbane ländliche Gemeinden,Romainmôtier-Envy
+1992,7,Periurbane ländliche Gemeinden,Sergey
+1993,7,Periurbane ländliche Gemeinden,Valeyres-sous-Rances
+1994,7,Periurbane ländliche Gemeinden,Vallorbe
+1995,8,Agrargemeinden,Vaulion
+1996,8,Agrargemeinden,Vuiteboeuf
+1997,3,Gürtel der Grosszentren,Carrouge (VD)
+1998,8,Agrargemeinden,Corcelles-le-Jorat
+1999,7,Periurbane ländliche Gemeinden,Essertes
+2000,7,Periurbane ländliche Gemeinden,Ferlens (VD)
+2001,8,Agrargemeinden,Maracon
+2002,3,Gürtel der Grosszentren,Mézières (VD)
+2003,3,Gürtel der Grosszentren,Montpreveyres
+2004,8,Agrargemeinden,Ropraz
+2005,3,Gürtel der Grosszentren,Servion
+2006,8,Agrargemeinden,Vulliens
+2007,7,Periurbane ländliche Gemeinden,Jorat-Menthue
+2008,8,Agrargemeinden,Oron
+2009,8,Agrargemeinden,Champtauroz
+2010,8,Agrargemeinden,Chevroux
+2011,7,Periurbane ländliche Gemeinden,Corcelles-près-Payerne
+2012,8,Agrargemeinden,Grandcour
+2013,8,Agrargemeinden,Henniez
+2014,8,Agrargemeinden,Missy
+2015,6,Kleinzentren,Payerne
+2016,8,Agrargemeinden,Trey
+2017,8,Agrargemeinden,Treytorrens (Payerne)
+2018,8,Agrargemeinden,Villarzel
+2019,8,Agrargemeinden,Valbroye
+2020,6,Kleinzentren,Château-d'Oex
+2021,8,Agrargemeinden,Rossinière
+2022,8,Agrargemeinden,Rougemont
+2023,8,Agrargemeinden,Allaman
+2024,7,Periurbane ländliche Gemeinden,Bursinel
+2025,8,Agrargemeinden,Bursins
+2026,8,Agrargemeinden,Burtigny
+2027,3,Gürtel der Grosszentren,Dully
+2028,8,Agrargemeinden,Essertines-sur-Rolle
+2029,7,Periurbane ländliche Gemeinden,Gilly
+2030,8,Agrargemeinden,Luins
+2031,7,Periurbane ländliche Gemeinden,Mont-sur-Rolle
+2032,7,Periurbane ländliche Gemeinden,Perroy
+2033,7,Periurbane ländliche Gemeinden,Rolle
+2034,8,Agrargemeinden,Tartegnin
+2035,7,Periurbane ländliche Gemeinden,Vinzel
+2036,7,Periurbane ländliche Gemeinden,L'Abbaye
+2037,6,Kleinzentren,Le Chenit
+2038,8,Agrargemeinden,Le Lieu
+2039,5,Gürtel der Mittelzentren,Blonay
+2040,5,Gürtel der Mittelzentren,Chardonne
+2041,5,Gürtel der Mittelzentren,Corseaux
+2042,5,Gürtel der Mittelzentren,Corsier-sur-Vevey
+2043,5,Gürtel der Mittelzentren,Jongny
+2044,4,Mittelzentren,Montreux
+2045,5,Gürtel der Mittelzentren,Saint-Légier-La Chiésaz
+2046,5,Gürtel der Mittelzentren,La Tour-de-Peilz
+2047,4,Mittelzentren,Vevey
+2048,5,Gürtel der Mittelzentren,Veytaux
+2049,8,Agrargemeinden,Belmont-sur-Yverdon
+2050,8,Agrargemeinden,Bioley-Magnoux
+2051,5,Gürtel der Mittelzentren,Chamblon
+2052,8,Agrargemeinden,Champvent
+2053,8,Agrargemeinden,Chavannes-le-Chêne
+2054,7,Periurbane ländliche Gemeinden,Chêne-Pâquier
+2055,5,Gürtel der Mittelzentren,Cheseaux-Noréaz
+2056,7,Periurbane ländliche Gemeinden,Cronay
+2057,8,Agrargemeinden,Cuarny
+2058,8,Agrargemeinden,Démoret
+2059,7,Periurbane ländliche Gemeinden,Donneloye
+2060,7,Periurbane ländliche Gemeinden,Ependes (VD)
+2061,7,Periurbane ländliche Gemeinden,Essert-Pittet
+2062,8,Agrargemeinden,Mathod
+2063,8,Agrargemeinden,Molondin
+2064,5,Gürtel der Mittelzentren,Montagny-près-Yverdon
+2065,8,Agrargemeinden,Oppens
+2066,8,Agrargemeinden,Orges
+2067,8,Agrargemeinden,Orzens
+2068,7,Periurbane ländliche Gemeinden,Pomy
+2069,8,Agrargemeinden,Rovray
+2070,8,Agrargemeinden,Suchy
+2071,8,Agrargemeinden,Suscévaz
+2072,5,Gürtel der Mittelzentren,Treycovagnes
+2073,7,Periurbane ländliche Gemeinden,Ursins
+2074,5,Gürtel der Mittelzentren,Valeyres-sous-Montagny
+2075,8,Agrargemeinden,Valeyres-sous-Ursins
+2076,8,Agrargemeinden,Villars-Epeney
+2077,8,Agrargemeinden,Vugelles-La Mothe
+2078,4,Mittelzentren,Yverdon-les-Bains
+2079,7,Periurbane ländliche Gemeinden,Yvonand
+2080,4,Mittelzentren,Brig-Glis
+2081,5,Gürtel der Mittelzentren,Eggerberg
+2082,5,Gürtel der Mittelzentren,Naters
+2083,5,Gürtel der Mittelzentren,Ried-Brig
+2084,9,Touristische Gemeinden,Simplon
+2085,5,Gürtel der Mittelzentren,Termen
+2086,8,Agrargemeinden,Zwischbergen
+2087,5,Gürtel der Mittelzentren,Ardon
+2088,8,Agrargemeinden,Chamoson
+2089,5,Gürtel der Mittelzentren,Conthey
+2090,9,Touristische Gemeinden,Nendaz
+2091,5,Gürtel der Mittelzentren,Vétroz
+2092,9,Touristische Gemeinden,Bagnes
+2093,9,Touristische Gemeinden,Bourg-Saint-Pierre
+2094,8,Agrargemeinden,Liddes
+2095,9,Touristische Gemeinden,Orsières
+2096,7,Periurbane ländliche Gemeinden,Sembrancher
+2097,7,Periurbane ländliche Gemeinden,Vollèges
+2098,9,Touristische Gemeinden,Bellwald
+2099,8,Agrargemeinden,Binn
+2100,9,Touristische Gemeinden,Blitzingen
+2101,9,Touristische Gemeinden,Ernen
+2102,9,Touristische Gemeinden,Fiesch
+2103,9,Touristische Gemeinden,Fieschertal
+2104,8,Agrargemeinden,Lax
+2105,7,Periurbane ländliche Gemeinden,Niederwald
+2106,8,Agrargemeinden,Grafschaft
+2107,9,Touristische Gemeinden,Münster-Geschinen
+2108,9,Touristische Gemeinden,Reckingen-Gluringen
+2109,9,Touristische Gemeinden,Obergoms
+2110,5,Gürtel der Mittelzentren,Les Agettes
+2111,9,Touristische Gemeinden,Ayent
+2112,9,Touristische Gemeinden,Evolène
+2113,7,Periurbane ländliche Gemeinden,Hérémence
+2114,7,Periurbane ländliche Gemeinden,Saint-Martin (VS)
+2115,5,Gürtel der Mittelzentren,Vex
+2116,7,Periurbane ländliche Gemeinden,Mont-Noble
+2117,7,Periurbane ländliche Gemeinden,Agarn
+2118,9,Touristische Gemeinden,Albinen
+2119,7,Periurbane ländliche Gemeinden,Ergisch
+2120,7,Periurbane ländliche Gemeinden,Inden
+2121,6,Kleinzentren,Leuk
+2122,9,Touristische Gemeinden,Leukerbad
+2123,9,Touristische Gemeinden,Oberems
+2124,8,Agrargemeinden,Salgesch
+2125,8,Agrargemeinden,Varen
+2126,7,Periurbane ländliche Gemeinden,Guttet-Feschel
+2127,7,Periurbane ländliche Gemeinden,Gampel-Bratsch
+2128,7,Periurbane ländliche Gemeinden,Turtmann-Unterems
+2129,7,Periurbane ländliche Gemeinden,Bovernier
+2130,8,Agrargemeinden,Charrat
+2131,8,Agrargemeinden,Fully
+2132,7,Periurbane ländliche Gemeinden,Isérables
+2133,9,Touristische Gemeinden,Leytron
+2134,4,Mittelzentren,Martigny
+2135,7,Periurbane ländliche Gemeinden,Martigny-Combe
+2136,9,Touristische Gemeinden,Riddes
+2137,8,Agrargemeinden,Saillon
+2138,8,Agrargemeinden,Saxon
+2139,9,Touristische Gemeinden,Trient
+2140,9,Touristische Gemeinden,Champéry
+2141,5,Gürtel der Mittelzentren,Collombey-Muraz
+2142,4,Mittelzentren,Monthey
+2143,7,Periurbane ländliche Gemeinden,Port-Valais
+2144,7,Periurbane ländliche Gemeinden,Saint-Gingolph
+2145,5,Gürtel der Mittelzentren,Troistorrents
+2146,9,Touristische Gemeinden,Val-d'Illiez
+2147,7,Periurbane ländliche Gemeinden,Vionnaz
+2148,7,Periurbane ländliche Gemeinden,Vouvry
+2149,8,Agrargemeinden,Bister
+2150,5,Gürtel der Mittelzentren,Bitsch
+2151,8,Agrargemeinden,Grengiols
+2152,9,Touristische Gemeinden,Riederalp
+2153,7,Periurbane ländliche Gemeinden,Ausserberg
+2154,9,Touristische Gemeinden,Blatten
+2155,9,Touristische Gemeinden,Bürchen
+2156,7,Periurbane ländliche Gemeinden,Eischoll
+2157,7,Periurbane ländliche Gemeinden,Ferden
+2158,7,Periurbane ländliche Gemeinden,Kippel
+2159,7,Periurbane ländliche Gemeinden,Niedergesteln
+2160,7,Periurbane ländliche Gemeinden,Raron
+2161,9,Touristische Gemeinden,Unterbäch
+2162,9,Touristische Gemeinden,Wiler (Lötschen)
+2163,9,Touristische Gemeinden,Mörel-Filet
+2164,7,Periurbane ländliche Gemeinden,Steg-Hohtenn
+2165,9,Touristische Gemeinden,Bettmeralp
+2166,7,Periurbane ländliche Gemeinden,Collonges
+2167,7,Periurbane ländliche Gemeinden,Dorénaz
+2168,7,Periurbane ländliche Gemeinden,Evionnaz
+2169,9,Touristische Gemeinden,Finhaut
+2170,5,Gürtel der Mittelzentren,Massongex
+2171,7,Periurbane ländliche Gemeinden,Saint-Maurice
+2172,7,Periurbane ländliche Gemeinden,Salvan
+2173,7,Periurbane ländliche Gemeinden,Vernayaz
+2174,7,Periurbane ländliche Gemeinden,Vérossaz
+2175,5,Gürtel der Mittelzentren,Chalais
+2176,5,Gürtel der Mittelzentren,Chermignon
+2177,5,Gürtel der Mittelzentren,Chippis
+2178,5,Gürtel der Mittelzentren,Grône
+2179,7,Periurbane ländliche Gemeinden,Icogne
+2180,9,Touristische Gemeinden,Lens
+2181,5,Gürtel der Mittelzentren,Miège
+2182,5,Gürtel der Mittelzentren,Mollens (VS)
+2183,4,Mittelzentren,Montana
+2184,5,Gürtel der Mittelzentren,Randogne
+2185,5,Gürtel der Mittelzentren,Saint-Léonard
+2186,4,Mittelzentren,Sierre
+2187,5,Gürtel der Mittelzentren,Venthône
+2188,5,Gürtel der Mittelzentren,Veyras
+2189,9,Touristische Gemeinden,Anniviers
+2190,5,Gürtel der Mittelzentren,Arbaz
+2191,5,Gürtel der Mittelzentren,Grimisuat
+2192,5,Gürtel der Mittelzentren,Savièse
+2193,4,Mittelzentren,Sion
+2194,9,Touristische Gemeinden,Veysonnaz
+2195,5,Gürtel der Mittelzentren,Baltschieder
+2196,8,Agrargemeinden,Eisten
+2197,7,Periurbane ländliche Gemeinden,Embd
+2198,9,Touristische Gemeinden,Grächen
+2199,5,Gürtel der Mittelzentren,Lalden
+2200,9,Touristische Gemeinden,Randa
+2201,9,Touristische Gemeinden,Saas-Almagell
+2202,9,Touristische Gemeinden,Saas-Balen
+2203,9,Touristische Gemeinden,Saas-Fee
+2204,9,Touristische Gemeinden,Saas-Grund
+2205,7,Periurbane ländliche Gemeinden,St. Niklaus
+2206,7,Periurbane ländliche Gemeinden,Stalden (VS)
+2207,7,Periurbane ländliche Gemeinden,Staldenried
+2208,9,Touristische Gemeinden,Täsch
+2209,8,Agrargemeinden,Törbel
+2210,4,Mittelzentren,Visp
+2211,7,Periurbane ländliche Gemeinden,Visperterminen
+2212,5,Gürtel der Mittelzentren,Zeneggen
+2213,9,Touristische Gemeinden,Zermatt
+2214,5,Gürtel der Mittelzentren,Bevaix
+2215,5,Gürtel der Mittelzentren,Boudry
+2216,8,Agrargemeinden,Brot-Dessous
+2217,5,Gürtel der Mittelzentren,Corcelles-Cormondrèche
+2218,5,Gürtel der Mittelzentren,Cortaillod
+2219,7,Periurbane ländliche Gemeinden,Fresens
+2220,7,Periurbane ländliche Gemeinden,Gorgier
+2221,8,Agrargemeinden,Montalchez
+2222,5,Gürtel der Mittelzentren,Peseux
+2223,5,Gürtel der Mittelzentren,Rochefort
+2224,7,Periurbane ländliche Gemeinden,Saint-Aubin-Sauges
+2225,9,Touristische Gemeinden,Vaumarcus
+2226,5,Gürtel der Mittelzentren,Milvignes
+2227,4,Mittelzentren,La Chaux-de-Fonds
+2228,8,Agrargemeinden,Les Planchettes
+2229,8,Agrargemeinden,La Sagne
+2230,7,Periurbane ländliche Gemeinden,Les Brenets
+2231,8,Agrargemeinden,La Brévine
+2232,8,Agrargemeinden,Brot-Plamboz
+2233,8,Agrargemeinden,Le Cerneux-Péquignot
+2234,8,Agrargemeinden,La Chaux-du-Milieu
+2235,4,Mittelzentren,Le Locle
+2236,8,Agrargemeinden,Les Ponts-de-Martel
+2237,5,Gürtel der Mittelzentren,Cornaux
+2238,7,Periurbane ländliche Gemeinden,Cressier (NE)
+2239,7,Periurbane ländliche Gemeinden,Enges
+2240,5,Gürtel der Mittelzentren,Hauterive (NE)
+2241,7,Periurbane ländliche Gemeinden,Le Landeron
+2242,7,Periurbane ländliche Gemeinden,Lignières
+2243,4,Mittelzentren,Neuchâtel
+2244,5,Gürtel der Mittelzentren,Saint-Blaise
+2245,5,Gürtel der Mittelzentren,La Tène
+2246,8,Agrargemeinden,Valangin
+2247,7,Periurbane ländliche Gemeinden,Val-de-Ruz
+2248,8,Agrargemeinden,La Côte-aux-Fées
+2249,8,Agrargemeinden,Les Verrières
+2250,6,Kleinzentren,Val-de-Travers
+2251,3,Gürtel der Grosszentren,Aire-la-Ville
+2252,3,Gürtel der Grosszentren,Anières
+2253,7,Periurbane ländliche Gemeinden,Avully
+2254,3,Gürtel der Grosszentren,Avusy
+2255,3,Gürtel der Grosszentren,Bardonnex
+2256,3,Gürtel der Grosszentren,Bellevue
+2257,3,Gürtel der Grosszentren,Bernex
+2258,2,Nebenzentren der Grosszentren,Carouge (GE)
+2259,3,Gürtel der Grosszentren,Cartigny
+2260,3,Gürtel der Grosszentren,Céligny
+2261,3,Gürtel der Grosszentren,Chancy
+2262,3,Gürtel der Grosszentren,Chêne-Bougeries
+2263,3,Gürtel der Grosszentren,Chêne-Bourg
+2264,3,Gürtel der Grosszentren,Choulex
+2265,3,Gürtel der Grosszentren,Collex-Bossy
+2266,3,Gürtel der Grosszentren,Collonge-Bellerive
+2267,3,Gürtel der Grosszentren,Cologny
+2268,3,Gürtel der Grosszentren,Confignon
+2269,3,Gürtel der Grosszentren,Corsier (GE)
+2270,7,Periurbane ländliche Gemeinden,Dardagny
+2271,1,Grosszentren,Genève
+2272,3,Gürtel der Grosszentren,Genthod
+2273,2,Nebenzentren der Grosszentren,Le Grand-Saconnex
+2274,3,Gürtel der Grosszentren,Gy
+2275,3,Gürtel der Grosszentren,Hermance
+2276,3,Gürtel der Grosszentren,Jussy
+2277,3,Gürtel der Grosszentren,Laconnex
+2278,2,Nebenzentren der Grosszentren,Lancy
+2279,3,Gürtel der Grosszentren,Meinier
+2280,2,Nebenzentren der Grosszentren,Meyrin
+2281,3,Gürtel der Grosszentren,Onex
+2282,3,Gürtel der Grosszentren,Perly-Certoux
+2283,3,Gürtel der Grosszentren,Plan-les-Ouates
+2284,3,Gürtel der Grosszentren,Pregny-Chambésy
+2285,3,Gürtel der Grosszentren,Presinge
+2286,3,Gürtel der Grosszentren,Puplinge
+2287,8,Agrargemeinden,Russin
+2288,3,Gürtel der Grosszentren,Satigny
+2289,3,Gürtel der Grosszentren,Soral
+2290,3,Gürtel der Grosszentren,Thônex
+2291,3,Gürtel der Grosszentren,Troinex
+2292,3,Gürtel der Grosszentren,Vandoeuvres
+2293,2,Nebenzentren der Grosszentren,Vernier
+2294,3,Gürtel der Grosszentren,Versoix
+2295,3,Gürtel der Grosszentren,Veyrier
+2296,7,Periurbane ländliche Gemeinden,Boécourt
+2297,8,Agrargemeinden,Bourrignon
+2298,7,Periurbane ländliche Gemeinden,Châtillon (JU)
+2299,7,Periurbane ländliche Gemeinden,Corban
+2300,7,Periurbane ländliche Gemeinden,Courchapoix
+2301,5,Gürtel der Mittelzentren,Courrendlin
+2302,5,Gürtel der Mittelzentren,Courroux
+2303,7,Periurbane ländliche Gemeinden,Courtételle
+2304,4,Mittelzentren,Delémont
+2305,5,Gürtel der Mittelzentren,Develier
+2306,8,Agrargemeinden,Ederswiler
+2307,7,Periurbane ländliche Gemeinden,Mervelier
+2308,8,Agrargemeinden,Mettembert
+2309,8,Agrargemeinden,Movelier
+2310,8,Agrargemeinden,Pleigne
+2311,7,Periurbane ländliche Gemeinden,Rebeuvelier
+2312,5,Gürtel der Mittelzentren,Rossemaison
+2313,8,Agrargemeinden,Saulcy
+2314,5,Gürtel der Mittelzentren,Soyhières
+2315,7,Periurbane ländliche Gemeinden,Vellerat
+2316,7,Periurbane ländliche Gemeinden,Haute-Sorne
+2317,8,Agrargemeinden,Val Terbi
+2318,8,Agrargemeinden,Le Bémont (JU)
+2319,8,Agrargemeinden,Les Bois
+2320,7,Periurbane ländliche Gemeinden,Les Breuleux
+2321,8,Agrargemeinden,La Chaux-des-Breuleux
+2322,8,Agrargemeinden,Les Enfers
+2323,8,Agrargemeinden,Les Genevez (JU)
+2324,8,Agrargemeinden,Lajoux (JU)
+2325,8,Agrargemeinden,Montfaucon
+2326,8,Agrargemeinden,Muriaux
+2327,7,Periurbane ländliche Gemeinden,Le Noirmont
+2328,7,Periurbane ländliche Gemeinden,Saignelégier
+2329,8,Agrargemeinden,Saint-Brais
+2330,8,Agrargemeinden,Soubey
+2331,7,Periurbane ländliche Gemeinden,Alle
+2332,8,Agrargemeinden,Beurnevésin
+2333,7,Periurbane ländliche Gemeinden,Boncourt
+2334,8,Agrargemeinden,Bonfol
+2335,8,Agrargemeinden,Bure
+2336,8,Agrargemeinden,Coeuve
+2337,7,Periurbane ländliche Gemeinden,Cornol
+2338,8,Agrargemeinden,Courchavon
+2339,7,Periurbane ländliche Gemeinden,Courgenay
+2340,7,Periurbane ländliche Gemeinden,Courtedoux
+2341,7,Periurbane ländliche Gemeinden,Damphreux
+2342,8,Agrargemeinden,Fahy
+2343,7,Periurbane ländliche Gemeinden,Fontenais
+2344,8,Agrargemeinden,Grandfontaine
+2345,8,Agrargemeinden,Lugnez
+2346,6,Kleinzentren,Porrentruy
+2347,8,Agrargemeinden,Rocourt
+2348,7,Periurbane ländliche Gemeinden,Vendlincourt
+2349,8,Agrargemeinden,Basse-Allaine
+2350,8,Agrargemeinden,Clos du Doubs
+2351,8,Agrargemeinden,Haute-Ajoie
+2352,8,Agrargemeinden,La Baroche
