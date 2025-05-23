@@ -1,5 +1,7 @@
 # Redesign Energiedashboard - Hackdays BE 2025
 
+Readme in [German](docs/README.de.md)
+
 [Data Hackdays BE 2025](https://hack.data-hackdays-be.ch/project/54) [EKDP Platform](https://www.ekdp.apps.be.ch)
 
 Please note: All of the code that will be released into the first release `hackdays.2025.be` has been written by the team of hacking volunteers. They worked on the project during the Data Hackdays BE 2025, using open government data (OGD) and their private computers. I did not write any of the code in that release, but merely removed a few lines that included personal information to protect their privacy. As stated on the hackdays website, the code has already been published under the CC-BY 4.0 Licence. I created this repo so team members can easily get the code.
