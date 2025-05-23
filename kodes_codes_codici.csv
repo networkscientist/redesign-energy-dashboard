@@ -1,0 +1,406 @@
+CECODID	CMERKM	CODTXTLD	CODTXTKD	CODTXTLF	CODTXTKF	CODTXTLI	CODTXTKI	CEXPDAT
+0	DOFFADR	Nein	Nein	Non	Non	No	No	16.05.2025
+0	GSCHUTZR	Nein	Nein	Non	Non	No	No	16.05.2025
+0	WKCHE	Nein	Nein	Non	Non	No	No	16.05.2025
+0	WMEHRG	Nein	Nein	Non	Non	No	No	16.05.2025
+1	DOFFADR	Ja	Ja	Oui	Oui	Sì	Sì	16.05.2025
+1	GSCHUTZR	Ja	Ja	Oui	Oui	Sì	Sì	16.05.2025
+1	WKCHE	Ja	Ja	Oui	Oui	Sì	Sì	16.05.2025
+1	WMEHRG	Ja	Ja	Oui	Oui	Sì	Sì	16.05.2025
+1001	GSTAT	Gebäude projektiert	projektiert	Bâtiment en projet	en projet	Edificio in progetto	in progetto	16.05.2025
+1002	GSTAT	Gebäude bewilligt	bewilligt	Bâtiment autorisé	autorisé	Edificio autorizzato	autorizzato	16.05.2025
+1003	GSTAT	Gebäude im Bau	im Bau	Bâtiment en construction	en construction	Edificio in costruzione	in costruzione	16.05.2025
+1004	GSTAT	Gebäude bestehend	bestehend	Bâtiment existant	existant	Edificio esistente	esistente	16.05.2025
+1005	GSTAT	Gebäude nicht nutzbar	nicht nutzbar	Bâtiment non utilisable	non utilisable	Edificio non utilizzabile	non utilizzabile	16.05.2025
+1007	GSTAT	Gebäude abgebrochen	abgebrochen	Bâtiment démoli	démoli	Edificio demolito	demolito	16.05.2025
+1008	GSTAT	Gebäude nicht realisiert	nicht realisiert	Bâtiment non réalisé	non réalisé	Edificio non realizzato	non realizzato	16.05.2025
+1010	GKAT	Provisorische Unterkunft	Prov. Unterkunft	Habitation provisoire	Habitation prov.	Abitazione provvisoria	Abitazione provvisoria	16.05.2025
+1020	GKAT	Gebäude mit ausschliesslicher Wohnnutzung	Mit Wohnnutzung	Bâtiment exclusivement à usage d'habitation	Usage d'habitation	Edificio ad uso esclusivamente abitativo	Edificio escl. abitativo	16.05.2025
+1030	GKAT	Andere Wohngebäude (Wohngebäude mit Nebennutzung)	Wohngebäude m. Nebennutzung	Autre bâtiment d'habitation (Bâtiment d'habitation à usage annexe)	Bâtiment avec usage annexe	Altro edificio abitativo (con utilizzazione accessoria)	Edificio utilizz. access.	16.05.2025
+1040	GKAT	Gebäude mit teilweiser Wohnnutzung	Mit  teilw. Wohnnutzung	Bâtiment partiellement à usage d'habitation	Part. à usage d'hab.	Edificio ad uso parzialmente abitativo	Edificio parz. abitativo	16.05.2025
+1060	GKAT	Gebäude ohne Wohnnutzung	Ohne Wohnnutzung	Bâtiment sans usage d'habitation	Sans usage d'habitation	Edificio ad uso non abitativo	Edificio non abitativo	16.05.2025
+1080	GKAT	Sonderbau	Sonderbau	Construction particulière	Constr. particulière	Costruzione speciale	Costruzione speciale	16.05.2025
+1110	GKLAS	Gebäude mit einer Wohnung	Gebäude mit 1 Wohnung	Maison à un logement	Maison à 1 logement	Edifici ad una abitazione	Ed. con 1 abitazione	16.05.2025
+1121	GKLAS	Gebäude mit zwei  Wohnungen	Gebäude mit 2 Wohnungen	Maison à deux logements	Maison à 2 logements	Edifici a due abitazioni	Ed. con 2 abitazioni	16.05.2025
+1122	GKLAS	Gebäude mit drei oder mehr Wohnungen	Gebäude mit 3+ Whgen	Immeuble à trois logements ou plus	Maison à 3+ logements	Edifici a tre e più abitazioni	Ed. con 3+ abitazioni	16.05.2025
+1130	GKLAS	Wohngebäude für Gemeinschaften	Wohngeb.f.Gemeinschaften	Habitat communautaire	Habitat communautaire	Residenze per collettività	Edificio comunitario	16.05.2025
+1211	GKLAS	Hotelgebäude	Hotelgebäude	Hôtel	Hôtel	Edifici alberghieri	Hotel	16.05.2025
+1212	GKLAS	Andere Gebäude für kurzfristige Beherbergung	Andere Beherbergung	Autre bâtiment d'hébergement de tourisme	Autre hébergement	Altri edifici per alloggio di breve durata	Altri edifici alloggio	16.05.2025
+1220	GKLAS	Bürogebäude	Bürogebäude	Immeuble de bureaux	Immeuble de bureaux	Fabbricati per uffici	Edificio per uffici	16.05.2025
+1230	GKLAS	Gross-und Einzelhandelsgebäude	Gross- und Einzelhandel	Bâtiment commercial	Bâtiment commercial	Fabbricati per il commercio all'ingrosso e al dettaglio	Com.ingrosso e dettaglio	16.05.2025
+1231	GKLAS	Restaurants und Bars in Gebäuden ohne Wohnnutzung	Restaurants und Bars	Restaurants et bars dans des bâtiments sans usage résidentiel	Restaurants et bars	Ristoranti e bar in edifici non residenziali	Ristoranti e bar	16.05.2025
+1241	GKLAS	Gebäude des Verkehrs- und Nachrichtenwesens ohne Garagen	Verkehr / Kommunikation	Bâtiment des transports et des communications sans garage	Transport/communication	Edificio dei trasporti e delle comunicazioni senza garage	Trasporti/comunicazioni	16.05.2025
+1242	GKLAS	Garagengebäude	Garagengebäude	Garage	Garage	Fabbricati per garage	Edificio di garage	16.05.2025
+1251	GKLAS	Industriegebäude	Industriegebäude	Bâtiment industriel	Bâtiment industriel	Fabbricati industriali	Edificio industriale	16.05.2025
+1252	GKLAS	Behälter, Silos und Lagergebäude	Behälter, Silo, Lager	Réservoir, silo et entrepôt	Réserv./silo/entrepôt	Serbatoi, sili e depositi	Serbatoio/silo/deposito	16.05.2025
+1261	GKLAS	Gebäude für Kultur- und Freizeitzwecke	Kultur-/Freizeitstätte	Bâtiment à usage culturel ou récréatif	Bât. à usage cult./récr.	Edifici desinati ad attività ricreative	Ed. culturali/ricreativi	16.05.2025
+1262	GKLAS	Museen und Bibliotheken	Museum / Bibliothek	Musée et bibliothèque	Musée / bibliothèque	Musei e biblioteche	Museo / biblioteca	16.05.2025
+1263	GKLAS	Schul- und Hochschulgebäude, Forschungseinrichtungen	Schul-/Hochschulgebäude	Bâtiment pour l'enseignement et la recherche	Bât. enseign./recherche	Edifici scolastici, universitari ed edifici di ricerca	Ed. scol / ist. ricerca	16.05.2025
+1264	GKLAS	Krankenhäuser und Facheinrichtungen des Gesundheitswesens	Krankenhaus	Hôpital et établissement de santé	Hôpital/établ. de santé	Edifici per fini ospedalieri e di assistenza sociale	Ospedali	16.05.2025
+1265	GKLAS	Sporthallen	Sporthalle	Salle de sport	Salle de sport	Sale sportive	Sale sportivi	16.05.2025
+1271	GKLAS	Landwirtschaftliche Betriebsgebäude	Landw. Betriebsgebäude	Bâtiment d'exploitation agricole	Exploitation agricole	Fabbricati rurali non residenziali	Ed. operativi agricoli	16.05.2025
+1272	GKLAS	Kirchen und sonstige Kultgebäude	Kirche / Kultgebäude	Édifice cultuel et religieux	Édifice cult./religieux	Ed.  utilizzati come luoghi di culto e per attività relig.	Ed. religiosi / di culto	16.05.2025
+1273	GKLAS	Denkmäler oder unter Denkmalschutz stehende Bauwerke	Denkmal	Monument historique ou classé	Monument historique	Monumenti storici o protetti	Monumenti	16.05.2025
+1274	GKLAS	Sonstige Hochbauten, anderweitig nicht genannt	Sonstiger Hochbau	Autre bâtiment non classé ailleurs	Bâtiment non classé	Altri edifici, n.c.a.	Altri edifici	16.05.2025
+1275	GKLAS	Andere Gebäude für die kollektive Unterkunft	Andere kollektive Unterkünfte	Autres bâtiments pour l'hébergement collectif	Autres hébergements collectifs	Altri edifici che ospitano collettività	Altr. ospitano collettività	16.05.2025
+1276	GKLAS	Gebäude für die Tierhaltung	Tierhaltung	Bâtiments pour la garde d'animaux	Garde d'animaux	Edifici per la tenuta di animali	Tenuta di animali	16.05.2025
+1277	GKLAS	Gebäude für den Pflanzenbau	Pflanzenbau	Bâtiments pour les cultures végétales	Cultures végétales	Edifici per le colture vegetali	Colture vegetali	16.05.2025
+1278	GKLAS	Andere landwirtschaftliche Gebäude	Andere landw. Geb.	Autres bâtiments d'exploitation agricole	Autres bât. d'expl. agr.	Altri fabbricati rurali non residenziali	Altri fabbricati rurali	16.05.2025
+3001	WSTAT	Wohnung projektiert	projektiert	Logement en projet	en projet	Abitazione in progetto	in progetto	16.05.2025
+3002	WSTAT	Wohnung bewilligt	bewilligt	Entrée du bâtiment autorisée	autorisée	Abitazione autorizzata	autorizzata	16.05.2025
+3003	WSTAT	Wohnung im Bau	im Bau	Logement en construction	en construction	Abitazione in costruzione	in costruzione	16.05.2025
+3004	WSTAT	Wohnung bestehend	bestehend	Logement existant	existant	Abitazione esistente	esistente	16.05.2025
+3005	WSTAT	Wohnung nicht nutzbar	nicht nutzbar	Logement non utilisable	non utilisable	Abitazione non utilizzabile	non utilizzabile	16.05.2025
+3007	WSTAT	Wohnung aufgehoben	aufgehoben	Logement éliminé	éliminé	Abitazione eliminata	eliminata	16.05.2025
+3008	WSTAT	Wohnung nicht realisiert	nicht realisiert	Logement non réalisé	non réalisé	Abitazione non realizzata	non realizzata	16.05.2025
+3100	WSTWK	Parterre inkl. Hochparterre	Parterre	Rez-de-chaussée/Rez-de-chaussée surélevé	Rez-de-chaussée	Pianterreno compreso piano rialzato	Pianterreno	16.05.2025
+3101	WSTWK	1. Stock	1. Stock	1er étage	1er étage	1° piano	1° piano	16.05.2025
+3102	WSTWK	2. Stock	2. Stock	2e étage	2e étage	2° piano	2° piano	16.05.2025
+3103	WSTWK	3. Stock	3. Stock	3e étage	3e étage	3° piano	3° piano	16.05.2025
+3104	WSTWK	4. Stock	4. Stock	4e étage	4e étage	4° piano	4° piano	16.05.2025
+3105	WSTWK	5. Stock	5. Stock	5e étage	5e étage	5° piano	5° piano	16.05.2025
+3106	WSTWK	6. Stock	6. Stock	6e étage	6e étage	6° piano	6° piano	16.05.2025
+3107	WSTWK	7. Stock	7. Stock	7e étage	7e étage	7° piano	7° piano	16.05.2025
+3108	WSTWK	8. Stock	8. Stock	8e étage	8e étage	8° piano	8° piano	16.05.2025
+3109	WSTWK	9. Stock	9. Stock	9e étage	9e étage	9° piano	9° piano	16.05.2025
+3110	WSTWK	10. Stock	10. Stock	10e étage	10e étage	10° piano	10° piano	16.05.2025
+3111	WSTWK	11. Stock	11. Stock	11e étage	11e étage	11° piano	11° piano	16.05.2025
+3112	WSTWK	12. Stock	12. Stock	12e étage	12e étage	12° piano	12° piano	16.05.2025
+3113	WSTWK	13. Stock	13. Stock	13e étage	13e étage	13° piano	13° piano	16.05.2025
+3114	WSTWK	14. Stock	14. Stock	14e étage	14e étage	14° piano	14° piano	16.05.2025
+3115	WSTWK	15. Stock	15. Stock	15e étage	15e étage	15° piano	15° piano	16.05.2025
+3116	WSTWK	16. Stock	16. Stock	16e étage	16e étage	16° piano	16° piano	16.05.2025
+3117	WSTWK	17. Stock	17. Stock	17e étage	17e étage	17° piano	17° piano	16.05.2025
+3118	WSTWK	18. Stock	18. Stock	18e étage	18e étage	18° piano	18° piano	16.05.2025
+3119	WSTWK	19. Stock	19. Stock	19e étage	19e étage	19° piano	19° piano	16.05.2025
+3120	WSTWK	20. Stock	20. Stock	20e étage	20e étage	20° piano	20° piano	16.05.2025
+3121	WSTWK	21. Stock	21. Stock	21e étage	21e étage	21° piano	21° piano	16.05.2025
+3122	WSTWK	22. Stock	22. Stock	22e étage	22e étage	22° piano	22° piano	16.05.2025
+3123	WSTWK	23. Stock	23. Stock	23e étage	23e étage	23° piano	23° piano	16.05.2025
+3124	WSTWK	24. Stock	24. Stock	24e étage	24e étage	24° piano	24° piano	16.05.2025
+3125	WSTWK	25. Stock	25. Stock	25e étage	25e étage	25° piano	25° piano	16.05.2025
+3126	WSTWK	26. Stock	26. Stock	26e étage	26e étage	26° piano	26° piano	16.05.2025
+3127	WSTWK	27. Stock	27. Stock	27e étage	27e étage	27° piano	27° piano	16.05.2025
+3128	WSTWK	28. Stock	28. Stock	28e étage	28e étage	28° piano	28° piano	16.05.2025
+3129	WSTWK	29. Stock	29. Stock	29e étage	29e étage	29° piano	29° piano	16.05.2025
+3130	WSTWK	30. Stock	30. Stock	30e étage	30e étage	30° piano	30° piano	16.05.2025
+3131	WSTWK	31. Stock	31. Stock	31e étage	31e étage	31° piano	31° piano	16.05.2025
+3132	WSTWK	32. Stock	32. Stock	32e étage	32e étage	32° piano	32° piano	16.05.2025
+3133	WSTWK	33. Stock	33. Stock	33e étage	33e étage	33° piano	33° piano	16.05.2025
+3134	WSTWK	34. Stock	34. Stock	34e étage	34e étage	34° piano	34° piano	16.05.2025
+3135	WSTWK	35. Stock	35. Stock	35e étage	35e étage	35° piano	35° piano	16.05.2025
+3136	WSTWK	36. Stock	36. Stock	36e étage	36e étage	36° piano	36° piano	16.05.2025
+3137	WSTWK	37. Stock	37. Stock	37e étage	37e étage	37° piano	37° piano	16.05.2025
+3138	WSTWK	38. Stock	38. Stock	38e étage	38e étage	38° piano	38° piano	16.05.2025
+3139	WSTWK	39. Stock	39. Stock	39e étage	39e étage	39° piano	39° piano	16.05.2025
+3140	WSTWK	40. Stock	40. Stock	40e étage	40e étage	40° piano	40° piano	16.05.2025
+3141	WSTWK	41. Stock	41. Stock	41e étage	41e étage	41° piano	41° piano	16.05.2025
+3142	WSTWK	42. Stock	42. Stock	42e étage	42e étage	42° piano	42° piano	16.05.2025
+3143	WSTWK	43. Stock	43. Stock	43e étage	43e étage	43° piano	43° piano	16.05.2025
+3144	WSTWK	44. Stock	44. Stock	44e étage	44e étage	44° piano	44° piano	16.05.2025
+3145	WSTWK	45. Stock	45. Stock	45e étage	45e étage	45° piano	45° piano	16.05.2025
+3146	WSTWK	46. Stock	46. Stock	46e étage	46e étage	46° piano	46° piano	16.05.2025
+3147	WSTWK	47. Stock	47. Stock	47e étage	47e étage	47° piano	47° piano	16.05.2025
+3148	WSTWK	48. Stock	48. Stock	48e étage	48e étage	48° piano	48° piano	16.05.2025
+3149	WSTWK	49. Stock	49. Stock	49e étage	49e étage	49° piano	49° piano	16.05.2025
+3150	WSTWK	50. Stock	50. Stock	50e étage	50e étage	50° piano	50° piano	16.05.2025
+3151	WSTWK	51. Stock	51. Stock	51e étage	51e étage	51° piano	51° piano	16.05.2025
+3152	WSTWK	52. Stock	52. Stock	52e étage	52e étage	52° piano	52° piano	16.05.2025
+3153	WSTWK	53. Stock	53. Stock	53e étage	53e étage	53° piano	53° piano	16.05.2025
+3154	WSTWK	54. Stock	54. Stock	54e étage	54e étage	54° piano	54° piano	16.05.2025
+3155	WSTWK	55. Stock	55. Stock	55e étage	55e étage	55° piano	55° piano	16.05.2025
+3156	WSTWK	56. Stock	56. Stock	56e étage	56e étage	56° piano	56° piano	16.05.2025
+3157	WSTWK	57. Stock	57. Stock	57e étage	57e étage	57° piano	57° piano	16.05.2025
+3158	WSTWK	58. Stock	58. Stock	58e étage	58e étage	58° piano	58° piano	16.05.2025
+3159	WSTWK	59. Stock	59. Stock	59e étage	59e étage	59° piano	59° piano	16.05.2025
+3160	WSTWK	60. Stock	60. Stock	60e étage	60e étage	60° piano	60° piano	16.05.2025
+3161	WSTWK	61. Stock	61. Stock	61e étage	61e étage	61° piano	61° piano	16.05.2025
+3162	WSTWK	62. Stock	62. Stock	62e étage	62e étage	62° piano	62° piano	16.05.2025
+3163	WSTWK	63. Stock	63. Stock	63e étage	63e étage	63° piano	63° piano	16.05.2025
+3164	WSTWK	64. Stock	64. Stock	64e étage	64e étage	64° piano	64° piano	16.05.2025
+3165	WSTWK	65. Stock	65. Stock	65e étage	65e étage	65° piano	65° piano	16.05.2025
+3166	WSTWK	66. Stock	66. Stock	66e étage	66e étage	66° piano	66° piano	16.05.2025
+3167	WSTWK	67. Stock	67. Stock	67e étage	67e étage	67° piano	67° piano	16.05.2025
+3168	WSTWK	68. Stock	68. Stock	68e étage	68e étage	68° piano	68° piano	16.05.2025
+3169	WSTWK	69. Stock	69. Stock	69e étage	69e étage	69° piano	69° piano	16.05.2025
+3170	WSTWK	70. Stock	70. Stock	70e étage	70e étage	70° piano	70° piano	16.05.2025
+3171	WSTWK	71. Stock	71. Stock	71e étage	71e étage	71° piano	71° piano	16.05.2025
+3172	WSTWK	72. Stock	72. Stock	72e étage	72e étage	72° piano	72° piano	16.05.2025
+3173	WSTWK	73. Stock	73. Stock	73e étage	73e étage	73° piano	73° piano	16.05.2025
+3174	WSTWK	74. Stock	74. Stock	74e étage	74e étage	74° piano	74° piano	16.05.2025
+3175	WSTWK	75. Stock	75. Stock	75e étage	75e étage	75° piano	75° piano	16.05.2025
+3176	WSTWK	76. Stock	76. Stock	76e étage	76e étage	76° piano	76° piano	16.05.2025
+3177	WSTWK	77. Stock	77. Stock	77e étage	77e étage	77° piano	77° piano	16.05.2025
+3178	WSTWK	78. Stock	78. Stock	78e étage	78e étage	78° piano	78° piano	16.05.2025
+3179	WSTWK	79. Stock	79. Stock	79e étage	79e étage	79° piano	79° piano	16.05.2025
+3180	WSTWK	80. Stock	80. Stock	80e étage	80e étage	80° piano	80° piano	16.05.2025
+3181	WSTWK	81. Stock	81. Stock	81e étage	81e étage	81° piano	81° piano	16.05.2025
+3182	WSTWK	82. Stock	82. Stock	82e étage	82e étage	82° piano	82° piano	16.05.2025
+3183	WSTWK	83. Stock	83. Stock	83e étage	83e étage	83° piano	83° piano	16.05.2025
+3184	WSTWK	84. Stock	84. Stock	84e étage	84e étage	84° piano	84° piano	16.05.2025
+3185	WSTWK	85. Stock	85. Stock	85e étage	85e étage	85° piano	85° piano	16.05.2025
+3186	WSTWK	86. Stock	86. Stock	86e étage	86e étage	86° piano	86° piano	16.05.2025
+3187	WSTWK	87. Stock	87. Stock	87e étage	87e étage	87° piano	87° piano	16.05.2025
+3188	WSTWK	88. Stock	88. Stock	88e étage	88e étage	88° piano	88° piano	16.05.2025
+3189	WSTWK	89. Stock	89. Stock	89e étage	89e étage	89° piano	89° piano	16.05.2025
+3190	WSTWK	90. Stock	90. Stock	90e étage	90e étage	90° piano	90° piano	16.05.2025
+3191	WSTWK	91. Stock	91. Stock	91e étage	91e étage	91° piano	91° piano	16.05.2025
+3192	WSTWK	92. Stock	92. Stock	92e étage	92e étage	92° piano	92° piano	16.05.2025
+3193	WSTWK	93. Stock	93. Stock	93e étage	93e étage	93° piano	93° piano	16.05.2025
+3194	WSTWK	94. Stock	94. Stock	94e étage	94e étage	94° piano	94° piano	16.05.2025
+3195	WSTWK	95. Stock	95. Stock	95e étage	95e étage	95° piano	95° piano	16.05.2025
+3196	WSTWK	96. Stock	96. Stock	96e étage	96e étage	96° piano	96° piano	16.05.2025
+3197	WSTWK	97. Stock	97. Stock	97e étage	97e étage	97° piano	97° piano	16.05.2025
+3198	WSTWK	98. Stock	98. Stock	98e étage	98e étage	98° piano	98° piano	16.05.2025
+3199	WSTWK	99. Stock	99. Stock	99e étage	99e étage	99° piano	99° piano	16.05.2025
+3401	WSTWK	1. Untergeschoss	1. Untergeschoss	1er sous-sol	1er sous-sol	1° sotteraneo	1° sotteraneo	16.05.2025
+3402	WSTWK	2. Untergeschoss	2. Untergeschoss	2e sous-sol	2e sous-sol	2° sotteraneo	2° sotteraneo	16.05.2025
+3403	WSTWK	3. Untergeschoss	3. Untergeschoss	3e sous-sol	3e sous-sol	3° sotteraneo	3° sotteraneo	16.05.2025
+3404	WSTWK	4. Untergeschoss	4. Untergeschoss	4e sous-sol	4e sous-sol	4° sotteraneo	4° sotteraneo	16.05.2025
+3405	WSTWK	5. Untergeschoss	5. Untergeschoss	5e sous-sol	5e sous-sol	5° sotteraneo	5° sotteraneo	16.05.2025
+3406	WSTWK	6. Untergeschoss	6. Untergeschoss	6e sous-sol	6e sous-sol	6° sotteraneo	6° sotteraneo	16.05.2025
+3407	WSTWK	7. Untergeschoss	7. Untergeschoss	7e sous-sol	7e sous-sol	7° sotteraneo	7° sotteraneo	16.05.2025
+3408	WSTWK	8. Untergeschoss	8. Untergeschoss	8e sous-sol	8e sous-sol	8° sotteraneo	8° sotteraneo	16.05.2025
+3409	WSTWK	9. Untergeschoss	9. Untergeschoss	9e sous-sol	9e sous-sol	9° sotteraneo	9° sotteraneo	16.05.2025
+3410	WSTWK	10. Untergeschoss	10. Untergeschoss	10e sous-sol	10e sous-sol	10° sotteraneo	10° sotteraneo	16.05.2025
+3411	WSTWK	11. Untergeschoss	11. Untergeschoss	11e sous-sol	11e sous-sol	11° sotteraneo	11° sotteraneo	16.05.2025
+3412	WSTWK	12. Untergeschoss	12. Untergeschoss	12e sous-sol	12e sous-sol	12° sotteraneo	12° sotteraneo	16.05.2025
+3413	WSTWK	13. Untergeschoss	13. Untergeschoss	13e sous-sol	13e sous-sol	13° sotteraneo	13° sotteraneo	16.05.2025
+3414	WSTWK	14. Untergeschoss	14. Untergeschoss	14e sous-sol	14e sous-sol	14° sotteraneo	14° sotteraneo	16.05.2025
+3415	WSTWK	15. Untergeschoss	15. Untergeschoss	15e sous-sol	15e sous-sol	15° sotteraneo	15° sotteraneo	16.05.2025
+3416	WSTWK	16. Untergeschoss	16. Untergeschoss	16e sous-sol	16e sous-sol	16° sotteraneo	16° sotteraneo	16.05.2025
+3417	WSTWK	17. Untergeschoss	17. Untergeschoss	17e sous-sol	17e sous-sol	17° sotteraneo	17° sotteraneo	16.05.2025
+3418	WSTWK	18. Untergeschoss	18. Untergeschoss	18e sous-sol	18e sous-sol	18° sotteraneo	18° sotteraneo	16.05.2025
+3419	WSTWK	19. Untergeschoss	19. Untergeschoss	19e sous-sol	19e sous-sol	19° sotteraneo	19° sotteraneo	16.05.2025
+4011	LTYP	Parzelle (Liegenschaft)	Parzelle	Parcelle (bien-fonds)	Parcelle	Particella (immobile)	Particella	16.05.2025
+4012	LTYP	Anteil Stockwerkeigentum	Anteil Stockwerkeigentum	Part de propriété par étage	Part de propriété par étage	Quota di proprietà per piani	Quota di proprietà per piani	16.05.2025
+4013	LTYP	Gewöhnliches Miteigentum	Gewöhnliches Miteigentum	Copropriété habituelle	Copropriété habituelle	Comproprietà abituale	Comproprietà abituale	16.05.2025
+4014	LTYP	Konzession	Konzession	Concession	Concession	Concessione	Concessione	16.05.2025
+4015	LTYP	SDR (Baurecht)	SDR	DDP habituel (droit de superficie)	DDP habituel	DDP abituale (diritto di superficie)	DDP abituale	16.05.2025
+4016	LTYP	Bergwerk	Bergwerk	Mine	Mine	Miniera	Miniera	16.05.2025
+7400	GWAERZH1	Kein Wärmeerzeuger	Kein Wärmeerzeuger	Pas de générateur de chaleur	Pas de gén. de chaleur	Senza generatore di calore	Senza gen. di calore	16.05.2025
+7400	GWAERZH2	Kein Wärmeerzeuger	Kein Wärmeerzeuger	Pas de générateur de chaleur	Pas de gén. de chaleur	Senza generatore di calore	Senza gen. di calore	16.05.2025
+7410	GWAERZH1	Wärmepumpe für ein Gebäude	Wärmepumpe für ein Geb.	Pompe à chaleur PAC pour un seul bâtiment	Pompe à chaleur pour un bât.	Pompa di calore PAC per un solo edificio	Pompa di calore per un ed.	16.05.2025
+7410	GWAERZH2	Wärmepumpe für ein Gebäude	Wärmepumpe für ein Geb.	Pompe à chaleur PAC pour un seul bâtiment	Pompe à chaleur pour un bât.	Pompa di calore PAC per un solo edificio	Pompa di calore per un ed.	16.05.2025
+7411	GWAERZH1	Wärmepumpe für mehrere Gebäude	Wärmepumpe für mehr. Geb.	Pompe à chaleur PAC pour plusieurs bâtiments	Pompe à chaleur pour plus. bât.	Pompa di calore PAC per più edifici	Pompa di calore per più ed.	16.05.2025
+7411	GWAERZH2	Wärmepumpe für mehrere Gebäude	Wärmepumpe für mehr. Geb.	Pompe à chaleur PAC pour plusieurs bâtiments	Pompe à chaleur pour plus. bât.	Pompa di calore PAC per più edifici	Pompa di calore per più ed.	16.05.2025
+7420	GWAERZH1	Thermische Solaranlage für ein Gebäude	Thermische Solaranlage für ein Geb.	Installation solaire thermique pour un seul bâtiment	Solaire thermique pour un bât.	Impianto solare termico per un solo edificio	Imp. solare termico per un ed.	16.05.2025
+7420	GWAERZH2	Thermische Solaranlage für ein Gebäude	Thermische Solaranlage für ein Geb.	Installation solaire thermique pour un seul bâtiment	Solaire thermique pour un bât.	Impianto solare termico per un solo edificio	Imp. solare termico per un ed.	16.05.2025
+7421	GWAERZH1	Thermische Solaranlage für mehrere Gebäude	Therm. Solaranlage für mehr. Geb.	Installation solaire thermique pour plusieurs bâtiments	Solaire thermique pour plus. bât.	Impianto solare termico per più edifici	Imp. solare termico per più ed.	16.05.2025
+7421	GWAERZH2	Thermische Solaranlage für mehrere Gebäude	Therm. Solaranlage für mehr. Geb.	Installation solaire thermique pour plusieurs bâtiments	Solaire thermique pour plus. bât.	Impianto solare termico per più edifici	Imp. solare termico per più ed.	16.05.2025
+7430	GWAERZH1	Heizkessel (generisch) für ein Gebäude	Heizkessel (gene.) für ein Geb.	Chaudière (générique) pour un seul bâtiment	Chaudière (gén.) pour un bât.	Caldaia (generica) per un solo edificio	Caldaia (gen.) per un ed.	16.05.2025
+7430	GWAERZH2	Heizkessel (generisch) für ein Gebäude	Heizkessel (gene.) für ein Geb.	Chaudière (générique) pour un seul bâtiment	Chaudière (gén.) pour un bât.	Caldaia (generica) per un solo edificio	Caldaia (gen.) per un ed.	16.05.2025
+7431	GWAERZH1	Heizkessel (generisch) für mehrere Gebäude	Heizkessel (gen.) für mehr. Geb.	Chaudière (générique) pour plusieurs bâtiments	Chaudière (gén.) pour plus. bât.	Caldaia (generica) per più edifici	Caldaia (gen.) per più ed.	16.05.2025
+7431	GWAERZH2	Heizkessel (generisch) für mehrere Gebäude	Heizkessel (gen.) für mehr. Geb.	Chaudière (générique) pour plusieurs bâtiments	Chaudière (gén.) pour plus. bât.	Caldaia (generica) per più edifici	Caldaia (gen.) per più ed.	16.05.2025
+7432	GWAERZH1	Heizkessel nicht kondensierend für ein Gebäude	Heizkessel nicht kond. für ein Geb.	Chaudière standard pour un seul bâtiment	Chaudière stand. pour un bât.	Caldaia standard per un solo edificio	Caldaia stand. per un ed.	16.05.2025
+7432	GWAERZH2	Heizkessel nicht kondensierend für ein Gebäude	Heizkessel nicht kond. für ein Geb.	Chaudière standard pour un seul bâtiment	Chaudière stand. pour un bât.	Caldaia standard per un solo edificio	Caldaia stand. per un ed.	16.05.2025
+7433	GWAERZH1	Heizkessel nicht kondensierend für mehrere Gebäude	Heizkessel nicht kond. mehr. Geb.	Chaudière standard pour plusieurs bâtiments	Chaudière stand. pour plus. bât.	Caldaia standard per più edifici	Caldaia stand. per più ed.	16.05.2025
+7433	GWAERZH2	Heizkessel nicht kondensierend für mehrere Gebäude	Heizkessel nicht kond. mehr. Geb.	Chaudière standard pour plusieurs bâtiments	Chaudière stand. pour plus. bât.	Caldaia standard per più edifici	Caldaia stand. per più ed.	16.05.2025
+7434	GWAERZH1	Heizkessel kondensierend für ein Gebäude	Heizkessel kond. für ein Geb.	Chaudière à condensation pour un seul bâtiment	Chaudière à cond. pour un bât.	Caldaia a condensazione per un solo edificio	Caldaia a cond. per un ed.	16.05.2025
+7434	GWAERZH2	Heizkessel kondensierend für ein Gebäude	Heizkessel kond. für ein Geb.	Chaudière à condensation pour un seul bâtiment	Chaudière à cond. pour un bât.	Caldaia a condensazione per un solo edificio	Caldaia a cond. per un ed.	16.05.2025
+7435	GWAERZH1	Heizkessel kondensierend für mehrere Gebäude	Heizkessel konde. für mehr. Geb.	Chaudière à condensation pour plusieurs bâtiments	Chaudière à cond. pour plus. bât.	Caldaia a condensazione per più edifici	Caldaia a cond. per più ed.	16.05.2025
+7435	GWAERZH2	Heizkessel kondensierend für mehrere Gebäude	Heizkessel konde. für mehr. Geb.	Chaudière à condensation pour plusieurs bâtiments	Chaudière à cond. pour plus. bât.	Caldaia a condensazione per più edifici	Caldaia a cond. per più ed.	16.05.2025
+7436	GWAERZH1	Ofen	Ofen	Poêle	Poêle	Stufa	Stufa	16.05.2025
+7436	GWAERZH2	Ofen	Ofen	Poêle	Poêle	Stufa	Stufa	16.05.2025
+7440	GWAERZH1	Wärmekraftkopplungsanlage für ein Gebäude	Wärmekraftkopplungsanlage ein Geb.	Installation couplage chaleur-force pour un seul bâtiment	Couplage chaleur-force pour un bât.	Impianto di cogenerazione di energia elettrica e termica per un solo edificio	Cogen. eletrica-termica per un ed.	16.05.2025
+7440	GWAERZH2	Wärmekraftkopplungsanlage für ein Gebäude	Wärmekraftkopplungsanlage ein Geb.	Installation couplage chaleur-force pour un seul bâtiment	Couplage chaleur-force pour un bât.	Impianto di cogenerazione di energia elettrica e termica per un solo edificio	Cogen. eletrica-termica per un ed.	16.05.2025
+7441	GWAERZH1	Wärmekraftkopplungsanlage für mehrere Gebäude	Wärmekraftkopplungsanlage mehr. Geb.	Installation couplage chaleur-force pour plusieurs bâtiments	Couplage chaleur-force plus. bât.	Impianto di cogenerazione di energia elettrica e termica per più edifici	Cogen. elettrica-termica per più ed.	16.05.2025
+7441	GWAERZH2	Wärmekraftkopplungsanlage für mehrere Gebäude	Wärmekraftkopplungsanlage mehr. Geb.	Installation couplage chaleur-force pour plusieurs bâtiments	Couplage chaleur-force plus. bât.	Impianto di cogenerazione di energia elettrica e termica per più edifici	Cogen. elettrica-termica per più ed.	16.05.2025
+7450	GWAERZH1	Elektrospeicher-Zentralheizung für ein Gebäude	Elektro-Zentralheizung ein Geb.	Chauffage central électrique pour un seul bâtiment	Central électrique pour un bât.	Riscaldamento centrale elettrico per un solo edificio	Centrale elettrico per un ed.	16.05.2025
+7450	GWAERZH2	Elektrospeicher-Zentralheizung für ein Gebäude	Elektro-Zentralheizung ein Geb.	Chauffage central électrique pour un seul bâtiment	Central électrique pour un bât.	Riscaldamento centrale elettrico per un solo edificio	Centrale elettrico per un ed.	16.05.2025
+7451	GWAERZH1	Elektrospeicher-Zentralheizung für mehrere Gebäude	Elektro-Zentralheizung mehr. Geb.	Chauffage central électrique pour plusieurs bâtiments	Central électrique pour plus. bât.	Riscaldamento centrale elettrico per più edifici	Centrale elettrico per più ed.	16.05.2025
+7451	GWAERZH2	Elektrospeicher-Zentralheizung für mehrere Gebäude	Elektro-Zentralheizung mehr. Geb.	Chauffage central électrique pour plusieurs bâtiments	Central électrique pour plus. bât.	Riscaldamento centrale elettrico per più edifici	Centrale elettrico per più ed.	16.05.2025
+7452	GWAERZH1	Elektro direkt	Elektro direkt	Chauffage électrique direct (y compris radiateur infra-rouge)	Electrique direct	Radiatori elettrici (compresi quelli a infrarossi)	Radiatori elettrici	16.05.2025
+7452	GWAERZH2	Elektro direkt	Elektro direkt	Chauffage électrique direct (y compris radiateur infra-rouge)	Electrique direct	Radiatori elettrici (compresi quelli a infrarossi)	Radiatori elettrici	16.05.2025
+7460	GWAERZH1	Wärmetauscher (einschliesslich für Fernwärme) für ein Gebäude	Wärmetauscher für ein Geb.	Echangeur de chaleur (y.c. chauffage à distance) pour un seul bâtiment	Echangeur de chaleur pour un bât.	Scambiatore di calore e impianto ad hoc per teleriscaldamento per un solo edificio	Scambiatore per telerisc. per un ed.	16.05.2025
+7460	GWAERZH2	Wärmetauscher (einschliesslich für Fernwärme) für ein Gebäude	Wärmetauscher für ein Geb.	Echangeur de chaleur (y.c. chauffage à distance) pour un seul bâtiment	Echangeur de chaleur pour un bât.	Scambiatore di calore e impianto ad hoc per teleriscaldamento per un solo edificio	Scambiatore per telerisc. per un ed.	16.05.2025
+7461	GWAERZH1	Wärmetauscher (einschliesslich für Fernwärme) für mehrere Gebäude	Wärmetauscher für mehr. Geb.	Echangeur de chaleur (y.c. chauffage à distance) pour plusieurs bâtiments	Echangeur de chaleur pour plus. bât.	Scambiatore di calore e impianto ad hoc per teleriscaldamento per più edifici	Scambiatore telerisc. per più ed.	16.05.2025
+7461	GWAERZH2	Wärmetauscher (einschliesslich für Fernwärme) für mehrere Gebäude	Wärmetauscher für mehr. Geb.	Echangeur de chaleur (y.c. chauffage à distance) pour plusieurs bâtiments	Echangeur de chaleur pour plus. bât.	Scambiatore di calore e impianto ad hoc per teleriscaldamento per più edifici	Scambiatore telerisc. per più ed.	16.05.2025
+7499	GWAERZH1	Andere	Andere	Autre	Autre	Altro	Altro	16.05.2025
+7499	GWAERZH2	Andere	Andere	Autre	Autre	Altro	Altro	16.05.2025
+7500	GENH1	Keine	Keine	Aucune	Aucune	Nessuna	Nessuna	16.05.2025
+7500	GENH2	Keine	Keine	Aucune	Aucune	Nessuna	Nessuna	16.05.2025
+7500	GENW1	Keine	Keine	Aucune	Aucune	Nessuna	Nessuna	16.05.2025
+7500	GENW2	Keine	Keine	Aucune	Aucune	Nessuna	Nessuna	16.05.2025
+7501	GENH1	Luft	Luft	Air	Air	Aria	Aria	16.05.2025
+7501	GENH2	Luft	Luft	Air	Air	Aria	Aria	16.05.2025
+7501	GENW1	Luft	Luft	Air	Air	Aria	Aria	16.05.2025
+7501	GENW2	Luft	Luft	Air	Air	Aria	Aria	16.05.2025
+7510	GENH1	Erdwärme (generisch)	Erdwärme (generisch)	Géothermie (générique)	Géothermie (générique)	Geotermia (generica)	Geotermia (generica)	16.05.2025
+7510	GENH2	Erdwärme (generisch)	Erdwärme (generisch)	Géothermie (générique)	Géothermie (générique)	Geotermia (generica)	Geotermia (generica)	16.05.2025
+7510	GENW1	Erdwärme (generisch)	Erdwärme (generisch)	Géothermie (générique)	Géothermie (générique)	Geotermia (generica)	Geotermia (generica)	16.05.2025
+7510	GENW2	Erdwärme (generisch)	Erdwärme (generisch)	Géothermie (générique)	Géothermie (générique)	Geotermia (generica)	Geotermia (generica)	16.05.2025
+7511	GENH1	Erdwärmesonde	Erdwärmesonde	Sonde géothermique	Sonde géothermique	Sonda geotermica	Sonda geotermica	16.05.2025
+7511	GENH2	Erdwärmesonde	Erdwärmesonde	Sonde géothermique	Sonde géothermique	Sonda geotermica	Sonda geotermica	16.05.2025
+7511	GENW1	Erdwärmesonde	Erdwärmesonde	Sonde géothermique	Sonde géothermique	Sonda geotermica	Sonda geotermica	16.05.2025
+7511	GENW2	Erdwärmesonde	Erdwärmesonde	Sonde géothermique	Sonde géothermique	Sonda geotermica	Sonda geotermica	16.05.2025
+7512	GENH1	Erdregister	Erdregister	Serpentin géothermique	Serpentin géothermique	Serpentina geotermica	Serpentina geotermica	16.05.2025
+7512	GENH2	Erdregister	Erdregister	Serpentin géothermique	Serpentin géothermique	Serpentina geotermica	Serpentina geotermica	16.05.2025
+7512	GENW1	Erdregister	Erdregister	Serpentin géothermique	Serpentin géothermique	Serpentina geotermica	Serpentina geotermica	16.05.2025
+7512	GENW2	Erdregister	Erdregister	Serpentin géothermique	Serpentin géothermique	Serpentina geotermica	Serpentina geotermica	16.05.2025
+7513	GENH1	Wasser (Grundwasser, Oberflächenwasser, Abwasser)	Wasser	Eau (nappe phréatique, eaux superficielles, eaux résiduelles)	Eau	Acqua (falda freatica, acque di superficie, acque residue)	Aqua	16.05.2025
+7513	GENH2	Wasser (Grundwasser, Oberflächenwasser, Abwasser)	Wasser	Eau (nappe phréatique, eaux superficielles, eaux résiduelles)	Eau	Acqua (falda freatica, acque di superficie, acque residue)	Aqua	16.05.2025
+7513	GENW1	Wasser (Grundwasser, Oberflächenwasser, Abwasser)	Wasser	Eau (nappe phréatique, eaux superficielles, eaux résiduelles)	Eau	Acqua (falda freatica, acque di superficie, acque residue)	Aqua	16.05.2025
+7513	GENW2	Wasser (Grundwasser, Oberflächenwasser, Abwasser)	Wasser	Eau (nappe phréatique, eaux superficielles, eaux résiduelles)	Eau	Acqua (falda freatica, acque di superficie, acque residue)	Aqua	16.05.2025
+7520	GENH1	Gas	Gas	Gaz	Gaz	Gas	Gas	16.05.2025
+7520	GENH2	Gas	Gas	Gaz	Gaz	Gas	Gas	16.05.2025
+7520	GENW1	Gas	Gas	Gaz	Gaz	Gas	Gas	16.05.2025
+7520	GENW2	Gas	Gas	Gaz	Gaz	Gas	Gas	16.05.2025
+7530	GENH1	Heizöl	Heizöl	Mazout	Mazout	Olio da riscaldamento	Olio da riscaldamento	16.05.2025
+7530	GENH2	Heizöl	Heizöl	Mazout	Mazout	Olio da riscaldamento	Olio da riscaldamento	16.05.2025
+7530	GENW1	Heizöl	Heizöl	Mazout	Mazout	Olio da riscaldamento	Olio da riscaldamento	16.05.2025
+7530	GENW2	Heizöl	Heizöl	Mazout	Mazout	Olio da riscaldamento	Olio da riscaldamento	16.05.2025
+7540	GENH1	Holz (generisch)	Holz (generisch)	Bois (générique)	Bois (générique)	Legna (generica)	Legna (generica)	16.05.2025
+7540	GENH2	Holz (generisch)	Holz (generisch)	Bois (générique)	Bois (générique)	Legna (generica)	Legna (generica)	16.05.2025
+7540	GENW1	Holz (generisch)	Holz (generisch)	Bois (générique)	Bois (générique)	Legna (generica)	Legna (generica)	16.05.2025
+7540	GENW2	Holz (generisch)	Holz (generisch)	Bois (générique)	Bois (générique)	Legna (generica)	Legna (generica)	16.05.2025
+7541	GENH1	Holz (Stückholz)	Holz (Stückholz)	Bois (bûches)	Bois (bûches)	Legna (ceppi)	Legna (ceppi)	16.05.2025
+7541	GENH2	Holz (Stückholz)	Holz (Stückholz)	Bois (bûches)	Bois (bûches)	Legna (ceppi)	Legna (ceppi)	16.05.2025
+7541	GENW1	Holz (Stückholz)	Holz (Stückholz)	Bois (bûches)	Bois (bûches)	Legna (ceppi)	Legna (ceppi)	16.05.2025
+7541	GENW2	Holz (Stückholz)	Holz (Stückholz)	Bois (bûches)	Bois (bûches)	Legna (ceppi)	Legna (ceppi)	16.05.2025
+7542	GENH1	Holz (Pellets)	Holz (Pellets)	Bois (granulés - pellets)	Bois (granulés - pellets)	Legna (granulati pellet)	Legna (granulati pellet)	16.05.2025
+7542	GENH2	Holz (Pellets)	Holz (Pellets)	Bois (granulés - pellets)	Bois (granulés - pellets)	Legna (granulati pellet)	Legna (granulati pellet)	16.05.2025
+7542	GENW1	Holz (Pellets)	Holz (Pellets)	Bois (granulés - pellets)	Bois (granulés - pellets)	Legna (granulati pellet)	Legna (granulati pellet)	16.05.2025
+7542	GENW2	Holz (Pellets)	Holz (Pellets)	Bois (granulés - pellets)	Bois (granulés - pellets)	Legna (granulati pellet)	Legna (granulati pellet)	16.05.2025
+7543	GENH1	Holz (Schnitzel)	Holz (Schnitzel)	Bois (bois déchiqueté, copeaux)	Bois (bois déchiqueté, copeaux)	Legna (cippato, trucioli)	Legna (cippato, trucioli)	16.05.2025
+7543	GENH2	Holz (Schnitzel)	Holz (Schnitzel)	Bois (bois déchiqueté, copeaux)	Bois (bois déchiqueté, copeaux)	Legna (cippato, trucioli)	Legna (cippato, trucioli)	16.05.2025
+7543	GENW1	Holz (Schnitzel)	Holz (Schnitzel)	Bois (bois déchiqueté, copeaux)	Bois (bois déchiqueté, copeaux)	Legna (cippato, trucioli)	Legna (cippato, trucioli)	16.05.2025
+7543	GENW2	Holz (Schnitzel)	Holz (Schnitzel)	Bois (bois déchiqueté, copeaux)	Bois (bois déchiqueté, copeaux)	Legna (cippato, trucioli)	Legna (cippato, trucioli)	16.05.2025
+7550	GENH1	Abwärme (innerhalb des Gebäudes)	Abwärme	Rejets thermiques (dans le bâtiment)	Rejets thermiques	Scarichi termici (nell'edificio)	Scarichi termici (nell'edificio)	16.05.2025
+7550	GENH2	Abwärme (innerhalb des Gebäudes)	Abwärme	Rejets thermiques (dans le bâtiment)	Rejets thermiques	Scarichi termici (nell'edificio)	Scarichi termici (nell'edificio)	16.05.2025
+7550	GENW1	Abwärme (innerhalb des Gebäudes)	Abwärme	Rejets thermiques (dans le bâtiment)	Rejets thermiques	Scarichi termici (nell'edificio)	Scarichi termici (nell'edificio)	16.05.2025
+7550	GENW2	Abwärme (innerhalb des Gebäudes)	Abwärme	Rejets thermiques (dans le bâtiment)	Rejets thermiques	Scarichi termici (nell'edificio)	Scarichi termici (nell'edificio)	16.05.2025
+7560	GENH1	Elektrizität	Elektrizität	Electricité	Electricité	Elettricità	Elettricità	16.05.2025
+7560	GENH2	Elektrizität	Elektrizität	Electricité	Electricité	Elettricità	Elettricità	16.05.2025
+7560	GENW1	Elektrizität	Elektrizität	Electricité	Electricité	Elettricità	Elettricità	16.05.2025
+7560	GENW2	Elektrizität	Elektrizität	Electricité	Electricité	Elettricità	Elettricità	16.05.2025
+7570	GENH1	Sonne (thermisch)	Sonne (thermisch)	Soleil (thermique)	Soleil (thermique)	Sole (termico)	Sole (termico)	16.05.2025
+7570	GENH2	Sonne (thermisch)	Sonne (thermisch)	Soleil (thermique)	Soleil (thermique)	Sole (termico)	Sole (termico)	16.05.2025
+7570	GENW1	Sonne (thermisch)	Sonne (thermisch)	Soleil (thermique)	Soleil (thermique)	Sole (termico)	Sole (termico)	16.05.2025
+7570	GENW2	Sonne (thermisch)	Sonne (thermisch)	Soleil (thermique)	Soleil (thermique)	Sole (termico)	Sole (termico)	16.05.2025
+7580	GENH1	Fernwärme (generisch)	Fernwärme (generisch)	Chaleur produite à distance (générique)	Chaleur à distance (gén.)	Calore prodotto a distanza (generico)	Calore a distanza (generico)	16.05.2025
+7580	GENH2	Fernwärme (generisch)	Fernwärme (generisch)	Chaleur produite à distance (générique)	Chaleur à distance (gén.)	Calore prodotto a distanza (generico)	Calore a distanza (generico)	16.05.2025
+7580	GENW1	Fernwärme (generisch)	Fernwärme (generisch)	Chaleur produite à distance (générique)	Chaleur à distance (gén.)	Calore prodotto a distanza (generico)	Calore a distanza (generico)	16.05.2025
+7580	GENW2	Fernwärme (generisch)	Fernwärme (generisch)	Chaleur produite à distance (générique)	Chaleur à distance (gén.)	Calore prodotto a distanza (generico)	Calore a distanza (generico)	16.05.2025
+7581	GENH1	Fernwärme (Hochtemperatur)	Fernwärme (Hochtemperatur)	Chaleur produite à distance (haute température)	Chaleur à distance (haute temp.)	Calore prodotto a distanza (alta temperatura)	Calore a distanza (alta temp.)	16.05.2025
+7581	GENH2	Fernwärme (Hochtemperatur)	Fernwärme (Hochtemperatur)	Chaleur produite à distance (haute température)	Chaleur à distance (haute temp.)	Calore prodotto a distanza (alta temperatura)	Calore a distanza (alta temp.)	16.05.2025
+7581	GENW1	Fernwärme (Hochtemperatur)	Fernwärme (Hochtemperatur)	Chaleur produite à distance (haute température)	Chaleur à distance (haute temp.)	Calore prodotto a distanza (alta temperatura)	Calore a distanza (alta temp.)	16.05.2025
+7581	GENW2	Fernwärme (Hochtemperatur)	Fernwärme (Hochtemperatur)	Chaleur produite à distance (haute température)	Chaleur à distance (haute temp.)	Calore prodotto a distanza (alta temperatura)	Calore a distanza (alta temp.)	16.05.2025
+7582	GENH1	Fernwärme (Niedertemperatur)	Fernwärme (Niedertemperatur)	Chaleur produite à distance (basse température)	Chaleur à distance (basse temp.)	Calore prodotto a distanza (bassa temperatura)	Calore a distanza (bassa temp.)	16.05.2025
+7582	GENH2	Fernwärme (Niedertemperatur)	Fernwärme (Niedertemperatur)	Chaleur produite à distance (basse température)	Chaleur à distance (basse temp.)	Calore prodotto a distanza (bassa temperatura)	Calore a distanza (bassa temp.)	16.05.2025
+7582	GENW1	Fernwärme (Niedertemperatur)	Fernwärme (Niedertemperatur)	Chaleur produite à distance (basse température)	Chaleur à distance (basse temp.)	Calore prodotto a distanza (bassa temperatura)	Calore a distanza (bassa temp.)	16.05.2025
+7582	GENW2	Fernwärme (Niedertemperatur)	Fernwärme (Niedertemperatur)	Chaleur produite à distance (basse température)	Chaleur à distance (basse temp.)	Calore prodotto a distanza (bassa temperatura)	Calore a distanza (bassa temp.)	16.05.2025
+7598	GENH1	Unbestimmt	Unbestimmt	Indéterminé	Indéterminé	Indeterminata	Indeterminata	16.05.2025
+7598	GENH2	Unbestimmt	Unbestimmt	Indéterminé	Indéterminé	Indeterminata	Indeterminata	16.05.2025
+7598	GENW1	Unbestimmt	Unbestimmt	Indéterminé	Indéterminé	Indeterminata	Indeterminata	16.05.2025
+7598	GENW2	Unbestimmt	Unbestimmt	Indéterminé	Indéterminé	Indeterminata	Indeterminata	16.05.2025
+7599	GENH1	Andere	Andere	Autre	Autre	Altro	Altro	16.05.2025
+7599	GENH2	Andere	Andere	Autre	Autre	Altro	Altro	16.05.2025
+7599	GENW1	Andere	Andere	Autre	Autre	Altro	Altro	16.05.2025
+7599	GENW2	Andere	Andere	Autre	Autre	Altro	Altro	16.05.2025
+7600	GWAERZW1	Kein Wärmeerzeuger	Kein Wärmeerzeuger	Pas de générateur de chaleur	Pas de gén. de chaleur	Senza generatore di calore	Senza gen. di calore	16.05.2025
+7600	GWAERZW2	Kein Wärmeerzeuger	Kein Wärmeerzeuger	Pas de générateur de chaleur	Pas de gén. de chaleur	Senza generatore di calore	Senza gen. di calore	16.05.2025
+7610	GWAERZW1	Wärmepumpe	Wärmepumpe	Pompe à chaleur PAC	Pompe à chaleur	Pompa di calore PAC	Pompa di calore	16.05.2025
+7610	GWAERZW2	Wärmepumpe	Wärmepumpe	Pompe à chaleur PAC	Pompe à chaleur	Pompa di calore PAC	Pompa di calore	16.05.2025
+7620	GWAERZW1	Thermische Solaranlage	Thermische Solaranlage	Installation solaire thermique	Solaire thermique	Impianto solare termico	Impianto solare termico	16.05.2025
+7620	GWAERZW2	Thermische Solaranlage	Thermische Solaranlage	Installation solaire thermique	Solaire thermique	Impianto solare termico	Impianto solare termico	16.05.2025
+7630	GWAERZW1	Heizkessel (generisch)	Heizkessel (generisch)	Chaudière (générique)	Chaudière (générique)	Caldaia (generica)	Caldaia (generica)	16.05.2025
+7630	GWAERZW2	Heizkessel (generisch)	Heizkessel (generisch)	Chaudière (générique)	Chaudière (générique)	Caldaia (generica)	Caldaia (generica)	16.05.2025
+7632	GWAERZW1	Heizkessel nicht kondensierend	Heizkessel nicht kondensierend	Chaudière standard	Chaudière standard	Caldaia standard	Caldaia standard	16.05.2025
+7632	GWAERZW2	Heizkessel nicht kondensierend	Heizkessel nicht kondensierend	Chaudière standard	Chaudière standard	Caldaia standard	Caldaia standard	16.05.2025
+7634	GWAERZW1	Heizkessel kondensierend	Heizkessel kondensierend	Chaudière à condensation	Chaudière à condensation	Caldaia a condensazione	Caldaia a condensazione	16.05.2025
+7634	GWAERZW2	Heizkessel kondensierend	Heizkessel kondensierend	Chaudière à condensation	Chaudière à condensation	Caldaia a condensazione	Caldaia a condensazione	16.05.2025
+7640	GWAERZW1	Wärmekraftkopplungsanlage	Wärmekraftkopplungsanlage	Installation couplage chaleur-force	Couplage chaleur-force	Impianto di cogenerazione di energia elettrica e termica	Cogenerazione elettrica-termica	16.05.2025
+7640	GWAERZW2	Wärmekraftkopplungsanlage	Wärmekraftkopplungsanlage	Installation couplage chaleur-force	Couplage chaleur-force	Impianto di cogenerazione di energia elettrica e termica	Cogenerazione elettrica-termica	16.05.2025
+7650	GWAERZW1	Zentraler Elektroboiler	Zentraler Elektroboiler	Boiler électrique central	Boiler électrique central	Boiler centrale elettrico	Boiler centrale elettrico	16.05.2025
+7650	GWAERZW2	Zentraler Elektroboiler	Zentraler Elektroboiler	Boiler électrique central	Boiler électrique central	Boiler centrale elettrico	Boiler centrale elettrico	16.05.2025
+7651	GWAERZW1	Kleinboiler	Kleinboiler	Petit boiler	Petit boiler	Piccolo boiler	Piccolo boiler	16.05.2025
+7651	GWAERZW2	Kleinboiler	Kleinboiler	Petit boiler	Petit boiler	Piccolo boiler	Piccolo boiler	16.05.2025
+7660	GWAERZW1	Wärmetauscher (einschliesslich für Fernwärme)	Wärmetauscher	Echangeur de chaleur (y compris pour la chaleur à distance)	Echangeur de chaleur	Scambiatore di calore e impianto ad hoc per teleriscaldamento	Scambiatore per teleriscaldamento	16.05.2025
+7660	GWAERZW2	Wärmetauscher (einschliesslich für Fernwärme)	Wärmetauscher	Echangeur de chaleur (y compris pour la chaleur à distance)	Echangeur de chaleur	Scambiatore di calore e impianto ad hoc per teleriscaldamento	Scambiatore per teleriscaldamento	16.05.2025
+7699	GWAERZW1	Andere	Andere	Autre	Autre	Altro	Altro	16.05.2025
+7699	GWAERZW2	Andere	Andere	Autre	Autre	Altro	Altro	16.05.2025
+8011	GBAUP	Periode vor 1919	Vor 1919	Période avant 1919	Avant 1919	Periodo prima del 1919	<1919	16.05.2025
+8012	GBAUP	Periode von 1919 bis 1945	1919-1945	Période de 1919 à 1945	1919-1945	Periodo dal 1919 al 1945	1919-1945	16.05.2025
+8013	GBAUP	Periode von 1946 bis 1960	1946-1960	Période de 1946 à 1960	1946-1960	Periodo dal 1946 al 1960	1946-1960	16.05.2025
+8014	GBAUP	Periode von 1961 bis 1970	1961-1970	Période de 1961 à 1970	1961-1970	Periodo dal 1961 al 1970	1961-1970	16.05.2025
+8015	GBAUP	Periode von 1971 bis 1980	1971-1980	Période de 1971 à 1980	1971-1980	Periodo dal 1971 al 1980	1971-1980	16.05.2025
+8016	GBAUP	Periode von 1981 bis 1985	1981-1985	Période de 1981 à 1985	1981-1985	Periodo dal 1981 al 1985	1981-1985	16.05.2025
+8017	GBAUP	Periode von 1986 bis 1990	1986-1990	Période de 1986 à 1990	1986-1990	Periodo dal 1986 al 1990	1986-1990	16.05.2025
+8018	GBAUP	Periode von 1991 bis 1995	1991-1995	Période de 1991 à 1995	1991-1995	Periodo dal 1991 al 1995	1991-1995	16.05.2025
+8019	GBAUP	Periode von 1996 bis 2000	1996-2000	Période de 1996 à 2000	1996-2000	Periodo dal 1996 al 2000	1996-2000	16.05.2025
+8020	GBAUP	Periode von 2001 bis 2005	2001-2005	Période de 2001 à 2005	2001-2005	Periodo dal 2001 al 2005	2001-2005	16.05.2025
+8021	GBAUP	Periode von 2006 bis 2010	2006-2010	Période de 2006 à 2010	2006-2010	Periodo dal 2006 al 2010	2006-2010	16.05.2025
+8022	GBAUP	Periode von 2011 bis 2015	2011-2015	Période de 2011 à 2015	2011-2015	Periodo dal 2011 al 2015	2011-2015	16.05.2025
+8023	GBAUP	Periode nach 2015	Nach 2015	Période après 2015	> 2015	Periodo dopo il 2015	>2015	16.05.2025
+851	GVOLSCE	Gemäss amtlicher Vermessung	Gemäss amtlicher Vermessung	Selon mensuration officielle	Selon mensuration officielle	Secondo la misurazione ufficiale	Secondo la misurazione ufficiale	16.05.2025
+852	GVOLSCE	Gemäss amtlicher Schätzung	Gemäss amtlicher Schätzung	Selon estimation officielle	Selon estimation officielle	Secondo la stima ufficiale	Secondo la stima ufficiale	16.05.2025
+852	GWAERSCEH1	Gemäss amtlicher Schätzung	Gemäss amtlicher Schätzung	Selon estimation officielle	Selon estimation officielle	Secondo la stima ufficiale	Secondo la stima ufficiale	16.05.2025
+852	GWAERSCEH2	Gemäss amtlicher Schätzung	Gemäss amtlicher Schätzung	Selon estimation officielle	Selon estimation officielle	Secondo la stima ufficiale	Secondo la stima ufficiale	16.05.2025
+852	GWAERSCEW1	Gemäss amtlicher Schätzung	Gemäss amtlicher Schätzung	Selon estimation officielle	Selon estimation officielle	Secondo la stima ufficiale	Secondo la stima ufficiale	16.05.2025
+852	GWAERSCEW2	Gemäss amtlicher Schätzung	Gemäss amtlicher Schätzung	Selon estimation officielle	Selon estimation officielle	Secondo la stima ufficiale	Secondo la stima ufficiale	16.05.2025
+853	GVOLSCE	Gemäss Gebäudeversicherung	Gemäss Gebäudeversicherung	Selon assurance immobilière	Selon assurance immobilière	Secondo l'assicurazione immobiliare	Secondo l'assicurazione immobiliare	16.05.2025
+853	GWAERSCEH1	Gemäss Gebäudeversicherung	Gemäss Gebäudeversicherung	Selon assurance immobilière	Selon assurance immobilière	Secondo l'assicurazione immobiliare	Secondo l'assicurazione immobiliare	16.05.2025
+853	GWAERSCEH2	Gemäss Gebäudeversicherung	Gemäss Gebäudeversicherung	Selon assurance immobilière	Selon assurance immobilière	Secondo l'assicurazione immobiliare	Secondo l'assicurazione immobiliare	16.05.2025
+853	GWAERSCEW1	Gemäss Gebäudeversicherung	Gemäss Gebäudeversicherung	Selon assurance immobilière	Selon assurance immobilière	Secondo l'assicurazione immobiliare	Secondo l'assicurazione immobiliare	16.05.2025
+853	GWAERSCEW2	Gemäss Gebäudeversicherung	Gemäss Gebäudeversicherung	Selon assurance immobilière	Selon assurance immobilière	Secondo l'assicurazione immobiliare	Secondo l'assicurazione immobiliare	16.05.2025
+855	GWAERSCEH1	Gemäss Feuerungskontrolle	Gemäss Feuerungskontrolle	Selon contrôle des installations de chauffage	Selon contrôle chauffage	Secondo il controllo degli impianti di riscaldamento	Secondo il controllo riscaldamento	16.05.2025
+855	GWAERSCEH2	Gemäss Feuerungskontrolle	Gemäss Feuerungskontrolle	Selon contrôle des installations de chauffage	Selon contrôle chauffage	Secondo il controllo degli impianti di riscaldamento	Secondo il controllo riscaldamento	16.05.2025
+855	GWAERSCEW1	Gemäss Feuerungskontrolle	Gemäss Feuerungskontrolle	Selon contrôle des installations de chauffage	Selon contrôle chauffage	Secondo il controllo degli impianti di riscaldamento	Secondo il controllo riscaldamento	16.05.2025
+855	GWAERSCEW2	Gemäss Feuerungskontrolle	Gemäss Feuerungskontrolle	Selon contrôle des installations de chauffage	Selon contrôle chauffage	Secondo il controllo degli impianti di riscaldamento	Secondo il controllo riscaldamento	16.05.2025
+857	GVOLSCE	Gemäss Eigentümer/in / Verwaltung	Gemäss Kontaktperson	Selon propriétaire / gérant d'immeuble	Selon personne de contact	Secondo il proprietario / gerente immobiliare	Secondo la persona di contacto	16.05.2025
+857	GWAERSCEH1	Gemäss Eigentümer/in / Verwaltung	Gemäss Kontaktperson	Selon propriétaire / gérant d'immeuble	Selon personne de contact	Secondo il proprietario / gerente immobiliare	Secondo la persona di contacto	16.05.2025
+857	GWAERSCEH2	Gemäss Eigentümer/in / Verwaltung	Gemäss Kontaktperson	Selon propriétaire / gérant d'immeuble	Selon personne de contact	Secondo il proprietario / gerente immobiliare	Secondo la persona di contacto	16.05.2025
+857	GWAERSCEW1	Gemäss Eigentümer/in / Verwaltung	Gemäss Kontaktperson	Selon propriétaire / gérant d'immeuble	Selon personne de contact	Secondo il proprietario / gerente immobiliare	Secondo la persona di contacto	16.05.2025
+857	GWAERSCEW2	Gemäss Eigentümer/in / Verwaltung	Gemäss Kontaktperson	Selon propriétaire / gérant d'immeuble	Selon personne de contact	Secondo il proprietario / gerente immobiliare	Secondo la persona di contacto	16.05.2025
+858	GVOLSCE	Gemäss Gebäudeenergieausweis der Kantone (GEAK)	Gemäss GEAK	Selon Certificat énergétique cantonal des bâtiments (CECB)	Selon CECB	Secondo il Certificato energetico cantonale degli edifici (CECE)	Secondo il CECE	16.05.2025
+858	GWAERSCEH1	Gemäss Gebäudeenergieausweis der Kantone (GEAK)	Gemäss GEAK	Selon Certificat énergétique cantonal des bâtiments (CECB)	Selon CECB	Secondo il Certificato energetico cantonale degli edifici (CECE)	Secondo il CECE	16.05.2025
+858	GWAERSCEH2	Gemäss Gebäudeenergieausweis der Kantone (GEAK)	Gemäss GEAK	Selon Certificat énergétique cantonal des bâtiments (CECB)	Selon CECB	Secondo il Certificato energetico cantonale degli edifici (CECE)	Secondo il CECE	16.05.2025
+858	GWAERSCEW1	Gemäss Gebäudeenergieausweis der Kantone (GEAK)	Gemäss GEAK	Selon Certificat énergétique cantonal des bâtiments (CECB)	Selon CECB	Secondo il Certificato energetico cantonale degli edifici (CECE)	Secondo il CECE	16.05.2025
+858	GWAERSCEW2	Gemäss Gebäudeenergieausweis der Kantone (GEAK)	Gemäss GEAK	Selon Certificat énergétique cantonal des bâtiments (CECB)	Selon CECB	Secondo il Certificato energetico cantonale degli edifici (CECE)	Secondo il CECE	16.05.2025
+859	GVOLSCE	Andere	Andere	Autre	Autre	Altro	Altro	16.05.2025
+859	GWAERSCEH1	Andere	Andere	Autre	Autre	Altro	Altro	16.05.2025
+859	GWAERSCEH2	Andere	Andere	Autre	Autre	Altro	Altro	16.05.2025
+859	GWAERSCEW1	Andere	Andere	Autre	Autre	Altro	Altro	16.05.2025
+859	GWAERSCEW2	Andere	Andere	Autre	Autre	Altro	Altro	16.05.2025
+860	GWAERSCEH1	Gemäss Volkszählung 2000	Gemäss Volkszählung 2000	Selon recensement 2000	Selon recensement 2000	Secondo censimento 2000	Secondo censimento 2000	16.05.2025
+860	GWAERSCEH2	Gemäss Volkszählung 2000	Gemäss Volkszählung 2000	Selon recensement 2000	Selon recensement 2000	Secondo censimento 2000	Secondo censimento 2000	16.05.2025
+860	GWAERSCEW1	Gemäss Volkszählung 2000	Gemäss Volkszählung 2000	Selon recensement 2000	Selon recensement 2000	Secondo censimento 2000	Secondo censimento 2000	16.05.2025
+860	GWAERSCEW2	Gemäss Volkszählung 2000	Gemäss Volkszählung 2000	Selon recensement 2000	Selon recensement 2000	Secondo censimento 2000	Secondo censimento 2000	16.05.2025
+864	GWAERSCEH1	Gemäss kantonalen Daten / Das Gebäudeprogramm	Kantonale Daten/Gebäudeprogramm	Selon données cantonales / Le Programme Bâtiments	Données cantonales/Programme Bât.	Secondo dati cantonali / Il Programma Edifici	Dati cantonali/Programma Edifici	16.05.2025
+864	GWAERSCEH2	Gemäss kantonalen Daten / Das Gebäudeprogramm	Kantonale Daten/Gebäudeprogramm	Selon données cantonales / Le Programme Bâtiments	Données cantonales/Programme Bât.	Secondo dati cantonali / Il Programma Edifici	Dati cantonali/Programma Edifici	16.05.2025
+864	GWAERSCEW1	Gemäss kantonalen Daten / Das Gebäudeprogramm	Kantonale Daten/Gebäudeprogramm	Selon données cantonales / Le Programme Bâtiments	Données cantonales/Programme Bât.	Secondo dati cantonali / Il Programma Edifici	Dati cantonali/Programma Edifici	16.05.2025
+864	GWAERSCEW2	Gemäss kantonalen Daten / Das Gebäudeprogramm	Kantonale Daten/Gebäudeprogramm	Selon données cantonales / Le Programme Bâtiments	Données cantonales/Programme Bât.	Secondo dati cantonali / Il Programma Edifici	Dati cantonali/Programma Edifici	16.05.2025
+865	GWAERSCEH1	Gemäss Daten der Gemeinde	Gemäss Daten der Gemeinde	Selon données communales	Selon données communales	Secondo dati comunali	Secondo dati comunali	16.05.2025
+865	GWAERSCEH2	Gemäss Daten der Gemeinde	Gemäss Daten der Gemeinde	Selon données communales	Selon données communales	Secondo dati comunali	Secondo dati comunali	16.05.2025
+865	GWAERSCEW1	Gemäss Daten der Gemeinde	Gemäss Daten der Gemeinde	Selon données communales	Selon données communales	Secondo dati comunali	Secondo dati comunali	16.05.2025
+865	GWAERSCEW2	Gemäss Daten der Gemeinde	Gemäss Daten der Gemeinde	Selon données communales	Selon données communales	Secondo dati comunali	Secondo dati comunali	16.05.2025
+869	GVOLSCE	Gemäss Baubewilligung	Gemäss Baubewilligung	Selon permis de construire	Selon permis de construire	Secondo la licenza di construzione	Secondo la licenza	16.05.2025
+869	GWAERSCEH1	Gemäss Baubewilligung	Gemäss Baubewilligung	Selon permis de construire	Selon permis de construire	Secondo la licenza di construzione	Secondo la licenza	16.05.2025
+869	GWAERSCEH2	Gemäss Baubewilligung	Gemäss Baubewilligung	Selon permis de construire	Selon permis de construire	Secondo la licenza di construzione	Secondo la licenza	16.05.2025
+869	GWAERSCEW1	Gemäss Baubewilligung	Gemäss Baubewilligung	Selon permis de construire	Selon permis de construire	Secondo la licenza di construzione	Secondo la licenza	16.05.2025
+869	GWAERSCEW2	Gemäss Baubewilligung	Gemäss Baubewilligung	Selon permis de construire	Selon permis de construire	Secondo la licenza di construzione	Secondo la licenza	16.05.2025
+870	GVOLSCE	Gemäss topografischem Landschaftsmodell (TLM)	Gemäss TLM	Selon modèle topographique de paysage MTP	Selon MTP	Secondo il modello topografico del paesaggio MTP	Secondo il MTP	16.05.2025
+870	GWAERSCEH1	Gemäss Versorgungswerk (Gas, Fernwärme)	Gemäss Versorgungswerk	Selon entreprise de distribution (gaz, chaleur à distance)	Selon entreprise de distribution	Secondo l'impresa di erogazione (gas, calore a distanza)	Secondo l'impresa di erogazione	16.05.2025
+870	GWAERSCEH2	Gemäss Versorgungswerk (Gas, Fernwärme)	Gemäss Versorgungswerk	Selon entreprise de distribution (gaz, chaleur à distance)	Selon entreprise de distribution	Secondo l'impresa di erogazione (gas, calore a distanza)	Secondo l'impresa di erogazione	16.05.2025
+870	GWAERSCEW1	Gemäss Versorgungswerk (Gas, Fernwärme)	Gemäss Versorgungswerk	Selon entreprise de distribution (gaz, chaleur à distance)	Selon entreprise de distribution	Secondo l'impresa di erogazione (gas, calore a distanza)	Secondo l'impresa di erogazione	16.05.2025
+870	GWAERSCEW2	Gemäss Versorgungswerk (Gas, Fernwärme)	Gemäss Versorgungswerk	Selon entreprise de distribution (gaz, chaleur à distance)	Selon entreprise de distribution	Secondo l'impresa di erogazione (gas, calore a distanza)	Secondo l'impresa di erogazione	16.05.2025
+871	GWAERSCEH1	Gemäss Minergie	Gemäss Minergie	Selon Minergie	Selon Minergie	Secondo Minergie	Secondo Minergie	16.05.2025
+871	GWAERSCEH2	Gemäss Minergie	Gemäss Minergie	Selon Minergie	Selon Minergie	Secondo Minergie	Secondo Minergie	16.05.2025
+871	GWAERSCEW1	Gemäss Minergie	Gemäss Minergie	Selon Minergie	Selon Minergie	Secondo Minergie	Secondo Minergie	16.05.2025
+871	GWAERSCEW2	Gemäss Minergie	Gemäss Minergie	Selon Minergie	Selon Minergie	Secondo Minergie	Secondo Minergie	16.05.2025
+878	GVOLSCE	Nicht bestimmbares Volumen (nicht geschlossenes Gebäude)	Nicht bestimmbares Volumen	Volume non détérminable (bâtiment non fermé)	Volume non détérminable	Volume non determinabile (edificio non chiuso)	Volume non determinabile	16.05.2025
+901	GKSCE	Amtliche Vermessung, DM.01	AV, DM.01	Mensuration officielle, MD01	MO, MD01	Misurazione ufficiale, DM.01	MU, DM01	16.05.2025
+902	GKSCE	Aus amtlicher Vermessung hergeleitet	AV, hergeleitet	Produites à partir de la mensuration officielle	MO, autres	Derivazione dalla misurazione ufficiale	MU, derivazione	16.05.2025
+903	GKSCE	Angabe Nachführungsgeometer	Geometer	Indication du géomètre conservateur	Géomètre conservateur	Indicazione del geometra revisore	Geometra revisore	16.05.2025
+904	GKSCE	Angabe Baugesuch	Baugesuch	Indication de la demande de permis de construire	Demande permis constr.	Indicazione domanda di costruzione	domanda costruzione	16.05.2025
+905	GKSCE	Bundesamt für Statistik	BFS	Office fédéral de la statistique	OFS	Ufficio federale di statistica	UST	16.05.2025
+906	GKSCE	Datensatz GeoPost	GeoPost	Données de GeoPost	GeoPost	Dati GeoPost	GeoPost	16.05.2025
+909	GKSCE	Andere Datenquelle	Andere Datenquelle	Autre source	Autre source	Altra fonte di dati	Altra fonte di dati	16.05.2025
+961	GVOLNORM	Gemäss SIA-Norm 116	Gemäss SIA-Norm 116	Selon norme SIA 116	Selon norme SIA 116	Secondo la norma SIA 116	Secondo la norma SIA 116	16.05.2025
+962	GVOLNORM	Gemäss SIA-Norm 416	Gemäss SIA-Norm 416	Selon norme SIA 416	Selon norme SIA 416	Secondo la norma SIA 416	Secondo la norma SIA 416	16.05.2025
+969	GVOLNORM	Unbekannt	Unbekannt	Inconnu	Inconnu	Non noto	Non noto	16.05.2025
+9901	STRSP	Deutsch	DE	Allemand	DE	Tedesco	DE	16.05.2025
+9902	STRSP	Rätoromanisch	RM	Romanche	RM	Romancio	RM	16.05.2025
+9903	STRSP	Französisch	FR	Français	FR	Francese	FR	16.05.2025
+9904	STRSP	Italienisch	IT	Italien	IT	Italiano	IT	16.05.2025
