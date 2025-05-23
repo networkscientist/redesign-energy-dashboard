@@ -12,3 +12,16 @@ For a live demo of the result, check out [streamlit cloud](https://redesign-ener
 Furthermore, the team developed a second dashboard, using Microsoft PowerBI. Bear with me; I will go through the respective source code, too, and then upload it or integrate it into the streamlit code.
 
 Stay tuned...
+
+## References
+For transparency, each source the team used is listed below. The date of access is 17.05.2025.
+* [Federal Building Registry GWR](https://opendata.swiss/de/dataset/eidg-gebaude-und-wohnungsregister-energie-warmequelle-heizung)
+	* [Docs Data Access](https://www.housing-stat.ch/de/madd/public.html)
+	* [Docs Attributes](https://www.housing-stat.ch/de/docs/index.html), escpecially the [Code List](https://www.housing-stat.ch/files/Codeliste_Publikation_20240411.xlsx)
+* [Electricity Production Plants](https://opendata.swiss/de/dataset/elektrizitatsproduktionsanlagen)
+	* [Docs Data Model](https://www.bfe.admin.ch/bfe/de/home/versorgung/digitalisierung-und-geoinformation/geoinformation/geodaten/produktionsanlagen/elektrizitaetsproduktionsanlagen.html)
+* [Minergie Buildings](https://opendata.swiss/de/dataset/anzahl-minergie-gebaude-in-gemeinden)
+* [Realised PV Potential in Municipalities](https://opendata.swiss/de/dataset/energie-reporter)
+	* [Docs Methodics](https://energiereporter.energyapps.ch/methodology#heading-solarstrom)
+* [Energy Reporter](https://opendata.swiss/de/dataset/energie-reporter)
+* [Municipalities Canton Bern](https://opendata.swiss/de/dataset/historisiertes-gemeindeverzeichnis-der-schweiz), or directly via [Excel Table With Current Municipalities](https://www.agvchapp.bfs.admin.ch/de) -> `Gemeindestand.xlsx`
