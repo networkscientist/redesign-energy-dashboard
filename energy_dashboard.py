@@ -21,6 +21,14 @@ def load_population():
     return pop_df
 pop_df = load_population()
 
+# --- Load municipality names
+# added by networkscientist to work with pruned building table
+@st.cache_data
+def load_muni_names():
+    return pd.read_csv("gemeindestand_2025_pruned.csv")
+
+df['GGDENAME'] = df.join(load_muni_names().set_index('BFS Gde-nummer'), on='GGDENR')['Gemeindename']
+
 # Keep only 2023 entries
 pop_2023 = pop_df[pop_df["year"] == 2023].copy()
 
