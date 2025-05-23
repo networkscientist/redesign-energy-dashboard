@@ -10,7 +10,7 @@ import matplotlib.dates as mdates
 st.set_page_config(layout="wide")
 @st.cache_data
 def load_data():
-    df = pd.read_csv("gebaeude_batiment_edificio.csv", sep="\t")
+    df = pd.read_csv("gebaeude_batiment_edificio.csv")
     return df
 df = load_data()
 
