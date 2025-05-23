@@ -4,11 +4,11 @@ Readme in [German](docs/README.de.md)
 
 [Data Hackdays BE 2025](https://hack.data-hackdays-be.ch/project/54) [EKDP Platform](https://www.ekdp.apps.be.ch)
 
-Please note: All of the code that will be released into the first release `hackdays.2025.be` has been written by the team of hacking volunteers. They worked on the project during the Data Hackdays BE 2025, using open government data (OGD) and their private computers. I did not write any of the code in that release, but merely removed a few lines that included personal information to protect their privacy. As stated on the hackdays website, the code has already been published under the CC-BY 4.0 Licence. I created this repo so team members can easily get the code.
+Please note: All of the code that was released into the first release [hackdays.2025.be](https://github.com/networkscientist/redesign-energy-dashboard/releases/tag/hackdays.2025.be) has been written by the team of hacking volunteers. They worked on the project during the Data Hackdays BE 2025, using open government data (OGD) and their private computers. I did not write any of the code in that release, but merely removed a few lines that included personal information to protect their privacy. As stated on the hackdays website, the code has already been published under the CC-BY 4.0 Licence. I created this repo so team members can easily get the code.
 
 The same is true for the data used in the dashboard. All of it has already been published as OGD and been documented on opendata.swiss, along with the respective licences. While I provided the team with directions where they could find these OGD, it was left to them to transform it into a useful format. Since Github does not allow file uploads larger than 25 MB, I kicked out some unnecessary columns from the GWR building registry file.
 
-For a live demo of the result, check out [streamlit cloud](https://redesign-energy-dashboard.streamlit.app/). Perhaps, there will be development on the repo in the future. The initial contribution by the hackers, however, will still be available under the tag `hackdays.2025.be`.
+For a live demo of the result, check out [streamlit cloud](https://redesign-energy-dashboard.streamlit.app/). Perhaps, there will be development on the repo in the future. The initial contribution by the hackers, however, will still be available under the tag [hackdays.2025.be](https://github.com/networkscientist/redesign-energy-dashboard/releases/tag/hackdays.2025.be).
 
 Furthermore, the team developed a second dashboard, using Microsoft PowerBI. Bear with me; I will go through the respective source code, too, and then upload it or integrate it into the streamlit code.
 
