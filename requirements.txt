@@ -2,4 +2,4 @@ pandas==2.2.2
 streamlit==1.45.1
 streamlit-highcharts==0.2.0
 streamlit_report==0.0.3
-matplotlib==3.6.0
+matplotlib
