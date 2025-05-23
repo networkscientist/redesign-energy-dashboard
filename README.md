@@ -9,4 +9,6 @@ The same is true for the data used in the dashboard. All of it has already been 
 
 For a live demo of the result, check out [streamlit cloud](https://redesign-energy-dashboard.streamlit.app/). Perhaps, I might also add or alter code in the future. The initial contribution by the hackers, however, will still be available under the tag `hackdays.2025.be`.
 
+Furthermore, the team developed a second dashboard, using Microsoft PowerBI. Bear with me; I will go through the respective source code, too, and then upload it or integrate it into the streamlit code.
+
 Stay tuned...
