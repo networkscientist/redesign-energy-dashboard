@@ -1,0 +1,17 @@
+[project]
+name = "redesign-energy-dashboard"
+version = "0.0.1"
+license = "cc-by-4.0"
+description = "Energy dashboard redesign, as originally developed during Data Hackdays BE 2025 by the team of hackers."
+readme = "README.md"
+requires-python = "==3.9"
+keywords = ["python", "streamlit", "ui", "data", "energy", "dashboard", "bern"]
+dependencies = [
+    "matplotlib",
+    "pandas",
+    "streamlit
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
