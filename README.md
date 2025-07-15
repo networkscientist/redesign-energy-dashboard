@@ -24,3 +24,6 @@ For transparency, each source the team used is listed below. The date of access 
 	* [Docs Methodics](https://energiereporter.energyapps.ch/methodology#heading-solarstrom)
 * [Energy Reporter](https://opendata.swiss/de/dataset/energie-reporter)
 * [Municipalities Canton Bern](https://opendata.swiss/de/dataset/historisiertes-gemeindeverzeichnis-der-schweiz), or directly via [Excel Table With Current Municipalities](https://www.agvchapp.bfs.admin.ch/de) -> `Gemeindestand.xlsx`
+
+## Credits
+[Phuong Dasen](https://github.com/PhuongDasen/PhuongDasen)
