@@ -26,4 +26,5 @@ For transparency, each source the team used is listed below. The date of access 
 * [Municipalities Canton Bern](https://opendata.swiss/de/dataset/historisiertes-gemeindeverzeichnis-der-schweiz), or directly via [Excel Table With Current Municipalities](https://www.agvchapp.bfs.admin.ch/de) -> `Gemeindestand.xlsx`
 
 ## Credits
+Thanks goes to all the contributors, amongst whom there are:
 [Phuong Dasen](https://github.com/PhuongDasen/PhuongDasen)
